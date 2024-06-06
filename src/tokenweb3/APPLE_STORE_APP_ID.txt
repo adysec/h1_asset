@@ -1,0 +1,3 @@
+com.token.ios
+io.tokencard.app.ios
+lt.tokencard.monolith-ios

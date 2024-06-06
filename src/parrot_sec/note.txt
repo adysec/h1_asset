@@ -1,0 +1,1 @@
+20423	https://hackerone.com/parrot_sec	Parrot Sec	parrot_sec

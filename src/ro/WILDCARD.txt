@@ -1,0 +1,14 @@
+http://*.ro.co
+http://*.getroman.com
+http://*.ropharmacy.com
+http://*.hellorory.com
+http://*.modernfertility.com
+http://*.myplenity.com
+*.ro.co
+*.getroman.com
+*.ropharmacy.com
+*.hellorory.com
+*.modernfertility.com
+*.myplenity.com
+https://*.kit.com
+*.kit.ro.co

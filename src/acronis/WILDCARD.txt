@@ -1,0 +1,10 @@
+http://*-api-*.acronis.com
+http://*.acronis.com
+http://*.5nine.com
+http://*.devicelock.com
+http://*.acronis.work
+*-api-*.acronis.com
+*.acronis.com
+*.5nine.com
+*.devicelock.com
+*.acronis.work

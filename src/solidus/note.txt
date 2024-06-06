@@ -1,0 +1,1 @@
+40756	https://hackerone.com/solidus	Solidus	solidus

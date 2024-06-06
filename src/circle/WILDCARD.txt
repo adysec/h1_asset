@@ -1,0 +1,4 @@
+http://*.circle.com
+http://*.cybavo.com
+*.circle.com
+*.cybavo.com

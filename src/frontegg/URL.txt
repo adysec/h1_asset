@@ -1,0 +1,2 @@
+api.au.frontegg.com
+portal.au.frontegg.com

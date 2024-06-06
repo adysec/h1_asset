@@ -1,0 +1,4 @@
+*.test.mattermost.cloud
+*.mattermost.com
+h1-*your-own-instance*.cloud.mattermost.com
+customers.mattermost.com

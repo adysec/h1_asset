@@ -1,0 +1,3 @@
+*.shein.com
+*.romwe.com
+*.sheingsp.com

@@ -1,0 +1,8 @@
+socialclub.rockstargames.com
+prod.ros.rockstargames.com
+support.rockstargames.com
+*.rockstargames.com
+lifeinvader.com
+rockstarnorth.com
+store.rockstargames.com
+circolocorecords.com/

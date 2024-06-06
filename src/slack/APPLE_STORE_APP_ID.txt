@@ -1,0 +1,3 @@
+com.tinyspeck.chatlyio
+com.slack.slackmdm
+647922896

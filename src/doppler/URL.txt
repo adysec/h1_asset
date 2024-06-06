@@ -1,0 +1,4 @@
+doppler.team
+api.doppler.com
+dashboard.doppler.com
+share.doppler.com

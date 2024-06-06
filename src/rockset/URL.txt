@@ -1,0 +1,4 @@
+console.rockset.com
+docs.rockset.com
+api.*.rockset.com
+rockset.com

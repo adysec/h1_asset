@@ -1,0 +1,12 @@
+http://terra-*.indriverapp.com
+http://intercity-*.eu-east-1.indriverapp.com
+http://*.indriverapp.com
+http://*.indriver.com
+http://*.indrive.com
+terra-*.indriverapp.com
+intercity-*.eu-east-1.indriverapp.com
+*.indriverapp.com
+*.indriver.com
+*.indrive.com
+https://*.indriver.io
+https://*.indriverjob.com

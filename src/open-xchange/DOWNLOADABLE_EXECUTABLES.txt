@@ -1,0 +1,2 @@
+https://repo.powerdns.com
+https://repo.dovecot.org

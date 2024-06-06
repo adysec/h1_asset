@@ -1,0 +1,6 @@
+nlaolsrvq02.mtn.co.za:8006/rest/atg/v1/device/mtnsite
+portals-preprod.mtn.co.za:443
+mtnid-preprod.mtn.co.za:443
+http://nlaussrvu01:9982/
+http://jhmcgwrva01:8080
+http://flaeblrvd09:15002/ebilling-qa-ui/-1   

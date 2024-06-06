@@ -1,0 +1,11 @@
+assets.spotify.com
+*.spotify.com
+api.spotify.com
+*.spotify.net
+*.spotifyforbrands.com
+backstage.io
+api.sonantic.io
+app.sonantic.io
+label-studio-public.sonantic.io
+heardle.app
+everynoise.com

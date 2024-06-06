@@ -1,0 +1,1 @@
+Our infrastructure hosted in Azure Cloud

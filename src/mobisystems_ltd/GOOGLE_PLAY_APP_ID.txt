@@ -1,0 +1,3 @@
+com.mobisystems.office
+com.mobisystems.fileman
+com.mobisystems.msdict.embedded.wireless.oxford.dictionaryofenglish

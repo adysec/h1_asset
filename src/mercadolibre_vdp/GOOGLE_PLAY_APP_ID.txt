@@ -1,0 +1,4 @@
+com.mercadopago.wallet
+com.mercadolibre
+com.mercadoenvios.crowdsourcing
+com.mercadoenvios.driver

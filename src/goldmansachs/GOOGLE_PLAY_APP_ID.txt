@@ -1,0 +1,6 @@
+com.marcus.android.uk
+com.marcus.android
+com.gs.pwmdigital.external.android
+com.gs.pfmg.wellness
+com.gs.mobile.trader
+com.gs.mobile.gsnow

@@ -1,0 +1,4 @@
+osd.myndr.nl
+*.myndr.net
+www.myndr.nl
+*.myndr.nl

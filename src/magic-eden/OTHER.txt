@@ -1,0 +1,6 @@
+*.magiceden.io
+*.magiceden.dev
+*.coralcube.io
+*.magiceden.workers.dev
+Magic Eden Wallet (Chrome Extension)
+Magic Eden ETH Marketplace (NEW)

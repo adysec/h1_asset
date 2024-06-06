@@ -1,0 +1,2 @@
+argocd.upchieve.org
+hackers.upchieve.org

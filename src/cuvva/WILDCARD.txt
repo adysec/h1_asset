@@ -1,0 +1,2 @@
+http://*.cuv-prod.app
+*.cuv-prod.app

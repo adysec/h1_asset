@@ -1,0 +1,11 @@
+api.zellepay.com
+api.zmsp.earlywarning.com
+platformtest.cat.earlywarning.io
+https://mywallet-management-east.wallet.cat.earlywarning.io/
+https://mywallet-management-west.wallet.cat.earlywarning.io/
+https://sandbox.digitalwallet.earlywarning.com
+earlywarningapi.force.com
+zellepay.force.com
+zelleservice.my.site.com
+ews-fusion.my.site.com
+platform.cat.earlywarning.io

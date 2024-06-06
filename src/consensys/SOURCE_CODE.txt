@@ -1,0 +1,8 @@
+https://github.com/trufflesuite/truffle
+https://github.com/trufflesuite/ganache
+https://github.com/trufflesuite/trufflesuite.com
+https://github.com/trufflesuite/ganache-ui
+https://github.com/trufflesuite/vscode-ext
+https://github.com/trufflesuite/preserves
+https://github.com/trufflesuite/drizzle
+https://github.com/trufflesuite/drizzle-utils

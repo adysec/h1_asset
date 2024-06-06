@@ -1,0 +1,8 @@
+www.casper.com
+bedpost.casper.com
+operator.casper.tools
+casper.com/admin
+casper.com
+legacy.casper.com/admin
+legacy.casper.com
+http://legacy.casper.com/admin

@@ -1,0 +1,2 @@
+com.nu.production
+br.com.easynvest.rendafixa

@@ -1,0 +1,5 @@
+your-store.vendhq.com
+secure.vendhq.com
+developers.vendhq.com
+www.vendhq.com
+payment-connectors.vendhq.com

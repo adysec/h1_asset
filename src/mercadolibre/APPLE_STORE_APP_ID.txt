@@ -1,0 +1,2 @@
+com.mercadopago.MercadoPago
+com.3mosquitos.MercadoLibre

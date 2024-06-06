@@ -1,0 +1,3 @@
+api.production.tkn.zone
+kyc-events.production.tkn.zone
+card-onboarding.production.tkn.zone

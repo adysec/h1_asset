@@ -1,0 +1,12 @@
+www.zendesk.com
+developer.zendesk.com
+h1-your-domain.zendesk.com
+apps.zendesk.com
+app.smooch.io
+api.smooch.io
+smooch.io
+zopim.com
+app.futuresimple.com
+api.getbase.com
+h1-your-domain.zendesk.com/sell
+http://h1-your-domain.zendesk.com/sell

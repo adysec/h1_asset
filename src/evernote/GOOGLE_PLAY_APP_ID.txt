@@ -1,0 +1,2 @@
+com.evernote.android
+com.evernote

@@ -1,0 +1,8 @@
+WordPress Core
+BuddyPress Core
+BBPress Core
+*.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
+Gutenberg
+GlotPress
+WP-CLI
+Official WordPress plugins

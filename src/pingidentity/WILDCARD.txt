@@ -1,0 +1,12 @@
+http://ort-admin.pingone.com/*
+http://console-staging.pingone.com/*
+http://api-staging.pingone.com/*
+http://apps-staging.pingone.com/*
+http://ort-authenticator.pingone.com/*
+http://ort-desktop.pingone.com/*
+https://ort-admin.pingone.com/*
+https://console-staging.pingone.com/*
+https://api-staging.pingone.com/*
+https://apps-staging.pingone.com/*
+https://ort-authenticator.pingone.com/*
+https://ort-desktop.pingone.com/*

@@ -1,0 +1,1 @@
+55484	https://hackerone.com/ziff-davis	Ziff Davis	ziff-davis

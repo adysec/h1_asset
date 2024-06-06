@@ -1,0 +1,3 @@
+Subdomain takeover
+*.opensource.epam.com
+Disclosure of the credentials or confidential information

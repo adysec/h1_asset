@@ -1,0 +1,2 @@
+http://*.smule.com
+*.smule.com

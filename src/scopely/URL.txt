@@ -1,0 +1,3 @@
+*.scopely.io
+*.scopely.com
+*.withbuddies.com

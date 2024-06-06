@@ -1,0 +1,16 @@
+*.capitalone.com
+*.paribus.co
+*.capitalone360.com
+*.wikibuy.com
+*.capitalone.ca
+*.capitalone.co.uk
+*.capitalonebank.com
+*.bluetarp.com
+*.unitedincome.com
+*.usejewel.com
+*.luma.co.uk
+*.capitalonecareers.co.uk
+*.capitalonecards.com
+*.theunioncard.com
+*.teamstercardnow.com
+*.capitaloneshopping.com

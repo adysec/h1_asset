@@ -1,0 +1,4 @@
+http://*.pubg.com
+http://*.pubgesports.com
+*.pubg.com
+*.pubgesports.com

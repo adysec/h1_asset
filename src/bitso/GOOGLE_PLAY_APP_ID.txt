@@ -1,0 +1,2 @@
+com.bitso.wallet
+com.bitso.alpha

@@ -1,0 +1,14 @@
+*.epam.com
+*.infongen.com
+access.epam.com
+cloud.epam.com
+anywhere.epam.com
+examinator.epam.com
+training.epam.com
+*.lab.epam.com
+*.projects.epam.com
+*.emakina.group
+*.emakina.com
+*.emakina.ch
+*.emakina.fr
+*.emakina.us

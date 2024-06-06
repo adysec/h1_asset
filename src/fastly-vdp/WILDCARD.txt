@@ -1,0 +1,6 @@
+http://*.fastly.com
+http://*.signalsciences.com
+http://*.fanout.io
+https://*.fastly.com/
+*.signalsciences.com
+*.fanout.io

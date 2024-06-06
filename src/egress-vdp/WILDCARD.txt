@@ -1,0 +1,3 @@
+*.defend.egress.com
+*.esi.egress.com
+*.reader.egress.com

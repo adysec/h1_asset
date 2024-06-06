@@ -1,0 +1,11 @@
+http://*.fanduel.com
+http://*racing.fanduel.com
+*.fanduel.com
+*racing.fanduel.com
+*.east.fdbox.net
+*.prod.fdbox.net
+*.mgmt.fndlsb.net
+*.prd.fndlsb.net
+*inf.fndlsb.net
+*.numberfire.com
+*.canada.fanduel.com

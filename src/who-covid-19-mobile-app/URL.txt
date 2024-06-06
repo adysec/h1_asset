@@ -1,0 +1,2 @@
+hack.whocoronavirus.org
+*.whocoronavirus.org

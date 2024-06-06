@@ -1,0 +1,6 @@
+http://connect.lumiradx.com/*
+http://inrstar-it.caresolutions.lumiradx.com/*
+http://inrstar-ie.caresolutions.lumiradx.com/*
+https://connect.lumiradx.com/*
+https://inrstar-it.caresolutions.lumiradx.com/*
+https://inrstar-ie.caresolutions.lumiradx.com/*

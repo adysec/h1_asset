@@ -1,0 +1,10 @@
+accounts.shi.com
+api.shi.com
+apiconsole.shi.com
+assetinsights.shi.com
+durango.shi.com
+renewalreminder.shi.com
+servicepro.shi.com
+www.content.shi.com
+www.shi.com
+https://www.cxmlorderservice.shi.com/cxmlorderreceiptservice/cxmlorderreceiptservice.svc

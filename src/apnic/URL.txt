@@ -1,0 +1,14 @@
+*.apnic.net
+*.apnic.foundation
+*.isif.asia
+*.seedalliance.net
+*.apidt.org
+orbit.apnic.net
+ftp.apnic.net
+stats.labs.apnic.net
+aso.apnic.net
+nori.apnic.net
+rsync.apnic.net
+registry-testbed.apnic.net
+rpki.apnic.net
+submission.apnic.net

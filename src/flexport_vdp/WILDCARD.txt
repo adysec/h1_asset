@@ -1,0 +1,4 @@
+http://*.flexport.com
+http://*.transmissionapp.com
+*.flexport.com
+*.transmissionapp.com

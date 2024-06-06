@@ -1,0 +1,2 @@
+node.e2ro.com/*
+api-user.e2ro.com/*

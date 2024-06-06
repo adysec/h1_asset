@@ -1,0 +1,15 @@
+*.realogy.*
+*.bhgre.*
+*.century21.*
+*.coldwellbanker.*
+*.cbcworldwide.*
+*.corcoran.*
+*.era.*
+*.sothebysrealty.*
+*.nrtllc.*
+*.trgc.com
+*.leadrouter.com
+*.cartus.*
+*.mycbdesk.com
+new.myzap.com
+*.era.com

@@ -1,0 +1,4 @@
+sandbox.fireblocks.io
+http://sb-mobile-api.fireblocks.io
+http://sb-console-api.fireblocks.io
+http://sandbox-api.fireblocks.io

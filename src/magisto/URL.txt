@@ -1,0 +1,4 @@
+magisto.com,www.magisto.com
+*.magisto.com
+staging.magisto.com
+applause1.magisto.com

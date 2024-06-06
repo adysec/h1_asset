@@ -1,0 +1,2 @@
+*.sprint.dynatracelabs.com
+*.sprint.apps.dynatracelabs.com

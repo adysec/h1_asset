@@ -1,0 +1,10 @@
+cnztech.com
+www.hudapp.com
+https://prod-cloud.hookupdating.mobi/
+https://prod-realtime.hookupdating.mobi/
+https://cdn.hookupdating.mobi/
+https://console.huddatingapp.com/
+prod-cloud.hookupdating.mobi
+prod-realtime.hookupdating.mobi
+cdn.hookupdating.mobi
+console.huddatingapp.com

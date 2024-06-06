@@ -1,0 +1,2 @@
+com.nicehash.mobile
+com.nicehash.NiceX

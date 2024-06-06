@@ -1,0 +1,4 @@
+app.strongdm.com
+api.strongdm.com
+*.sdm.network
+www.strongdm.com

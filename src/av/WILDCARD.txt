@@ -1,0 +1,4 @@
+http://*.av.ru
+http://*.azbukavkusa.ru
+*.av.ru
+*.azbukavkusa.ru

@@ -1,0 +1,6 @@
+www.bmw.de
+www.mini.de
+www.bmw-motorrad.de
+configure.bmw.de
+configure.mini.de
+konfigurator.bmw-motorrad.de

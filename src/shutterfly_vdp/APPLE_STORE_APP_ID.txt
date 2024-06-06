@@ -1,0 +1,3 @@
+com.shutterfly.ShutterflyUploader
+Snapfish: Photos Cards & Books / com.hp.Snapfish
+Snapfish Photo Tile Wall Decor / com.snapfish-llc.SnapfishExpress

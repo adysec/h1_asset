@@ -1,0 +1,2 @@
+com.lifeomic.lifefasting
+com.lifeomic.lifeextend

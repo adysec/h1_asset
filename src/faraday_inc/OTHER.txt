@@ -1,0 +1,2 @@
+s3://faraday-uploads
+s3://faraday-secret

@@ -1,0 +1,7 @@
+app.smartsheet.com
+api.smartsheet.com/2.0
+admin.smartsheet.com
+help.smartsheet.com
+developers.smartsheet.com
+http://api.smartsheet.com/2.0
+www.smartsheet.com

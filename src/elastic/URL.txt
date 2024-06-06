@@ -1,0 +1,11 @@
+www.elastic.co
+cloud.elastic.co
+*.elastic.co
+elasticsearch-ci.elastic.co
+*.found.io
+*.swiftype.com
+*.elstc.co
+*.elasticnet.co
+*.eops.nl
+*.elastic-cloud.com
+elastic-cloud.com

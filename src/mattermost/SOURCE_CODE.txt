@@ -1,0 +1,17 @@
+mattermost/mattermost-server
+mattermost/mattermost-webapp
+mattermost/mattermost-mobile
+mattermost/mattermost-redux
+mattermost/desktop
+mattermost/mattermost-push-proxy
+mattermost/mattermost-plugin-jira
+mattermost/mattermost-plugin-zoom
+mattermost/mattermost-plugin-github
+mattermost/mattermost-plugin-autolink
+mattermost/mattermost-plugin-welcomebot
+mattermost/mattermost-plugin-custom-attributes
+mattermost/mattermost-plugin-aws-SNS
+mattermost/mattermost-plugin-playbooks
+Mattermost Source Code
+Mattermost Plugins
+Other publicly-released plugins

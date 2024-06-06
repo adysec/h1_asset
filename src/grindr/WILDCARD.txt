@@ -1,0 +1,8 @@
+http://*.grindr.io
+http://*.grindr.com
+http://*.grindr.mobi
+http://*.dev.grindr.io
+*.grindr.io
+*.grindr.com
+*.grindr.mobi
+*.dev.grindr.io

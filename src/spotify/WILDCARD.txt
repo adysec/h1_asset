@@ -1,0 +1,11 @@
+http://*.spotify.com
+http://*.spotify.net
+http://*.spotifyforbrands.com
+*.withspotify.com
+*.byspotify.com
+*.atspotify.com
+*.avecspotify.com
+*.enspotify.com
+*.forspotify.com
+*.fromspotify.com
+*.tospotify.com

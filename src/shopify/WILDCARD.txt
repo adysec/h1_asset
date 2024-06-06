@@ -1,0 +1,8 @@
+http://*.shopify.com
+http://*.shopifykloud.com
+http://*.shopifycloud.com
+*.shopify.com
+*.shopifykloud.com
+*.shopifycloud.com
+*.shopifycs.com
+*.shopify.io

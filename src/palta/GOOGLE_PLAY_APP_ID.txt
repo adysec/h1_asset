@@ -1,0 +1,3 @@
+life.simple
+com.lensa.app
+coach.zing.fitness

@@ -1,0 +1,14 @@
+https://coda.io/*
+https://coda.io/signup/email
+codahosted.io
+codacontent.io
+https://airflow-prod.coda.io/*
+https://data.coda.io/*
+https://head.coda.io/*
+https://infra.coda.io/*
+https://airflow-prod.ops.coda.io/*
+https://shiny.ops.coda.io/*
+https://staging.coda.io/*
+https://user-profile-prod.coda.io/*
+https://*.coda.io/*
+https://user-profile-test.coda.io/*

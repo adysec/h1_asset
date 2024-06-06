@@ -1,0 +1,6 @@
+http://*.scopely.io
+http://*.scopely.com
+http://*.withbuddies.com
+*.scopely.io
+*.scopely.com
+*.withbuddies.com

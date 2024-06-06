@@ -1,0 +1,3 @@
+*.nordvpn.com
+cloud.nordlocker.com
+app.nordpass.com

@@ -1,0 +1,6 @@
+*.grindr.io
+*.grindr.com
+*.grindr.mobi
+*.dev.grindr.io
+preprod1.grindr.com
+web.grindr.com

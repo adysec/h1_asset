@@ -1,0 +1,6 @@
+http://*.gitlab.net
+http://*.gitlab.org
+http://*.gitlap.com
+*.gitlab.net
+*.gitlab.org
+*.gitlap.com

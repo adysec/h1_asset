@@ -1,0 +1,12 @@
+www.priceline.com
+secure.rezserver.com
+reservations.rezserver.com
+cruises.priceline.com
+api.rezserver.com
+admin.rezserver.com
+www.bookingholdings.com
+www.priceline.com*
+www.getaroom.com
+press.priceline.com
+flyiin.com
+priceline.com

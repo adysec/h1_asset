@@ -1,0 +1,2 @@
+com.tego
+com.zegocover.zego

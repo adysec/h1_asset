@@ -1,0 +1,10 @@
+api.tumblr.com
+safe.tumblr.com
+secure.tumblr.com
+assets.tumblr.com
+embed.tumblr.com
+*.tumblr.com
+www.tumblr.com
+t.umblr.com
+*.srvcs.tumblr.com
+*.txmblr.com

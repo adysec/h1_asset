@@ -1,0 +1,10 @@
+http://www.glassdoor.com/*
+http://api.glassdoor.com/*
+http://help.glassdoor.com/*
+https://*.glassdoor.com/*
+https://www.glassdoor.com/*
+https://api.glassdoor.com/*
+https://help.glassdoor.com/*
+https://www.fishbowlapp.com/*
+https://api.fishbowlapp.com/*
+https://design.glassdoor.com/*

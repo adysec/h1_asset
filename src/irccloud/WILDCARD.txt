@@ -1,0 +1,4 @@
+http://*.irccloud-cdn.com
+http://*.irccloud.com
+*.irccloud-cdn.com
+*.irccloud.com

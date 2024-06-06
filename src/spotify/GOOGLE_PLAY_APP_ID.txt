@@ -1,0 +1,9 @@
+com.spotify.tv.android
+com.spotify.s4a
+com.soundtrap.studioapp
+com.spotify.music
+com.spotify.zerotap
+com.spotify.lite
+com.spotify.kids
+fm.anchor.android
+io.bettylabs.disco

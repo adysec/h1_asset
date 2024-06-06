@@ -1,0 +1,11 @@
+Other Amazon Retail Sites
+Other Amazon Retail Mobile Apps
+Amazon Retail Subsidiaries
+Other Amazon Retail Assets (if you are not sure about the asset scope, please use this one)
+Other Amazon Retail Sites (Please only actively test explicitly stated scope)
+Other Amazon Retail Mobile Apps (Please only actively test explicitly stated scope)
+Amazon Retail Subsidiaries (Please only actively test explicitly stated scope)
+Other Amazon Retail Assets (Please only actively test explicitly stated scope)
+www.amazon.in specific areas of note
+https://www.amazonpay.in/*
+Amazon Subsidiaries (Please only actively test explicitly stated scope)

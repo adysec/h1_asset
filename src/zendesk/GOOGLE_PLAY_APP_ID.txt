@@ -1,0 +1,3 @@
+com.zendesk.android
+com.zopim.android
+com.futuresimple.base

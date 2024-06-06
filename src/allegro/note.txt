@@ -1,0 +1,1 @@
+37660	https://hackerone.com/allegro	Allegro	allegro

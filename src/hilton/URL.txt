@@ -1,0 +1,15 @@
+hilton.com
+hilton.io
+hilton.com.tr
+hiltonbusinessonline.com
+hiltonhawaiianvillage.jp
+hiltonjapan.co.jp
+hiltonmanage.com
+hiltonlocalbiz.com
+*.hilton.com
+*.hilton.io
+*.hilton.com.tr
+*.hiltonbusinessonline.com
+*.hiltonjapan.co.jp
+*.hiltonmanage.com
+hiltonhotels.jp

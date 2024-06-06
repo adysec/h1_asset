@@ -1,0 +1,3 @@
+canadagoose.com
+service.canadagoose.com
+api.canadagoose.com

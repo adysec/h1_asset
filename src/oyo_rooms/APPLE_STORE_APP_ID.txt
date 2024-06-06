@@ -1,0 +1,7 @@
+com.oyo.oyo-ios
+com.belvilla.rental
+com.oyo.partnerapp
+com.oyo.campus
+com.oyo.maestro
+work.innov8.mobilecowork
+com.oyorooms.weddingz.content

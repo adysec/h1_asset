@@ -1,0 +1,2 @@
+com.lumiradx.connect
+com.lumiradxcaresolutions.engage

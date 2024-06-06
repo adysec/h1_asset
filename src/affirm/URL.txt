@@ -1,0 +1,13 @@
+https://hackerone.affirm-odin.com
+https://dashboard.dev.return.ly
+https://TEST-STORE-SUBDOMAIN.dev.return.ly
+https://direct-hackerone.affirm-odin.com/
+https://vcn-hackerone.affirm-odin.com/
+http://dashboard.returnly.com/
+https://TEST-STORE-SUBDOMAIN.returnly.com/
+hackerone.affirm-odin.com
+direct-hackerone.affirm-odin.com
+vcn-hackerone.affirm-odin.com
+helpcenter.affirm.ca
+helpcenter.affirm.com
+sandbox.affirm.com

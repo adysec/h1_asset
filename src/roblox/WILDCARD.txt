@@ -1,0 +1,8 @@
+http://*.roblox.com
+http://*.rbx.com
+http://*.guilded.gg
+http://*.ra.roblox.com
+*.roblox.com
+*.rbx.com
+*.guilded.gg
+*.ra.roblox.com

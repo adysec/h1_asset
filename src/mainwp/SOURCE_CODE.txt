@@ -1,0 +1,2 @@
+https://github.com/mainwp/mainwp
+https://github.com/mainwp/mainwp-child

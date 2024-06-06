@@ -1,0 +1,17 @@
+my.ro.co
+login.ro.co
+start.ro.co
+*.ro.co
+ro.co/pharmacy
+ro.co/mind
+ro.co/derm
+ro.co/spermkit
+*.getroman.com
+*.ropharmacy.com
+*.hellorory.com
+*.modernfertility.com
+*.myplenity.com
+http://ro.co/pharmacy
+http://ro.co/mind
+http://ro.co/derm
+http://ro.co/spermkit

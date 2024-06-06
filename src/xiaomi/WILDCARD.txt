@@ -1,0 +1,10 @@
+http://*.mi.com
+http://*.xiaomi.com
+http://*.miui.com
+http://*.xiaomiyoupin.com
+http://*.miwifi.com
+*.mi.com
+*.xiaomi.com
+*.miui.com
+*.xiaomiyoupin.com
+*.miwifi.com

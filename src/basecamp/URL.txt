@@ -1,0 +1,4 @@
+3.basecamp.com
+launchpad.37signals.com
+*.hey.com
+world.hey.com

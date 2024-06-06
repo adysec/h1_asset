@@ -1,0 +1,12 @@
+http://*.goteleport.com
+http://*.gravitational.com
+http://*.teleport.dev
+http://*.teleportinfra.sh
+http://*.gravitational.co
+http://*.gravitational.io
+*.goteleport.com
+*.gravitational.com
+*.teleport.dev
+*.teleportinfra.sh
+*.gravitational.co
+*.gravitational.io

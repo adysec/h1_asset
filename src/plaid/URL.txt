@@ -1,0 +1,11 @@
+production.plaid.com
+dashboard.plaid.com
+cdn.plaid.com
+my.plaid.com
+secure.quovo.com
+app.quovo.com
+secure.plaid.com
+demo.plaid.com
+plaid.com
+manage.blockscore.com
+api.blockscore.com

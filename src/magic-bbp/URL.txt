@@ -1,0 +1,8 @@
+api.fortmatic.com
+x2.fortmatic.com
+auth.magic.link
+dashboard.magic.link
+api.magic.link
+dashboard.fortmatic.com
+fortmatic.com
+careers.fortmatic.com

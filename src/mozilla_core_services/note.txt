@@ -1,0 +1,2 @@
+61236	https://hackerone.com/mozilla_core_services	Mozilla Core Services	mozilla_core_services
+61236	https://hackerone.com/mozilla_core_services	Mozilla	mozilla_core_services

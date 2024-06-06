@@ -1,0 +1,6 @@
+http://*.grammarly.io
+http://*.grammarlyaws.com
+http://*.grammarly.com
+*.grammarly.io
+*.grammarlyaws.com
+*.grammarly.com

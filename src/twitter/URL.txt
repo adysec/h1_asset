@@ -1,0 +1,11 @@
+*.twitter.com
+*.vine.co
+*.periscope.tv
+*.pscp.tv
+*.twimg.com
+gnip.com
+niche.co
+snappytv.com
+twitterflightschool.com
+t.co
+x.com

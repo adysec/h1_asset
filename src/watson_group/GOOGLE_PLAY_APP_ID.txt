@@ -1,0 +1,22 @@
+Superdrug.App.Android
+ICIParisXL.App.Android
+ThePerfumeShop.App.Android
+Marionnaud.Italy.Android
+Marionnaud.Switzerland.Android
+Marionnaud.Romania.Android
+Marionnaud.Austria.Android
+PNS.HongKong.Android
+MoneyBack.HongKong.Android
+Kruidvat.Belgium.Android
+Kruidvat.Netherlands.Android
+ Watsons.TaiWan.Android
+Fortress.HongKong.Android
+Watsons.HongKong.Android
+Watsons.Indonesia.Android
+Watsons.Malaysia.Android
+Watsons.Philippines.Android
+Watsons.Singapore.Android
+Watsons.Thailand.Android
+Superdrug.Healthera.App.Android
+Marionnaud.France.Android
+Watsons.Turkey.Android

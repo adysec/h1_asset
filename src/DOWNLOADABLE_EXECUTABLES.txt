@@ -1,0 +1,242 @@
+https://download.krisp.ai/win
+https://download.krisp.ai/mac
+406056744
+FortniteClient-Win64-Shipping.exe
+FortniteLauncher-Win64-Shipping.exe
+FortniteLauncher-Win64-Shipping_BE.exe
+FortniteLauncher-Win64-Shipping_EAC.exe
+FortniteLauncher.exe
+EOS C# SDK
+Cardano-Node
+Cardano-Wallet
+doppler
+Windows OS Executable: Download here https://www.larksuite.com/download
+Mac OS Executable: Download here https://www.larksuite.com/download
+Exodus Desktop Wallet
+basecamp3.exe
+Basecamp.app
+HEY.app
+hey-mail
+Streamlabs Desktop Application PC/MAC
+Logitech Sync
+Logi Tune PC/MAC
+Other Logitech Desktop and Mobile Application
+Harmony Remote Software
+G Hub
+Logitech Options PC/MAC
+Logi Options+ PC/MAC
+Acronis Agent
+Acronis Cyber Protect
+Acronis Cyber Protect Home Office (formerly Acronis True Image)
+Acronis DeviceLock DLP
+Acronis Snap Deploy
+https://mackeeper.com/mk/download/?ref=hackerone
+HCL AppScan
+HCL BigFix
+HCL Commerce
+HCL Connections
+HCL Digital Experience (Portal & Content Manager)
+HCL Domino
+HCL Notes
+HCL Sametime
+HCL Unica
+HCL Verse
+HCL Clara
+HCL HERO
+HCL Atlas
+HCL Design Room Live!
+HCL Forms
+HCL Informix
+HCL Informix on Cloud
+HCL Integration Platform (HIP)
+HCL Leap
+HCL OneTest
+HCL One Test Embedded
+HCL RealTime Software Tooling (RTist)
+HCL Terminal Enterprise Access (TEA)
+HCL UrbanCode Deploy
+HCL UrbanCode Velocity
+HCL Workload Automation (HWA)
+HCL Workload Automation on AWS
+HCL Z Asset Optimizer 
+HCL Z Data Tools
+Roblox Client
+Roblox Studio
+Virtual Office Desktop
+DSE, Opscenter
+NordVPN - Windows Executable
+NordVPN - MacOS Executable
+NordVPN - Linux Executable
+NordPass - Windows Executable
+NordPass - MacOS Executable
+NordPass - Linux Executable
+NordLocker - MacOS Executable
+NordLocker - Windows Executable
+Windows Executable
+Suspected Java Component
+Grammarly Editor for MacOS
+Grammarly Editor for Windows
+Grammarly for Microsoft Word
+Grammarly Desktop for Windows
+Grammarly Desktop for macOS
+steam.exe
+csgo.exe
+dota2.exe
+tf2.exe
+hl.exe
+Infrastructure agents
+Go agent
+Node.js agent
+Ruby agent
+Unity agent
+PHP agent
+.NET agent
+.NET Core agent
+Java agent
+Python agent
+Browser agent
+Android agent
+iOS agent
+https://github.com/bitwarden/desktop/releases/latest
+https://github.com/bitwarden/cli/releases/latest
+Spotify desktop application (Windows and Mac)
+https://www.dashlane.com/fr/directdownload-v2?os=none&platform=website&target=archive_win
+https://www.dashlane.com/fr/directdownload-v2?os=OS_X_10_12_6&platform=website&target=launcher_macosx
+Rockstar Games Launcher
+Burp Collaborator
+Burp Suite Enterprise Edition
+Burp Suite Pro/Community
+Burp Suite Extension (BApps)
+https://laptop-updates.brave.com/latest/osx
+https://laptop-updates.brave.com/latest/winx64
+https://laptop-updates.brave.com/latest/winia32
+https://laptop-updates.brave.com/latest/dev/debian64
+https://laptop-updates.brave.com/latest/dev/ubuntu64
+https://laptop-updates.brave.com/latest/mint64
+https://laptop-updates.brave.com/latest/fedora64
+https://laptop-updates.brave.com/latest/openSUSE64
+https://laptop-updates.brave.com/latest/linux64
+https://repo.powerdns.com
+https://repo.dovecot.org
+GoCD (https://www.gocd.org/download)
+Desktop Client
+GitHub Desktop
+GitHub CLI
+npm CLI
+Snap Camera
+Lens Studio
+UniFi Network Application
+UCRM
+UNMS
+Adobe Acrobat Reader DC
+Photoshop
+Lightroom
+After Effects
+Animate
+Audition
+Adobe AIR
+Bridge
+Character Animator
+Creative Cloud Desktop Application
+Digital Editions
+Dreamweaver
+Flash Player
+Fonts
+Framemaker
+Illustrator
+InCopy
+InDesign
+Media Encoder
+Prelude
+Premiere Pro
+XD
+Adobe Campaign
+Adobe Experience Manager (AEM)
+Lightroom Classic
+XMP Toolkit
+Distiller
+Premiere Rush
+Premiere Elements
+Dimension
+Dropbox Desktop
+Any Informatica on-premise software
+yarn
+Status Desktop
+Files.com Desktop Application for Windows or Mac
+VK Messenger
+Atom browser
+Guilded
+Endpoint Security Cloud
+Mattermost Desktop
+Mackeeper app
+Windows Desktop Application
+MacOS Desktop Application
+Malwarebytes for Windows
+Malwarebytes for Mac
+Malwarebytes for Teams
+Malwarebytes Remediation for CrowdStrike
+Malwarebytes Incident Response
+Malwarebytes ToolSet (MBTS)
+Malwarebytes Anti-Exploit
+Malwarebytes Anti-Ransomware
+Malwarebytes Windows Firewall Control
+AdwCleaner
+USB Flash Drive Control
+SDM Client - Windows (sdm.exe)
+SDM Client - macOS (sdm.app)
+SDM Gateway - *nix 
+Acronis Cyber Files
+Other Acronis executables
+Acronis Cloud Manager
+ColdFusion
+Substance 3D
+https://salesforce.quip.com/blog/desktop
+UnrealEditorFortnite-Win64-Shipping.exe
+EpicGamesLauncher.exe    
+Jitsi Meet Desktop
+Beats - Auditbeat
+Beats - Filebeat
+Beats - Heartbeat
+Beats - Metricbeat
+Beats - Packetbeat
+Beats - Winlogbeat
+Elastic Agent
+Elastic Cloud Enterprise (ECE)
+Elastic Cloud on Kubernetes (ECK)
+Elastic Enterprise Search
+Elastic Maps Server
+Elasticsearch
+Logstash
+Observability - APM Agents
+Observability - APM Server
+Fleet Server
+Kibana
+Beats
+Tenable Sensor Proxy
+HyprUnlock.exe
+HYPR Workforce Access.app
+Front for Mac
+Front for Windows
+Dynatrace OneAgent
+Dynatrace ActiveGate
+Dynatrace MobileAgent
+HCL Tech - GEO - Leave Management System (LMS)
+HCL Tech - India - Leave Management System (LMS)
+HCL Tech - Global Claim System - CVCS Azure
+HCL Tech - TP-SOW
+HCL Tech - Smart Service Desk (SSD) Azure
+HCL Tech - Revenue Forecast System (iRFS)
+HCL Tech - Resource Assignation System (RAS)
+HCL Tech - HCLT-EIS-Project Initiation & Budgeting
+HCL Tech - Netconsole Joining
+HCL Tech - My Travel TAS AZURE
+HCL Tech - My Profile (ESS)
+HCL Tech - iTIME
+HCL Tech - iRemunerate
+HCL Tech - iOnboard Application
+HCL Tech - iOffboardWebOnPrim
+HCL Tech - Global Claim System - ECS
+HCL Tech - Geo Joining Console (GJC)
+HCL Tech - Compensation Console OnPrim
+HCL Tech - Billing Request System (BRQ)
+Logitech MIXLINE

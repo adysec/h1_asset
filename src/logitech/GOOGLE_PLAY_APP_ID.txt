@@ -1,0 +1,6 @@
+com.logitech.ueboom
+com.logitech.circle
+com.streamlabs.slobsrc
+com.streamlabs
+com.logitech.logue
+com.getmeetio.*

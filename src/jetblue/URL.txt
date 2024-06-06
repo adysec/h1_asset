@@ -1,0 +1,12 @@
+www.jetblue.com
+book.jetblue.com
+checkin.jetblue.com
+mobile.jetblue.com
+movil.jetblue.com
+api.jetblue.com
+accounts.jetblue.com
+help.jetblue.com
+azrest.jetblue.com
+magnolia.jetblue.com
+experience.jetblue.com
+*.jetblue.com

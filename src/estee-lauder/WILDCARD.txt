@@ -1,0 +1,13 @@
+*.elcompanies.com
+*.esteelauder.com
+*.maccosmetics.com
+*.clinique.com
+*.jomalone.co.uk
+*.esteelauder.co.uk
+*.maccosmetics.co.uk
+*.clinique.co.uk
+*.jomalone.com
+*.origins.co.uk
+*.origins.com
+*.cremedelamer.co.uk
+*.cremedelamer.com

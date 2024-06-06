@@ -1,0 +1,1 @@
+77076	https://hackerone.com/chia_network	Chia Network	chia_network

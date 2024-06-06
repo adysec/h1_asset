@@ -1,0 +1,2 @@
+com.glassdoor.app
+com.fishbowlmedia.fishbowl

@@ -1,0 +1,2 @@
+Enjin Coin - Ethereum ERC-20 Contract
+Enjin - Ethereum ERC-1155 Contract

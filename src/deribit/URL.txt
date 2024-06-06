@@ -1,0 +1,6 @@
+test.deribit.com
+insights.deribit.com
+pb.deribit.com
+*.deribit.com
+tools.deribit.com
+metrics.deribit.com

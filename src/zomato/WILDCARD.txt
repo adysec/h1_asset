@@ -1,0 +1,12 @@
+http://*.zomato.com
+http://*.zdev.net
+http://*.zomans.com
+http://*.hyperpure.com
+http://*.runnr.in
+*.zomato.com
+*.zdev.net
+*.zomans.com
+*.hyperpure.com
+*.runnr.in
+http://*.grofer.io
+http://*.grofers.com

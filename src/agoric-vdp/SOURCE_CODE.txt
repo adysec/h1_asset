@@ -1,0 +1,2 @@
+https://github.com/Agoric/ses-shim
+https://github.com/Agoric/agoric-sdk

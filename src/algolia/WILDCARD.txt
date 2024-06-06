@@ -1,0 +1,4 @@
+http://*.algolia.net
+http://*.algolianet.com
+*.algolia.net
+*.algolianet.com

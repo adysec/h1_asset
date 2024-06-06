@@ -1,0 +1,6 @@
+*.deliveroo-data.net
+*.deliveroo-data.io
+*.deliveroo-data-test.io
+*.deliveroo.*
+*.deliveroo-streams.net
+https://deliveroo.co.uk

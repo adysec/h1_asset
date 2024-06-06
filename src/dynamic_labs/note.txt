@@ -1,0 +1,1 @@
+57935	https://hackerone.com/dynamic_labs	Dynamic Labs	dynamic_labs

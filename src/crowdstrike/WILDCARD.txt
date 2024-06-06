@@ -1,0 +1,13 @@
+http://*.crowdstrike.com
+http://*.humio.com
+http://*.securecircle.com
+http://*.preempt.com
+http://*.preemptsecurity.com
+http://*.reposify.com
+*.crowdstrike.com
+*.humio.com
+*.securecircle.com
+*.preempt.com
+*.preemptsecurity.com
+*.reposify.com
+*.bionic.ai

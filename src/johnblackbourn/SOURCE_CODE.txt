@@ -1,0 +1,3 @@
+https://github.com/johnbillion/user-switching
+https://github.com/johnbillion/query-monitor
+https://github.com/johnbillion/wp-crontrol

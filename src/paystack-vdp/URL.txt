@@ -1,0 +1,8 @@
+*.paystackintegrations.com
+nigerialogos.com
+decodefintech.com
+legacy.paystack.co
+checkout.paystack.com
+api.paystack.co
+dashboard.paystack.com
+standard.paystack.co

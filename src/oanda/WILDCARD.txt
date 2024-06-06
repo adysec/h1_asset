@@ -1,0 +1,8 @@
+http://*.oanda.com
+http://*.oanda.jp
+http://*.tms.pl
+http://*.tmsbrokers.com
+*.oanda.com
+*.oanda.jp
+*.tms.pl
+*.tmsbrokers.com

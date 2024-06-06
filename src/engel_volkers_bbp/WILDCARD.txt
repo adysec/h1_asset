@@ -1,0 +1,11 @@
+https://login.engelvoelkers.com/*
+https://www.engelvoelkers.com/search/*
+https://www.engelvoelkers.com/owner-app/login/*
+https://www.engelvoelkers.com/owner-app/agent/login/*
+https://filewave.engelvoelkers.com/*
+https://t-box.engelvoelkers.com/*
+https://www.engelvoelkers.com/de/immobilie-bewerten/*
+https://www.engelvoelkers.com/de-de/immobilie-verkaufen/*
+https://master-data-service.engelvoelkers.com/*
+https://leadhub.engelvoelkers.com/*
+https://engelvoelkers.tech/*

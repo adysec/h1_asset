@@ -1,0 +1,10 @@
+http://*.services.netlify.com
+http://*.services-prod.nsvcs.net
+http://*.infra-prod.nsvcs.net
+http://*.ops.netlify.com
+http://*.onegraph.com
+*.services.netlify.com
+*.services-prod.nsvcs.net
+*.infra-prod.nsvcs.net
+*.ops.netlify.com
+*.onegraph.com

@@ -1,0 +1,1 @@
+https://*.corp.mongodb.com*

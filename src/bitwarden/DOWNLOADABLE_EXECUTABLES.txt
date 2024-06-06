@@ -1,0 +1,2 @@
+https://github.com/bitwarden/desktop/releases/latest
+https://github.com/bitwarden/cli/releases/latest

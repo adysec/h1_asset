@@ -1,0 +1,16 @@
+*.nuinvest.com.br
+*.investnews.com.br
+*.nubank.com.br
+*.nu.com.mx
+*.nu.com.co
+*.nu.com.ar
+*.spinpay.com.br
+*.olivia.ai
+*.cognitect.com
+*.datomic.com
+*.easynvest.com.br
+*.plataformatec.com
+*.plataformatec.com.br
+*.nuinternational.com
+*.investidores.nu
+*.somoszetta.org.br

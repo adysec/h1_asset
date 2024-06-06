@@ -1,0 +1,6 @@
+github.com/snowplow/
+github.com/snowplow-incubator
+https://github.com/snowplow-devops
+https://github.com/snowplow-product
+https://github.com/poplindata
+https://github.com/snowplow-referer-parser

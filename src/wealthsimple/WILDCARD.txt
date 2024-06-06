@@ -1,0 +1,4 @@
+http://*.wealthsimple.com
+http://*.simpletax.ca
+*.wealthsimple.com
+*.simpletax.ca

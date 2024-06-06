@@ -1,0 +1,4 @@
+http://*.planet.com
+http://*.planet-labs.com
+*.planet.com
+*.planet-labs.com

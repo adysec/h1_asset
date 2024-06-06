@@ -1,0 +1,5 @@
+https://github.com/WeblateOrg/weblate
+https://github.com/WeblateOrg/wlc
+https://github.com/WeblateOrg/docker
+https://github.com/WeblateOrg/website
+https://github.com/WeblateOrg/translation-finder

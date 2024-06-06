@@ -1,0 +1,6 @@
+https://dev-api.zilliqa.com/
+https://testnet-stake.zilliqa.com
+https://ide.zilliqa.com/
+https://zilswap.io/bridge
+https://dev-wallet.zilliqa.com/
+https://github.com/Zilliqa/nucleus-wallet

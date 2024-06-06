@@ -1,0 +1,3 @@
+com.creditkarma.mobile
+com.creditkarma.canada
+com.creditkarma.mobile.international

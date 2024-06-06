@@ -1,0 +1,3 @@
+*.cirrusinsight.com
+*.cirruspath.com
+*.zynbitdev.com

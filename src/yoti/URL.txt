@@ -1,0 +1,14 @@
+https://core.yoti.com
+https://api.yoti.com
+https://ccloud.yoti.com
+https://code.yoti.com
+https://www.yotisign.com
+https://frankd.yoti.com
+core.yoti.com
+api.yoti.com
+ccloud.yoti.com
+code.yoti.com
+www.yotisign.com
+frankd.yoti.com
+hub.yoti.com
+identity.yoti.com

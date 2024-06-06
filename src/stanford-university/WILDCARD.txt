@@ -1,0 +1,3 @@
+http://*.sahr.stanford.edu
+*.sahr.stanford.edu
+https://*.stanford.edu

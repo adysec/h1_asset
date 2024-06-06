@@ -1,0 +1,3 @@
+50602	https://hackerone.com/hilton	Hilton	hilton
+55457	https://hackerone.com/hilton	Hilton Bounty	hilton
+55457	https://hackerone.com/hilton	Hilton	hilton

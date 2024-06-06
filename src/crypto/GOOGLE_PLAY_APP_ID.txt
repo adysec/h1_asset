@@ -1,0 +1,2 @@
+co.mona.android
+com.defi.wallet

@@ -1,0 +1,5 @@
+*.worldcoin.org
+*.consumer.worldcoin.org
+*.worldcoin-distributors.com
+*.worldcoin.dev
+*.toolsforhumanity.com

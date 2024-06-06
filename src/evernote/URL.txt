@@ -1,0 +1,6 @@
+https://www.evernote.com
+accounts.evernote.com
+api.evernote.com
+accounts.stage.evernote.com
+api.stage.evernote.com
+www.evernote.com

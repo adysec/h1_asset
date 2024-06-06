@@ -1,0 +1,4 @@
+http://*.tokensvc.com
+http://*.production.tkn.zone
+*.tokensvc.com
+*.production.tkn.zone

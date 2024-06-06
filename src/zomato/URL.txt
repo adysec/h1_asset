@@ -1,0 +1,9 @@
+*.zomato.com
+winecellar.zomato.com
+*.zdev.net
+*.zomans.com
+*.hyperpure.com
+*.runnr.in
+api.grofers.com
+api2.grofers.com
+blinkit.com

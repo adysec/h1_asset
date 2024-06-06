@@ -1,0 +1,1 @@
+48831	https://hackerone.com/jfrog	JFrog	jfrog

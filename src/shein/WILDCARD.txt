@@ -1,0 +1,6 @@
+http://*.shein.com
+http://*.romwe.com
+http://*.sheingsp.com
+*.shein.com
+*.romwe.com
+*.sheingsp.com

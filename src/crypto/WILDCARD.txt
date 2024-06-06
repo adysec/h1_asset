@@ -1,0 +1,2 @@
+*.crypto.com
+*.mona.co

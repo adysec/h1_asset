@@ -1,0 +1,1 @@
+36449	https://hackerone.com/xilinx	Xilinx, now part of AMD – Vulnerability Disclosure Program	xilinx

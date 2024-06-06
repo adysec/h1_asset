@@ -1,0 +1,10 @@
+*.jfrog.com
+*.jfrog.org
+www.jfrog.com
+www.jfrog.com/confluence
+www.jfrog.com/jira
+conan.io
+www.jfrog.co.jp
+www.jfrogchina.com
+http://www.jfrog.com/confluence
+http://www.jfrog.com/jira

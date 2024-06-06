@@ -1,0 +1,4 @@
+com.ubnt.easyunifi
+com.ubnt.umobile
+com.ubnt.discovery.app
+com.ubnt.ucrm

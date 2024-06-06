@@ -1,0 +1,4 @@
+*.cornershopapp.com/*
+*.superpal.com/*
+*.cornershop.io/*
+*.superpal.io/*

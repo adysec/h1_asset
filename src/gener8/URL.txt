@@ -1,0 +1,1 @@
+*.gener8ads.com

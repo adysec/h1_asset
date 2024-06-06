@@ -1,0 +1,12 @@
+owncloud/core
+owncloud/user_ldap
+owncloud/oauth2
+owncloud/customgroups
+owncloud/guests
+owncloud/richdocuments
+owncloud/activity
+owncloud/files
+owncloud/notifications
+owncloud/gallery
+owncloud/updater
+https://github.com/owncloud/ocis

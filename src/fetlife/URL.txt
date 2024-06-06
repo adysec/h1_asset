@@ -1,0 +1,2 @@
+fetlife.com
+*.fetlife.com

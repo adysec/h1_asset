@@ -1,0 +1,2 @@
+*.rivian.com
+*.rivianservices.com

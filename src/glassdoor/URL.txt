@@ -1,0 +1,6 @@
+http://www.glassdoor.com/
+http://api.glassdoor.com
+https://help.glassdoor.com/
+https://www.glassdoor.com/*
+https://api.glassdoor.com/*
+https://help.glassdoor.com/*

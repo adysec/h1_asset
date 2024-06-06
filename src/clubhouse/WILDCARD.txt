@@ -1,0 +1,6 @@
+http://*.clubhouse.com
+http://*.joinclubhouse.com
+http://*.clubhouseapi.com
+*.clubhouse.com
+*.joinclubhouse.com
+*.clubhouseapi.com

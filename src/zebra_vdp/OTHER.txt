@@ -1,0 +1,15 @@
+Anything that is explicitly owned and managed by Zebra Technologies is in scope for the VulnerabIlity Disclosure Program
+*.fetchcore-cloud.com
+*.zebrasports.com
+ partnerconnect.zebra.com
+*.antuit.ai
+*.profitect.com
+*.pttpro.zebra.com
+*.zams-eu.zebra.com
+*.zams.zebra.com
+*.zebra.com/mobicontrol
+*.zebra.engineering
+*.zebramwe.com
+*.zpc.zebra.com 
+spx-*.zebra.engineering
+cto-*.zebra.engineering

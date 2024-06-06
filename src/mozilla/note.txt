@@ -1,0 +1,1 @@
+61236	https://hackerone.com/mozilla	Mozilla	mozilla

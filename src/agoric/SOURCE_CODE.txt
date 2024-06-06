@@ -1,0 +1,6 @@
+https://github.com/endojs/endo/tree/master/packages/ses
+https://github.com/Agoric/agoric-sdk/tree/master/packages/ERTP
+https://github.com/Agoric/agoric-sdk/tree/master/packages/zoe
+https://github.com/Agoric/agoric-sdk/tree/master/packages/run-protocol
+https://github.com/endojs
+https://github.com/Agoric/agoric-sdk/tree/master/packages/inter-protocol

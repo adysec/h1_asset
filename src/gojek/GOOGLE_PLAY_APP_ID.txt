@@ -1,0 +1,2 @@
+com.gojek.app
+com.gojek.partner

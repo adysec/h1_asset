@@ -1,0 +1,2 @@
+*.planet.com
+*.planet-labs.com

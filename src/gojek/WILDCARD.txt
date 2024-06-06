@@ -1,0 +1,10 @@
+http://*.gojekapi.com
+http://*.gopayapi.com
+http://*.findaya.com
+http://*.findaya.co.id
+http://*.mab.co.id
+*.gojekapi.com
+*.gopayapi.com
+*.findaya.com
+*.findaya.co.id
+*.mab.co.id

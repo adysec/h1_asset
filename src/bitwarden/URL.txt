@@ -1,0 +1,6 @@
+bitwarden.com
+api.bitwarden.com
+identity.bitwarden.com
+vault.bitwarden.com
+help.bitwarden.com
+v4.passwordless.dev

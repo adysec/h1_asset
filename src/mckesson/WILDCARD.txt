@@ -1,0 +1,4 @@
+http://*.mckesson.com
+http://*.mckesson.*
+*.Mckesson.com
+*.mckesson.*

@@ -1,0 +1,2 @@
+13343	https://hackerone.com/line	LINE	line
+13343	https://hackerone.com/line	LY Corporation	line

@@ -1,0 +1,10 @@
+app-sandbox.circle.com
+my-sandbox.circle.com
+api-sandbox.circle.com
+api.circle.com
+my.circle.com
+app.circle.com
+usdc.circle.com
+www.circle.com
+*.circle.com
+*.cybavo.com

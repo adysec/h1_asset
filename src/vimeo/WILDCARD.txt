@@ -1,0 +1,12 @@
+http://*.cloud.vimeo.com
+http://*.vimeo.com
+http://*.vhx.tv
+http://*.magisto.com
+http://*.livestream.com
+http://*.new.livestream.com
+*.cloud.vimeo.com
+*.vimeo.com
+*.vhx.tv
+*.magisto.com
+*.livestream.com
+*.new.livestream.com

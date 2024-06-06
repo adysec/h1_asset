@@ -1,0 +1,16 @@
+*api.trustpilot.com
+*authenticate.trustpilot.com
+*consumer-auth.trustpilot.com
+*invitations-api.trustpilot.com
+*b2b.trustpilot.com
+*www.trustpilot.com
+*locale.trustpilot.com
+*widget.trustpilot.com
+*jobs.trustpilot.com
+*blog.trustpilot.com
+*signup.business.trustpilot.com
+*emailsignature.trustpilot.com
+*share.trustpilot.com
+*business.trustpilot.com
+*legal.trustpilot.com
+*ipo.trustpilot.com

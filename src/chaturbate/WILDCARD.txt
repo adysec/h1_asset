@@ -1,0 +1,8 @@
+http://*.highwebmedia.com
+http://*.securegatewayaccess.com
+http://*.mmcdn.com
+*.highwebmedia.com
+*.securegatewayaccess.com
+*.mmcdn.com
+*.cb.dev
+*.mmwebc.dev

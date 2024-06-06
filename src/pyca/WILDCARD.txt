@@ -1,0 +1,4 @@
+http://*.cryptography.io
+http://*.pyopenssl.org
+*.cryptography.io
+*.pyopenssl.org

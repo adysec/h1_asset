@@ -1,0 +1,1 @@
+36721	https://hackerone.com/notepad-plus-plus	Notepad++	notepad-plus-plus

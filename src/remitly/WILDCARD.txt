@@ -1,0 +1,2 @@
+*.int.remitly.com
+*.dev.remitly.com

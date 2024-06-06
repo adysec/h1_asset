@@ -1,0 +1,10 @@
+com.bumble.app
+com.badoo.mobile
+com.badoo.twa
+com.flashgap.fruitz
+com.hotornot.app
+com.sgiggle.mango
+com.bumblebff.app
+com.studio.projects.zodia
+com.sgiggle.Mango
+com.official.rnapp

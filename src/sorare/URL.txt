@@ -1,0 +1,3 @@
+sorare.com
+api.sorare.com
+ws.sorare.com

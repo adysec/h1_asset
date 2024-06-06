@@ -1,0 +1,2 @@
+com.deliveroo.orderapp
+com.deliveroo.riderapp

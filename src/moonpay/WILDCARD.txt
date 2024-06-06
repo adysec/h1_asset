@@ -1,0 +1,6 @@
+http://*.moonpaycloud.com
+http://*.hypermint.com
+http://*.moonpay.com
+*.moonpaycloud.com
+*.hypermint.com
+*.moonpay.com

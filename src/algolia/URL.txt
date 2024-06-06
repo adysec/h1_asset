@@ -1,0 +1,4 @@
+www.algolia.com
+*.algolia.net
+*.algolianet.com
+dashboard.algolia.com

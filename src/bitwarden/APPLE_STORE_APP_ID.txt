@@ -1,0 +1,2 @@
+com.8bit.bitwarden
+com.bitwarden.authenticator

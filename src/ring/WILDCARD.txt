@@ -1,0 +1,2 @@
+https://*.immedia-semi.com/*
+https://*.blinkforhome.com/*

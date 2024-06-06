@@ -1,0 +1,7 @@
+com.starbucks.jp
+com.starbucks.cn
+com.starbucks.fr
+com.starbucks.de
+com.starbucks.br
+com.starbucks.mobilecard
+com.starbucks.singapore

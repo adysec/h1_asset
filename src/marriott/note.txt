@@ -1,0 +1,1 @@
+30994	https://hackerone.com/marriott	Marriott Bug Bounty Program	marriott

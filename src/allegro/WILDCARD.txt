@@ -1,0 +1,2 @@
+http://*.allegro.pl.allegrosandbox.pl
+*.allegro.pl.allegrosandbox.pl

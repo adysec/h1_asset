@@ -1,0 +1,4 @@
+http://*.finra.org
+http://ews.qa.finra.org/*
+*.finra.org
+https://ews.qa.finra.org/*

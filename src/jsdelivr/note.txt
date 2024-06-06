@@ -1,0 +1,1 @@
+266	https://hackerone.com/jsdelivr	jsDelivr	jsdelivr

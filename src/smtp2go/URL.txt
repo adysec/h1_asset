@@ -1,0 +1,3 @@
+smtp2go.com
+app.smtp2go.com
+api.smtp2go.com

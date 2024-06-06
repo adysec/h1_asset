@@ -1,0 +1,9 @@
+http://*.aig.com
+http://*.myretirementmanager.com
+http://*.corebridgefinancial.com
+http://*.aig.co.jp
+http://*.aig.ie
+*.aig.com
+*.myretirementmanager.com
+*.corebridgefinancial.com
+*.aig.co.jp

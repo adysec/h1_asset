@@ -1,0 +1,1 @@
+45675	https://hackerone.com/faraday_inc	Faraday, Inc.	faraday_inc

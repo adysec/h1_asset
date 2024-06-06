@@ -1,0 +1,4 @@
+http://*.staging-airtableblocks.com
+http://*.staging.airtable.com
+*.staging-airtableblocks.com
+*.staging.airtable.com

@@ -1,0 +1,12 @@
+http://*.1debit.com
+http://*.chimebank.com
+http://*.chimecard.com
+http://*.chime.com
+http://*.chmfin.com
+http://*.chimepayments.com
+*.1debit.com
+*.chimebank.com
+*.chimecard.com
+*.chime.com
+*.chmfin.com
+*.chimepayments.com

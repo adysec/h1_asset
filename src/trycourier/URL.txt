@@ -1,0 +1,5 @@
+www.trycourier.app
+api.trycourier.app
+*.ct0.app
+api.courier.com
+www.courier.com

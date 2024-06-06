@@ -1,0 +1,16 @@
+www.poddercentral.com
+https://www.omnipod.com
+https://insuletid.com/
+prod.omnipodapps.com
+prod-internal.omnipodapps.com
+prod.omnipodcloud.com
+prod-device.omnipodcloud.com
+eu-prod-internal.omnipodapps.com
+eu-prod.omnipodapps.com
+eu-prod-device.omnipodcloud.com
+eu-prod.omnipodcloud.com
+aprms.insulet.com
+eu-aprms.omnipodapps.com
+insuletid.com
+www.omnipod.com
+www.insulet.com

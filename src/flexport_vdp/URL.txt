@@ -1,0 +1,2 @@
+*.flexport.com
+*.transmissionapp.com

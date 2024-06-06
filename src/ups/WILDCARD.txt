@@ -1,0 +1,2 @@
+http://*.ups.com
+*.ups.com

@@ -1,0 +1,3 @@
+com.smule.singandroid.*
+com.smule.magicpiano.*
+com.smule.autorap.*

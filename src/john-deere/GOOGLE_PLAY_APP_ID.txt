@@ -1,0 +1,3 @@
+com.deere.myoperations
+com.deere.equipmentplus
+com.johndeere.jdo.android

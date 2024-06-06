@@ -1,0 +1,2 @@
+http://*.sidefx.com
+*.sidefx.com

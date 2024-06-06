@@ -1,0 +1,2 @@
+http://*.fanbox.cc
+*.fanbox.cc

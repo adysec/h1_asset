@@ -1,0 +1,4 @@
+wss://api.americanwagering.com/*
+wss://diffusion-*.us.williamhill.com
+Tier 1:
+Tier 2:

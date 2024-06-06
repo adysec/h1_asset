@@ -1,0 +1,4 @@
+http://*.trellix.com
+http://*.skyhighsecurity.com
+*.trellix.com
+*.skyhighsecurity.com

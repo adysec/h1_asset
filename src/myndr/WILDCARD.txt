@@ -1,0 +1,4 @@
+http://*.myndr.net
+http://*.myndr.nl
+*.myndr.net
+*.myndr.nl

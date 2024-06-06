@@ -1,0 +1,11 @@
+ring.com/*
+api.ring.com/*
+fw.ring.com/*
+app.ring.com/*
+admin.ring.com/*
+nw.ring.com/*
+oauth.ring.com/*
+billing.ring.com/*
+prd-ring-web-us.prd.rings.solutions
+*.immedia-semi.com/*
+*.blinkforhome.com/*

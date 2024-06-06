@@ -1,0 +1,28 @@
+Kruidvat
+Superdrug
+The Perfume Shop
+Fortress
+PARKnSHOP
+ICI Paris XL 
+Kruidvat (subdomains)
+Superdrug (subdomains)
+Marionnaud
+MoneyBack
+Watsons 
+ICI Paris XL (subdomains)
+The Perfume Shop (subdomains)
+Fortress (subdomains)
+PARKnSHOP (subdomains)
+PNS (subdomains)
+Watsons HK (subdomains)
+Watsons MY (subdomains)
+Moneyback (subdomains)
+Watsons PH (subdomains)
+Watsons TW (subdomains)
+Watsons TR (subdomains)
+Marionnaud (subdomains)
+Watsons TH (subdomains)
+Watsons SG (subdomains)
+Watsons ID (subdomains)
+Trekpleister (subdomains)
+Marionnaud FR (subdomains)

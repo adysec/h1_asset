@@ -1,0 +1,6 @@
+*.tinder.com
+*.gotinder.com
+*.tinderops.net
+*.tstaging.com
+*.tstaging.tools
+*.tinderwebstaging.com

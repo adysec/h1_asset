@@ -1,0 +1,10 @@
+*.boe.ohio.gov
+*.militaryvotes.ohio.gov
+*.ohiobusinesscentral.gov
+*.ohiosecretaryofstate.gov
+*.ohiosos.gov
+*.safeathomeohio.gov
+*.sos.state.oh.us
+*.vote.ohio.gov
+*.voteohio.gov
+*.electionintegrity.ohio.gov

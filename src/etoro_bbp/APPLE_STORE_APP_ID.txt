@@ -1,0 +1,3 @@
+com.etoro.openbook
+com.etoro.wallet
+io.getdelta.ios

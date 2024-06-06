@@ -1,0 +1,1 @@
+50933	https://hackerone.com/stripe	Stripe	stripe

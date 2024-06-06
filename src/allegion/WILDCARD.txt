@@ -1,0 +1,10 @@
+http://*.allegion.com
+http://*.yonomi.co
+http://*.allegionengage.com
+http://*.isonaspureaccesscloud.com
+http://*.my-mobilekey.com
+*.allegion.com
+*.yonomi.co
+*.allegionengage.com
+*.isonaspureaccesscloud.com
+*.my-mobilekey.com

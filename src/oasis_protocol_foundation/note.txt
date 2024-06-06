@@ -1,0 +1,1 @@
+43225	https://hackerone.com/oasis_protocol_foundation	Oasis Protocol Foundation	oasis_protocol_foundation

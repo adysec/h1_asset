@@ -1,0 +1,2 @@
+https://*.saytechnologies.com
+https://*.say.rocks

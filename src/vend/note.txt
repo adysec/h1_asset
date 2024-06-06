@@ -1,0 +1,1 @@
+46119	https://hackerone.com/vend	Vend by Lightspeed	vend

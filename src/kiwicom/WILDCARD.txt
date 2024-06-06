@@ -1,0 +1,4 @@
+http://*.kiwi.com
+http://*.skypicker.com
+*.kiwi.com
+*.skypicker.com

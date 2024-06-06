@@ -1,0 +1,15 @@
+Any John Deere digital application, product or service, but excluding: (1)Any John Deere machine, equipment or other hardware (collectively “Equipment”) And  (2) Any software, firmware or other component of John Deere Equipment.
+http(s)://*.johndeere.com*
+http(s)://*.deere.com*
+http(s)://wirtgen-group.com
+http(s)://bluerivertechnology.com
+http(s)://bearflagrobotics.com
+https://developer.deere.com
+https://jdlink.deere.com
+https://play.google.com/store/apps/details?id=com.deere.equipmentplus&hl=en_US&gl=US 
+*deere.com*
+advertising.deere.com
+*promotemyprograms*.deere.com
+adzone.deere.com
+johndeerecloud.com
+deere.com

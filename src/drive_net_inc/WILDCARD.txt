@@ -1,0 +1,4 @@
+http://*.d-cd.net
+http://*.drive2.ru
+*.d-cd.net
+*.drive2.ru

@@ -1,0 +1,8 @@
+http://*.proctor.io
+http://*.proctorauth.com
+http://*.proctorcollect.com
+http://*.proctordata.com
+*.proctor.io
+*.proctorauth.com
+*.proctorcollect.com
+*.proctordata.com

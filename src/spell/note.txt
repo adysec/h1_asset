@@ -1,0 +1,1 @@
+37632	https://hackerone.com/spell	Spell	spell

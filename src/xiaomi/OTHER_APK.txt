@@ -1,0 +1,12 @@
+com.miui.micloudsync
+com.xiaomi.smarthome
+com.xiaomi.market
+com.mi.global.shop
+com.xiaomi.mibrain.speech
+com.xiaomi.account
+com.xiaomi.payment
+com.xiaomi.mipicks
+com.xiaomi.micloud.sdk
+com.miui.cloudbackup
+com.miui.cloudservice
+com.android.browser

@@ -1,0 +1,2 @@
+*.wellsfargo.com
+*.wf.com

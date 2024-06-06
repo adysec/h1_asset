@@ -1,0 +1,6 @@
+https://marketplace.atlassian.com/apps/1219583/jira-cards-by-miro?hosting=cloud
+https://marketplace.atlassian.com/apps/1217530/miro-for-confluence?hosting=cloud
+https://marketplace.atlassian.com/apps/1215456/miro-for-jira-cloud?hosting=cloud
+Miro SDK
+Tier1
+Tier2

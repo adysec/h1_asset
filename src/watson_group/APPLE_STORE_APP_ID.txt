@@ -1,0 +1,20 @@
+ICIParisXL.App.IOS
+ThePerfumeShop.App.iOS
+Marionnaud.Italy.iOS
+Marionnaud.Romania.iOS
+Marionnaud.Switzerland.iOS
+Marionnaud.Austria.iOS
+PNS.HongKong.iOS
+MoneyBack.HongKong.iOS
+Kruidvat.Belgium.iOS
+Kruidvat.Netherlands.iOS
+ Fortress.HongKong.IOS
+Watsons.HongKong.IOS
+Watsons.Indonesia.IOS
+Watsons.Malaysia.IOS
+Watsons.Philippines.IOS
+Watsons.TaiWan.IOS
+Watsons.Thailand.IOS
+Watsons.Singapore.IOS
+Marionnaud.France.iOS
+Watsons.Turkey.iOS

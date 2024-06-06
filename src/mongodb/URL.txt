@@ -1,0 +1,3 @@
+https://www.*mongodb.com/*
+mongodb.live/*
+artifactory.corp.mongodb.com/

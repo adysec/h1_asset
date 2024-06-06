@@ -1,0 +1,2 @@
+https://github.com/eslint/eslint-github-bot
+https://github.com/eslint/eslint

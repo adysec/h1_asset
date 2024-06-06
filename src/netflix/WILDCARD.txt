@@ -1,0 +1,9 @@
+*.nflxext.com
+api*.netflix.com
+*.prod.ftl.netflix.com
+*.prod.cloud.netflix.com
+*.nflxvideo.net
+*.prod.dradis.netflix.com
+*.nflximg.net
+*.nflxso.net
+*.nlfxvideo.net

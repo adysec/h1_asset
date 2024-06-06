@@ -1,0 +1,8 @@
+http://*.binaryws.com
+http://*.deriv.com
+http://*.deriv.cloud
+http://*.binary.com
+*.binaryws.com
+*.deriv.com
+*.deriv.cloud
+*.binary.com

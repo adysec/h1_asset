@@ -1,0 +1,1 @@
+59452	https://hackerone.com/magic-eden	Magic Eden	magic-eden

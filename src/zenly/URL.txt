@@ -1,0 +1,3 @@
+api.znly.co
+rpc.znly.co
+web.zen.ly

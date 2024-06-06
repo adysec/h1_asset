@@ -1,0 +1,11 @@
+remitly.com
+api.remitly.io
+cards.remitly.io
+rewire.com
+app.rewire.to
+rates.rewire.com
+app3.rewire.to
+cardpayments.remitly.io
+media.remitly.io
+partner-webhook.remitly.io
+ablink.info.remitly.com

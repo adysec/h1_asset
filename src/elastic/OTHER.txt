@@ -1,0 +1,8 @@
+other
+All Elastic Products
+Elastic Package Registry
+Elastic Synthetics Monitoring
+Other
+elastic.co credentials
+Software Supply Chain
+Elastic Clients

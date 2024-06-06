@@ -1,0 +1,4 @@
+http://*.instacart.com
+http://*.instacart.tools
+*.instacart.com
+*.instacart.tools

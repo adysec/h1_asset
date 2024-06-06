@@ -1,0 +1,6 @@
+brave.com
+basicattentiontoken.org
+creators.basicattentiontoken.org
+search.brave.com
+talk.brave.com
+account.brave.com

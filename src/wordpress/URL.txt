@@ -1,0 +1,14 @@
+*.wordpress.org
+api.wordpress.org
+*.buddypress.org,bbpress.org,profiles.wordpress.org
+*.wordcamp.org
+planet.wordpress.org
+doaction.org
+codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
+mercantile.wordpress.org
+lists.wordpress.org
+wordpressfoundation.org
+irclogs.wordpress.org
+*.wordpress.net
+munin-*.wordpress.org
+gutenberg.run

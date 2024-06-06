@@ -1,0 +1,2 @@
+HyprUnlock.exe
+HYPR Workforce Access.app

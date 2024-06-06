@@ -1,0 +1,8 @@
+com.amazon.kindle
+com.amazon.healthtech.malibu
+com.amazon.storm.lightning.client.aosp
+com.amazon.tahoe.freetime
+com.amazon.dee.app
+com.amazon.clouddrive.photos
+com.amazon.cosmos
+com.amazon.tails

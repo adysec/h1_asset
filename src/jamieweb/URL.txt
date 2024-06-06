@@ -1,0 +1,9 @@
+www.jamieweb.net
+ipv6.jamieweb.net
+ipv4.jamieweb.net
+jamiewebgbelqfno.onion
+jamie3vkiwibfiwucd6vxijskbhpjdyajmzeor4mc4i7yopvpo4p7cyd.onion
+jamieweb.net
+ldn01.jamieweb.net
+nyc01.jamieweb.net
+acme-validation.jamieweb.net

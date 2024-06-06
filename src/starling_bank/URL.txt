@@ -1,0 +1,3 @@
+app.starlingbank.com
+oauth.starlingbank.com
+www.starlingbank.com

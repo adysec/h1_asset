@@ -1,0 +1,2 @@
+http://*.hackyholidays.h1ctf.com
+*.hackyholidays.h1ctf.com

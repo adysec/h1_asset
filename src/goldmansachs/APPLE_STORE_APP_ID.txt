@@ -1,0 +1,6 @@
+com.marcus.ios-us
+com.marcus.ios-uk
+com.gs.pwmdigital.external
+com.gs.gstrader.external
+com.gs.gsnow.external
+GS Select iOS app

@@ -1,0 +1,4 @@
+http://*.gymshark.com
+http://*.gymshark.io
+*.gymshark.com
+*.gymshark.io

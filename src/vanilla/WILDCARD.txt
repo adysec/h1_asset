@@ -1,0 +1,10 @@
+http://*.vanillaforums.com
+http://*.vanillacommunities.com
+http://*.vanillastaging.com
+http://*.vanilladevelopment.com
+http://*.vanillacommunity.com
+*.vanillaforums.com
+*.vanillacommunities.com
+*.vanillastaging.com
+*.vanilladevelopment.com
+*.vanillacommunity.com

@@ -1,0 +1,8 @@
+com.soundtrap.studioapp
+com.spotify.client
+com.spotify.s4a
+com.spotify.stations
+com.spotify.kids
+com.spotify.soundtrap.dreamcatcher
+com.anchorfminc.Anchor
+io.bettylabs.Disco

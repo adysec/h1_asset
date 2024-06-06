@@ -1,0 +1,2 @@
+mewcx.chrome.extension
+enkrypt.browser.extension

@@ -1,0 +1,1 @@
+41393	https://hackerone.com/coinspot	CoinSpot	coinspot

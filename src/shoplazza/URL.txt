@@ -1,0 +1,5 @@
+sso.shoplazza.com
+myaccount.shoplazza.com
+*.myshoplaza.com/openapi
+*.myshoplaza.com/admin
+partners.shoplazza.com

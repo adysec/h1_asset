@@ -1,0 +1,3 @@
+http://*.aktia.fi
+*.aktia.fi
+*.aktiawallet.fi

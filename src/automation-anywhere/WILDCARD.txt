@@ -1,0 +1,2 @@
+http://*.my.automationanywhere.digital
+*.my.automationanywhere.digital

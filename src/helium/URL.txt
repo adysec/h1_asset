@@ -1,0 +1,3 @@
+ota.helium.com
+burrow.helium.systems
+https://helium-console-dev.herokuapp.com/

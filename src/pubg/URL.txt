@@ -1,0 +1,2 @@
+*.pubg.com
+*.pubgesports.com

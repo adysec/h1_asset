@@ -1,0 +1,6 @@
+com.zhiliaoapp.musically
+com.ss.android.ugc.trill
+com.ss.android.ugc.now
+com.tiktok.tv
+com.zhiliao.musically.livewallpaper
+com.tiktokshop.seller

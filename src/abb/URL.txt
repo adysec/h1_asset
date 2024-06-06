@@ -1,0 +1,8 @@
+*.abb.com
+*.abb
+*.tnb.com
+*.abb.com.tr
+*.abb.com.cn
+*.baldor.com
+*.cylon.com
+abb.com.br

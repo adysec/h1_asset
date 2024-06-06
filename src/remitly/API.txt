@@ -1,0 +1,2 @@
+funding-webhooks.remitly.io
+hub-api-sandbox.remitly.io

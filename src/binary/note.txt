@@ -1,0 +1,2 @@
+2706	https://hackerone.com/binary	Binary.com	binary
+2706	https://hackerone.com/binary	Deriv.com	binary

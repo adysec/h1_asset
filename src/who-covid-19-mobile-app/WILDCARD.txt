@@ -1,0 +1,2 @@
+http://*.whocoronavirus.org
+*.whocoronavirus.org

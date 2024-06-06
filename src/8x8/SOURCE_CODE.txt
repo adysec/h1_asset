@@ -1,0 +1,5 @@
+https://github.com/jitsi/
+https://github.com/orgs/8x8/packages?repo_name=8x8_messaging_java_client
+https://github.com/callstats-io/
+https://github.com/jitsi
+https://github.com/8x8/8x8_messaging_java_client

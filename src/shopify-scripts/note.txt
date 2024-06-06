@@ -1,0 +1,1 @@
+15668	https://hackerone.com/shopify-scripts	shopify-scripts	shopify-scripts

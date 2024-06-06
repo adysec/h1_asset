@@ -1,0 +1,4 @@
+http://*.zego.com
+http://*.zegocover.com
+*.zego.com
+*.zegocover.com

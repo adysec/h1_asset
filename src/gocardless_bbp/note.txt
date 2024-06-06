@@ -1,0 +1,1 @@
+39750	https://hackerone.com/gocardless_bbp	GoCardless Bug Bounty Program	gocardless_bbp

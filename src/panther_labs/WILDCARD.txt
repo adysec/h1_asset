@@ -1,0 +1,6 @@
+http://*.panther.com
+http://*.runpanther.io
+http://*.runpanther.com
+*.panther.com
+*.runpanther.io
+*.runpanther.com

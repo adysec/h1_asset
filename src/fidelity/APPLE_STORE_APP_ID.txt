@@ -1,0 +1,4 @@
+com.fidelity.watchlist
+com.fidelity.sqrl
+mobi.wealthscape
+mobi.wealthscapeinvestor

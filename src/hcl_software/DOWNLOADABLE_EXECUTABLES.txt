@@ -1,0 +1,48 @@
+HCL AppScan
+HCL BigFix
+HCL Commerce
+HCL Connections
+HCL Digital Experience (Portal & Content Manager)
+HCL Domino
+HCL Notes
+HCL Sametime
+HCL Unica
+HCL Verse
+HCL Clara
+HCL HERO
+HCL Atlas
+HCL Design Room Live!
+HCL Forms
+HCL Informix
+HCL Informix on Cloud
+HCL Integration Platform (HIP)
+HCL Leap
+HCL OneTest
+HCL One Test Embedded
+HCL RealTime Software Tooling (RTist)
+HCL Terminal Enterprise Access (TEA)
+HCL UrbanCode Deploy
+HCL UrbanCode Velocity
+HCL Workload Automation (HWA)
+HCL Workload Automation on AWS
+HCL Z Asset Optimizer 
+HCL Z Data Tools
+HCL Tech - GEO - Leave Management System (LMS)
+HCL Tech - India - Leave Management System (LMS)
+HCL Tech - Global Claim System - CVCS Azure
+HCL Tech - TP-SOW
+HCL Tech - Smart Service Desk (SSD) Azure
+HCL Tech - Revenue Forecast System (iRFS)
+HCL Tech - Resource Assignation System (RAS)
+HCL Tech - HCLT-EIS-Project Initiation & Budgeting
+HCL Tech - Netconsole Joining
+HCL Tech - My Travel TAS AZURE
+HCL Tech - My Profile (ESS)
+HCL Tech - iTIME
+HCL Tech - iRemunerate
+HCL Tech - iOnboard Application
+HCL Tech - iOffboardWebOnPrim
+HCL Tech - Global Claim System - ECS
+HCL Tech - Geo Joining Console (GJC)
+HCL Tech - Compensation Console OnPrim
+HCL Tech - Billing Request System (BRQ)

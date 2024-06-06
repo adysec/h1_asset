@@ -1,0 +1,14 @@
+http://*.hilton.com
+http://*.hilton.io
+http://*.hilton.com.tr
+http://*.hiltonbusinessonline.com
+http://*.hiltonjapan.co.jp
+http://*.hiltonmanage.com
+*.hilton.com
+*.hilton.io
+*.hilton.com.tr
+*.hiltonbusinessonline.com
+*.hiltonjapan.co.jp
+*.hiltonmanage.com
+*.hiltonlocalbiz.com
+*.hiltonhotels.jp

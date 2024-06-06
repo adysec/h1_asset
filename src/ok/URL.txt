@@ -1,0 +1,5 @@
+ok.ru
+*.ok.ru
+tamtam.chat
+ok.me
+apiok.ru

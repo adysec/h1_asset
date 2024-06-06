@@ -1,0 +1,2 @@
+my.stripo.email
+stripo.email

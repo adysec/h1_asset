@@ -1,0 +1,5 @@
+staging.airtable.com
+*.staging-airtableblocks.com
+*.staging.airtable.com
+api-staging.airtable.com
+https://staging.airtable.com/admin

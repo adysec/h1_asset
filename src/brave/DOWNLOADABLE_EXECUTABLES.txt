@@ -1,0 +1,9 @@
+https://laptop-updates.brave.com/latest/osx
+https://laptop-updates.brave.com/latest/winx64
+https://laptop-updates.brave.com/latest/winia32
+https://laptop-updates.brave.com/latest/dev/debian64
+https://laptop-updates.brave.com/latest/dev/ubuntu64
+https://laptop-updates.brave.com/latest/mint64
+https://laptop-updates.brave.com/latest/fedora64
+https://laptop-updates.brave.com/latest/openSUSE64
+https://laptop-updates.brave.com/latest/linux64

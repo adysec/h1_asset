@@ -1,0 +1,9 @@
+http://*.line.me
+http://*.line-apps.com
+http://*.line.naver.jp
+http://*.line.biz
+*.line.me
+*.line-apps.com
+*.line.naver.jp
+*.line.biz
+*.linecorp.com

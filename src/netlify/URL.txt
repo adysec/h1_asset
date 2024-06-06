@@ -1,0 +1,15 @@
+app.netlify.com
+api.netlify.com
+*.services.netlify.com
+*.services-prod.nsvcs.net
+internal.netlify.com
+*.infra-prod.nsvcs.net
+*.ops.netlify.com
+netlify-cdp-loader.netlify.app
+*.onegraph.com
+screenshot-proxy.netlify.app
+netlify-rum.netlify.app
+list-v2--netlify-plugins.netlify.app
+internal-docs.netlify.com
+supportal.netlify.app
+www.netlifycms.org

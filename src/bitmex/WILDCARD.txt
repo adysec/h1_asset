@@ -1,0 +1,2 @@
+http://*.bitmex.com
+*.bitmex.com

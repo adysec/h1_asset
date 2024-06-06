@@ -1,0 +1,5 @@
+Grammarly Editor for MacOS
+Grammarly Editor for Windows
+Grammarly for Microsoft Word
+Grammarly Desktop for Windows
+Grammarly Desktop for macOS

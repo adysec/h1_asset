@@ -1,0 +1,1 @@
+33992	https://hackerone.com/expediagroup_bbp	Expedia Group Bug Bounty	expediagroup_bbp

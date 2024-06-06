@@ -1,0 +1,4 @@
+com.awi.cz.whrp
+com.awi.whrp
+com.williamhill.us.nj.sports
+com.caesarsdigital.igaming.caesarspalaceonline

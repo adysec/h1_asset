@@ -1,0 +1,4 @@
+http://*.rivian.com
+http://*.rivianservices.com
+*.rivian.com
+*.rivianservices.com

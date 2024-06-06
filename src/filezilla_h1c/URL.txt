@@ -1,0 +1,2 @@
+https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
+https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty

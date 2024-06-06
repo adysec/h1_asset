@@ -1,0 +1,3 @@
+com.mtb.mbanking.sc.retail.prod
+com.mtb.mobilebanking.ncr
+com.mts.webtrading

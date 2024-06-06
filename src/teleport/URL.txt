@@ -1,0 +1,12 @@
+*.goteleport.com
+*.gravitational.com
+*.teleport.dev
+teleport.sh
+*.teleportinfra.sh
+get.gravitational.io
+h1-your-domain.teleport.sh
+platform.teleport.sh
+cloud.gravitational.io
+*.gravitational.co
+*.gravitational.io
+askpam.ai

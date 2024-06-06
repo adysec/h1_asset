@@ -1,0 +1,10 @@
+Personal Area for Web Trading
+Web Terminal
+Logical trading issues
+Partnership
+Portfolio Management
+Public Area for Web Trading
+Social Trading
+Any subdomain infrastructure issue
+Any subdomain application issue
+External service data leakage 

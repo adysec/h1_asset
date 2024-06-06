@@ -1,0 +1,17 @@
+*.semrush.com
+*.semrush.net
+*.sellzone.com
+*.berush.com
+secure.semrushchina.cn
+*.semrushchina.cn
+*.seoquake.com
+*.hr-semrush.com
+*.sellerly.com
+*.seoab.io
+*.scatec.io
+*.prowly.com
+events.semrush.com
+workflows.semrush.com
+investors.semrush.com
+engage.semrush.com
+*.myinsights.io

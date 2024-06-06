@@ -1,0 +1,2 @@
+com.abercrombie.abercrombie
+com.abercrombie.hollister

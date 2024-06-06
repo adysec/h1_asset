@@ -1,0 +1,13 @@
+*.alibaba.com
+*.aliexpress.com
+*.taobao.com
+*.tmall.com
+*.aliyun.com
+*.alibabacloud.com
+*.alibaba-inc.com
+*.aliyun-inc.com
+www.alibabagroup.com
+*.alimama.com
+*.Daraz.com
+*.aliexpress.ru
+*.1688.com

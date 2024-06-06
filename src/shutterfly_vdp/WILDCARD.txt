@@ -1,0 +1,9 @@
+http://*.sbs.shutterfly.com
+http://*.photoccino.com
+http://*.lifetouch.com
+*.shutterfly.com
+*.snapfish.com
+*.sf-cdn.com
+*.lifetouch.com
+*.photoccino.com
+*.sbs.shutterfly.com

@@ -1,0 +1,4 @@
+https://github.com/skalenetwork/skale-consensus
+https://github.com/skalenetwork/libBLS
+https://github.com/skalenetwork/sgxwallet
+https://github.com/skalenetwork/skale-manager/tree/develop/contracts

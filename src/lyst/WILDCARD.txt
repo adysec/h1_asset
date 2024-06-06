@@ -1,0 +1,6 @@
+http://*.lyst.com
+http://*.lystit.com
+http://*.lyst.co
+*.lyst.com
+*.lystit.com
+*.lyst.co

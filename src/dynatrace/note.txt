@@ -1,0 +1,1 @@
+39572	https://hackerone.com/dynatrace	Dynatrace	dynatrace

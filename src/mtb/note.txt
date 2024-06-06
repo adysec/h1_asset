@@ -1,0 +1,1 @@
+51968	https://hackerone.com/mtb	M&T Bank Vulnerability Disclosure	mtb

@@ -1,0 +1,11 @@
+*.advisorsolutions.gs.com
+*.folioclient.com
+*.foliofn.com
+*.folioidentity.com
+*.folioinstitutional.com
+*.nnip.com
+*.vennhypotheken.nl
+*.foliodigitalwealth.com
+*.foliofirst.com
+*.folioinvesting.com
+*.nextcapital.com

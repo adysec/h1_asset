@@ -1,0 +1,6 @@
+com.yourcompany.Virtual-Office
+com.8x8.spot
+com.atlassian.JitsiMeet.ios
+com.8x8.meetings
+8x8-meeting-rooms
+8x8-work

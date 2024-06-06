@@ -1,0 +1,2 @@
+http://*.gener8ads.com
+*.gener8ads.com

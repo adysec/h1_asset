@@ -1,0 +1,4 @@
+http://*.infra.lifeomic.com
+http://*.dev.lifeomic.com
+*.infra.lifeomic.com
+*.dev.lifeomic.com

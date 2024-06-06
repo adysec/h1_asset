@@ -1,0 +1,3 @@
+Showmax tvOS Application for AppleTV
+NLB (Network Load Balancer) for Showmax forwarding to HAproxies
+NLB (Network Load Balancer) forwarding to NGINX Ingress Controller (Kubernetes), requiring SSO/Vouch Proxy to login

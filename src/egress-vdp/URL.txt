@@ -1,0 +1,5 @@
+reader.egress.com
+switch.egress.com
+www.egress.com
+reader.vdp-egress.com
+switch.vdp-egress.com

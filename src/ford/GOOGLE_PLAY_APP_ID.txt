@@ -1,0 +1,11 @@
+com.ford.fordpass
+com.ford.remoteaccess
+com.ford.fordalexa
+com.ford.mfm
+com.ford.fordplay
+com.ford.performance.android.experience
+com.ford.therightway
+com.ford.fordvr
+com.lincoln.lincolnway
+com.lincoln.lincolnalexa
+com.lincoln.lincolnplay

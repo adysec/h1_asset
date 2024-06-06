@@ -1,0 +1,3 @@
+*.eu.floqast.app
+api-eu.floqast.app
+*.floqast.app

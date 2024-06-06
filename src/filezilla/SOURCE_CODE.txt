@@ -1,0 +1,4 @@
+https://svn.filezilla-project.org/svn/libfilezilla/trunk/
+https://svn.filezilla-project.org/svn/FileZilla3/trunk/
+https://svn.filezilla-project.org/svn/libfilezilla/trunk
+https://filezilla-project.org/download.php?type=server&show_all=1

@@ -1,0 +1,2 @@
+https://svn.filezilla-project.org/svn/FileZilla3/trunk/
+https://svn.filezilla-project.org/svn/libfilezilla/trunk

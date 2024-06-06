@@ -1,0 +1,2 @@
+http://*.cobinhood.com
+https://*.cobinhood.com

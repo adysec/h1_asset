@@ -1,0 +1,8 @@
+*.glovoapp.com
+*.glovoint.com
+*.glovostore.com
+*.testglovo.com
+*.askglovo.com
+*.glovoaccess.com
+*.glovocookroom.com
+*.glovoxtchallenge.com

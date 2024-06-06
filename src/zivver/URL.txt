@@ -1,0 +1,6 @@
+app.zivver.com
+collector.zivver.com
+downloads.zivver.com
+start.zivvermeet.com
+docs.zivver.com
+img.zivver.com

@@ -1,0 +1,16 @@
+www.crypto.com
+https://crypto.com/exchange
+app.mona.co
+https://auth.crypto.com/
+https://merchant.crypto.com
+pay.crypto.com
+js.crypto.com
+https://crypto.com/defi/
+crypto.org
+https://testnet-croeseid-4.crypto.org
+tax.crypto.com
+https://crypto.com/nft
+auth.crypto.com
+merchant.crypto.com
+testnet-croeseid-4.crypto.org
+https://crypto.com/price

@@ -1,0 +1,9 @@
+*.koho.ca
+*.koho.app
+web.koho.ca
+http://api.koho.ca/1.0
+http://api.koho.ca/partner
+app.koho.ca
+webgateway.koho.ca
+www.koho.ca
+usercontent.koho.ca

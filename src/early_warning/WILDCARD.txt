@@ -1,0 +1,7 @@
+*.zellepay.com
+*.earlywarning.com
+*.clearxchange.com
+developer*.earlywarning.com
+support*.earlywarning.com
+api.zmsp.*.earlywarning.io
+*.zelle.com

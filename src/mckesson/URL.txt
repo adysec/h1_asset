@@ -1,0 +1,2 @@
+*.Mckesson.com
+*.mckesson.*

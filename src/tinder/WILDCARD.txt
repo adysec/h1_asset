@@ -1,0 +1,12 @@
+http://*.tinder.com
+http://*.gotinder.com
+http://*.tinderops.net
+http://*.tstaging.com
+http://*.tstaging.tools
+http://*.tinderwebstaging.com
+*.tinder.com
+*.gotinder.com
+*.tinderops.net
+*.tstaging.com
+*.tstaging.tools
+*.tinderwebstaging.com

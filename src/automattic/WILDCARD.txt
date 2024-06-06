@@ -1,0 +1,4 @@
+http://*.tumblr.com
+http://*.srvcs.tumblr.com
+*.tumblr.com
+*.srvcs.tumblr.com

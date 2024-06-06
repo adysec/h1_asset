@@ -1,0 +1,2 @@
+*.saytechnologies.com
+*.say.rocks

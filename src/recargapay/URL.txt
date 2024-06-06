@@ -1,0 +1,3 @@
+api.recarga.com
+www.recargapay.com.br/*
+secure.recarga.com/*

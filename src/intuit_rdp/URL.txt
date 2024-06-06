@@ -1,0 +1,5 @@
+*.intuit.com
+*.turbotax.com
+*.mint.com
+*.quickbooks.com
+*.mailchimp.com

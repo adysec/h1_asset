@@ -1,0 +1,2 @@
+*.hypr.com
+*.gethypr.com

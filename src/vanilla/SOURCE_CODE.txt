@@ -1,0 +1,3 @@
+https://github.com/vanilla/vanilla/
+https://github.com/vanilla/addons
+https://github.com/vanilla/community

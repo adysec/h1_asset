@@ -1,0 +1,1 @@
+21024	https://hackerone.com/bitwarden	Bitwarden	bitwarden

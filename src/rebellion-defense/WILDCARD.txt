@@ -1,0 +1,10 @@
+http://*.rebelliondefence.com
+http://*.rebelliondefense.com
+http://*.rebellion.dev
+http://*.moochirp.io
+http://*.mooch.rip
+*.rebelliondefence.com
+*.rebelliondefense.com
+*.rebellion.dev
+*.moochirp.io
+*.mooch.rip

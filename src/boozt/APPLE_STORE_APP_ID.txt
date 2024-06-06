@@ -1,0 +1,2 @@
+com.boozt.app
+com.boozt.booztlet

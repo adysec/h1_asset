@@ -1,0 +1,5 @@
+http://*.varonis.com
+http://*.varonis.io
+*.varonis.com
+*.varonis.io
+*.varonis.net

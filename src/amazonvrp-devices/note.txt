@@ -1,0 +1,1 @@
+55148	https://hackerone.com/amazonvrp-devices	Amazon Vulnerability Research Program - Devices	amazonvrp-devices

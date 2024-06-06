@@ -1,0 +1,5 @@
+com.xoom.android.app
+com.paypal.merchant.client
+com.paypal.android.p2pmobile
+com.venmo
+com.paypal.here

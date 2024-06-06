@@ -1,0 +1,12 @@
+*.playstation.net
+*.sonyentertainmentnetwork.com
+*.api.playstation.com
+my.playstation.com
+store.playstation.com
+social.playstation.com
+transact.playstation.com
+wallets.api.playstation.com
+direct.playstation.com
+api.direct.playstation.com
+ca.account.sony.com
+my.account.sony.com

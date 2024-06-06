@@ -1,0 +1,7 @@
+https://gitlab.com/gitlab-org/gitlab
+https://gitlab.com/gitlab-org/gitlab-runner
+https://gitlab.com/gitlab-org/gitaly
+https://gitlab.com/gitlab-org/gitlab-pages
+https://gitlab.com/gitlab-org/gitlab-shell
+https://gitlab.com/gitlab-org/gitlab-vscode-extension
+https://gitlab.com/gitlab-org/opstrace/opstrace

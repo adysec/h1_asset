@@ -1,0 +1,2 @@
+com.gymshark.fitness
+com.gymshark.store

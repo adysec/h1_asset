@@ -1,0 +1,5 @@
+*.vanillaforums.com
+*.vanillacommunities.com
+*.vanillastaging.com
+*.vanilladevelopment.com
+*.vanillacommunity.com

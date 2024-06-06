@@ -1,0 +1,8 @@
+Chrome Extension: https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn
+Firefox Extension: https://addons.mozilla.org/en-US/firefox/addon/ether-metamask/
+MetaMask Browser Extension
+MetaMask JavaScript SDK
+MetaMask SDK
+https://metamask.github.io/phishing-warning/<vX.Y.Z>
+Snaps
+Third Party Snaps

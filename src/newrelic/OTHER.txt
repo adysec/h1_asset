@@ -1,0 +1,2 @@
+Synthetics minions (public and private)
+Agent traffic

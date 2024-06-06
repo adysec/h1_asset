@@ -1,0 +1,1 @@
+45140	https://hackerone.com/github-security-lab	GitHub Security Lab	github-security-lab

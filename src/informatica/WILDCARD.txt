@@ -1,0 +1,4 @@
+http://*.informatica.com
+http://*.informaticacloud.com
+*.informatica.com
+*.informaticacloud.com

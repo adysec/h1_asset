@@ -1,0 +1,2 @@
+https://github.com/worldcoin/world-id-contracts
+https://github.com/worldcoin/world-id-state-bridge

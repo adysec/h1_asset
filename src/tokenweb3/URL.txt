@@ -1,0 +1,6 @@
+*.prod.brazil.tkn.zone
+*.production.tkn.zone
+token.com
+monolith.xyz
+*.tokensvc.com
+blog.token.com

@@ -1,0 +1,1 @@
+Assets which are owned by Paystack are in scope for this Vulnerability Disclosure Program

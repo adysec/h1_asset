@@ -1,0 +1,2 @@
+Java Component in search.maven.org
+Java component NOT in search.maven.org

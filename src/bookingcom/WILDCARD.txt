@@ -1,0 +1,3 @@
+*.booking.com
+*.rentalcars.com
+*.fareharbor.engineering

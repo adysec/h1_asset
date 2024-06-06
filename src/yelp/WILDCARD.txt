@@ -1,0 +1,6 @@
+http://*.yelp.com
+http://*.yelp-support.com
+http://*.yelpwifi.com
+*.yelp.com
+*.yelp-support.com
+*.yelpwifi.com

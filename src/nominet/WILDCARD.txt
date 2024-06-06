@@ -1,0 +1,6 @@
+http://*.nominet.uk
+http://*.nominet.org.uk
+http://*.nic.uk
+*.nominet.uk
+*.nominet.org.uk
+*.nic.uk

@@ -1,0 +1,6 @@
+web.tide.co
+api.tide.co
+login.tide.co
+app.tide.co
+api.tideplatform.in
+www.tide.co

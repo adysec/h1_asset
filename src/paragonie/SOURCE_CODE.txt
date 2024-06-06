@@ -1,0 +1,12 @@
+https://github.com/paragonie/sodium_compat
+https://github.com/paragonie/easydb
+https://github.com/paragonie/halite
+https://github.com/paragonie/random_compat
+https://github.com/paragonie/anti-csrf
+https://github.com/paragonie/constant_time_encoding
+https://github.com/paragonie/certainty
+https://github.com/paragonie/password_lock
+https://github.com/paragonie/gpg-mailer
+https://github.com/paragonie/chronicle
+https://github.com/paragonie/sapient
+https://github.com/paragonie/paseto

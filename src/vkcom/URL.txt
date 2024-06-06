@@ -1,0 +1,5 @@
+*.vk.com
+*.vk.me
+*.vk.cc
+*.vk.link
+id.vk.com

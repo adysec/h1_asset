@@ -1,0 +1,3 @@
+https://github.com/magiceden-oss/erc721m/releases/latest
+https://github.com/magiceden-oss/open_creator_protocol/releases/latest
+https://github.com/coralcube-oss/mmm/releases/latest

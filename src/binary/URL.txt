@@ -1,0 +1,14 @@
+cashier.binary.com
+crypto-cashier.binary.com
+secure-dfadmin.binary.com
+*.binaryws.com
+*.deriv.com
+app.deriv.com
+smarttrader.deriv.com
+cashier.deriv.com
+*.deriv.cloud
+webtrader.binary.com
+binary.bot
+tradingview.binary.com
+charts.binary.com
+*.binary.com

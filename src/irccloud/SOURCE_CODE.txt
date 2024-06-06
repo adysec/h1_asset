@@ -1,0 +1,3 @@
+https://github.com/irccloud/ios
+https://github.com/irccloud/android
+https://github.com/irccloud/irccloud-desktop

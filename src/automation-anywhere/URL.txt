@@ -1,0 +1,7 @@
+automationanywhere.university
+https://apeople.automationanywhere.com/
+https://botstore.automationanywhere.com/
+*.my.automationanywhere.digital
+14west-1.my.automationanywhere.digital
+1775.my.automationanywhere.digital
+botstore.automationanywhere.com

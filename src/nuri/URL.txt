@@ -1,0 +1,10 @@
+https://www.bitwala.com
+https://app.bitwala.com
+api.app.bitwala.com
+https://www.nuri.com
+https://app.nuri.com/
+api.app.nuri.com
+www.bitwala.com
+app.bitwala.com
+www.nuri.com
+app.nuri.com

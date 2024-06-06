@@ -1,0 +1,2 @@
+61	https://hackerone.com/twitter	Twitter	twitter
+61	https://hackerone.com/twitter	X (Formerly Twitter)	twitter

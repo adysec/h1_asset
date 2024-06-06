@@ -1,0 +1,3 @@
+SDM Client - Windows (sdm.exe)
+SDM Client - macOS (sdm.app)
+SDM Gateway - *nix 

@@ -1,0 +1,11 @@
+https://github.com/circlefin/evm-cctp-contracts
+https://algoexplorer.io/asset/31566704
+https://app.dragonglass.me/hedera/tokens/0.0.456858
+https://etherscan.io/token/0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c
+https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48
+https://flowscan.org/contract/A.b19436aae4d94622.FiatToken
+https://polygonscan.com/token/0x2791bca1f2de4661ed88a30c99a7a9449aa84174
+https://snowtrace.io/token/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E
+https://solscan.io/token/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v
+https://stellar.expert/explorer/public/asset/USDC-GA5ZSEJYB37JRC5AVCIA5MOP4RHTM335X2KGX3IHOJAPP5RE34K4KZVN
+https://tronscan.org/#/token20/TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8

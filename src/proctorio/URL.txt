@@ -1,0 +1,7 @@
+*.proctor.io
+*.proctorauth.com
+getproctorio.com
+proctorio.com
+cdn.proctorio.com
+*.proctorcollect.com
+*.proctordata.com

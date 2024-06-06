@@ -1,0 +1,8 @@
+Acronis Agent
+Acronis Cyber Protect
+Acronis Cyber Protect Home Office (formerly Acronis True Image)
+Acronis DeviceLock DLP
+Acronis Snap Deploy
+Acronis Cyber Files
+Other Acronis executables
+Acronis Cloud Manager

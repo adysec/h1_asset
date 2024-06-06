@@ -1,0 +1,5 @@
+http://*.securityscorecard.io
+http://*.securityscorecard.com
+*.securityscorecard.io
+*.securityscorecard.com
+*.cvedetails.com

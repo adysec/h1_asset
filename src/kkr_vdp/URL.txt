@@ -1,0 +1,13 @@
+portal.kkr.com
+*.kkr.com
+kkr.com
+www.fskkradvisor.com
+www.kkrfunds.com
+*.kkr.cloud
+www.kkrreit.com
+www.kkresg.com
+processaccess.kkr.com
+advisortimetracker.kkr.com
+kkrpec.com
+kinfra.com
+ksam.com

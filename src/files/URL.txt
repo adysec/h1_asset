@@ -1,0 +1,3 @@
+app.files.com
+your-assigned-subdomain.files.com
+www.files.com

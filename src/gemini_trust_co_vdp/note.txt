@@ -1,0 +1,2 @@
+54275	https://hackerone.com/gemini_trust_co_vdp	Gemini	gemini_trust_co_vdp
+54275	https://hackerone.com/gemini_trust_co_vdp	Gemini VDP	gemini_trust_co_vdp

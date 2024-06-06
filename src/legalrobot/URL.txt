@@ -1,0 +1,4 @@
+app.legalrobot.com
+www.legalrobot.com
+www.legalrobot-test.com
+app.legalrobot-test.com

@@ -1,0 +1,6 @@
+http://*.cirrusinsight.com
+http://*.cirruspath.com
+http://*.zynbitdev.com
+*.cirrusinsight.com
+*.cirruspath.com
+*.zynbitdev.com

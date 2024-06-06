@@ -1,0 +1,1 @@
+15688	https://hackerone.com/brave	Brave Software	brave

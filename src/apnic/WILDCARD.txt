@@ -1,0 +1,10 @@
+http://*.apnic.net
+http://*.apnic.foundation
+http://*.isif.asia
+http://*.seedalliance.net
+http://*.apidt.org
+*.apnic.net
+*.apnic.foundation
+*.isif.asia
+*.seedalliance.net
+*.apidt.org

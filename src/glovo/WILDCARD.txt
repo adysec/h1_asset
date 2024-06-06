@@ -1,0 +1,8 @@
+http://*.glovoapp.com
+http://*.glovoint.com
+http://*.glovostore.com
+http://*.testglovo.com
+*.glovoapp.com
+*.glovoint.com
+*.glovostore.com
+*.testglovo.com

@@ -1,0 +1,6 @@
+yourdomain.freshdesk.com
+yourdomain.freshservice.com
+http://yourdomain.myfreshworks.com/crm
+yourdomain.freshchat.com
+yourdomain.freshcaller.com
+yourdomain.myfreshworks.com

@@ -1,0 +1,3 @@
+com.vkontakte.android
+com.vk.im
+com.vk.admin

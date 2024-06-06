@@ -1,0 +1,12 @@
+api.emea.gravity.porsche.com
+configurator.porsche.com
+connect-store.porsche.com
+finder.porsche.com
+identity.porsche.com
+jobs.porsche.com
+my.porsche.com
+newsroom.porsche.com
+porsche.com
+shop.porsche.com
+signup.porsche.com
+skyway.porsche.com

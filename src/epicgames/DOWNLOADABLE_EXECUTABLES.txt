@@ -1,0 +1,8 @@
+FortniteClient-Win64-Shipping.exe
+FortniteLauncher-Win64-Shipping.exe
+FortniteLauncher-Win64-Shipping_BE.exe
+FortniteLauncher-Win64-Shipping_EAC.exe
+FortniteLauncher.exe
+EOS C# SDK
+UnrealEditorFortnite-Win64-Shipping.exe
+EpicGamesLauncher.exe    

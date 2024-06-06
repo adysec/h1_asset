@@ -1,0 +1,3 @@
+*.clubhouse.com
+*.joinclubhouse.com
+*.clubhouseapi.com

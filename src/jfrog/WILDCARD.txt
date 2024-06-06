@@ -1,0 +1,4 @@
+http://*.jfrog.com
+http://*.jfrog.org
+*.jfrog.com
+*.jfrog.org

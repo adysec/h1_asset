@@ -1,0 +1,3 @@
+*.nominet.uk
+*.nominet.org.uk
+*.nic.uk

@@ -1,0 +1,3 @@
+www.linkedin.com
+api.linkedin.com
+business.linkedin.com

@@ -1,0 +1,2 @@
+*.trellix.com
+*.skyhighsecurity.com

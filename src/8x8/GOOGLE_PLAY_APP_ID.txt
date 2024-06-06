@@ -1,0 +1,3 @@
+org.vom8x8.sipua
+org.jitsi.meet
+com.spot8x8.spot

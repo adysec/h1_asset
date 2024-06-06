@@ -1,0 +1,11 @@
+https://github.com/stellar/rs-soroban-env
+https://github.com/stellar/rs-soroban-sdk
+ https://github.com/stellar/stellar-core/tree/master/src/rust
+https://github.com/stellar/bytes-lit
+https://github.com/stellar/crate-git-revision
+https://github.com/stellar/js-soroban-client
+https://github.com/stellar/rs-stellar-strkey
+https://github.com/stellar/rs-stellar-xdr
+https://github.com/stellar/soroban-examples
+https://github.com/stellar/soroban-tools
+https://github.com/stellar/wasmi

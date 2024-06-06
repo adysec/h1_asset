@@ -1,0 +1,4 @@
+https://github.com/adobe/svg-native-viewer
+https://github.com/adobe/*
+https://github.com/contentauth/c2pa-js
+https://github.com/contentauth/c2pa-rs

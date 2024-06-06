@@ -1,0 +1,7 @@
+service.transunion.com
+freeze.transunion.com
+disclosure.transunion.com
+dispute.transunion.com
+fraud.transunion.com
+checkmyscore.transunion.com
+personalsolution.transunion.hk

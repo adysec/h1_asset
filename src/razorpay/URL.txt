@@ -1,0 +1,12 @@
+https://dashboard.razorpay.com
+https://api.razorpay.com
+https://checkout.razorpay.com
+https://invoices.razorpay.com
+https://payroll.razorpay.com
+https://x.razorpay.com/
+dashboard.razorpay.com
+api.razorpay.com
+checkout.razorpay.com
+invoices.razorpay.com
+payroll.razorpay.com
+x.razorpay.com

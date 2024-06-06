@@ -1,0 +1,10 @@
+*.varonis.com
+blog.varonis.fr
+blog.varonis.de
+blog.varonis.br
+blog.varonis.ru
+blog.varonis.es
+app.varonis.io/login
+*.varonis.io
+http://app.varonis.io/login
+varonis.net

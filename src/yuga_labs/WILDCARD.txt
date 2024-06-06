@@ -1,0 +1,16 @@
+http://*.boredapeyachtclub.com
+http://*.yuga.com
+http://*.yugalabs.io
+http://*.otherside.xyz
+http://*.meebits.app
+http://*.cryptopunks.app
+http://*.mdvmm.xyz
+*.boredapeyachtclub.com
+*.yuga.com
+*.yugalabs.io
+*.otherside.xyz
+*.meebits.app
+*.cryptopunks.app
+*.mdvmm.xyz
+*.10ktf.com
+*.wenewmoments.com

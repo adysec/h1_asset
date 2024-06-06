@@ -1,0 +1,12 @@
+http://*.snooguts.net
+http://*.redditmedia.com
+http://*.reddit.com
+http://*.redditblog.com
+http://*.reddithelp.com
+http://*.redditinc.com
+*.snooguts.net
+*.redditmedia.com
+*.reddit.com
+*.redditblog.com
+*.reddithelp.com
+*.redditinc.com

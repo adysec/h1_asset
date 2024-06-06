@@ -1,0 +1,3 @@
+*.robinhood.com
+*.robinhood.net
+*.rhinternal.net

@@ -1,0 +1,6 @@
+*.ycombinator.com
+www.workatastartup.com
+www.startupschool.org
+blog.ycombinator.com
+conference.startupschool.org
+www.ycombinator.com

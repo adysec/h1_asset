@@ -1,0 +1,3 @@
+com.shutterfly
+com.photoupload
+Snapfish: Prints + Photo Books / com.snapfish.mobile

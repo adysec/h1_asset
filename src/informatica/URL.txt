@@ -1,0 +1,2 @@
+*.informatica.com
+*.informaticacloud.com

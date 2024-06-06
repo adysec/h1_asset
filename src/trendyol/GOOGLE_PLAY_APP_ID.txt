@@ -1,0 +1,3 @@
+trendyol.com
+com.dolap.android
+com.trendyol.milla.android

@@ -1,0 +1,3 @@
+app.traderepublic.com
+api.traderepublic.com
+traderepublic.com

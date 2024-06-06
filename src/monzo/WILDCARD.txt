@@ -1,0 +1,2 @@
+http://*.monzo.com
+http://*.prod-ffs.io

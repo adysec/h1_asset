@@ -1,0 +1,2 @@
+com.snapchat.android
+com.bitstrips.imoji

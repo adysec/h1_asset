@@ -1,0 +1,13 @@
+your-store.myshopify.com
+partners.shopify.com
+accounts.shopify.com
+shop.app
+shopify.plus
+arrive-server.shopifycloud.com
+*.shopify.com
+exchangemarketplace.com
+*.shopifykloud.com
+*.shopifycloud.com
+linkpop.com
+shopifyinbox.com
+admin.shopify.com

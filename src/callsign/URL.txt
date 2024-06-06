@@ -1,0 +1,6 @@
+app.s02.callsign.com
+*.s02.callsign.com
+b2b.s02.callsign.com
+https://southfields-v2.s02.t00-csglobal.a2develop.com/
+*.*
+southfields-v2.s02.t00-csglobal.a2develop.com

@@ -1,0 +1,8 @@
+www.kiwi.com
+*.kiwi.com
+*.skypicker.com
+auth.skypicker.com
+tequila.kiwi.com
+www.kiwi.com/stories
+jobs.kiwi.com
+http://www.kiwi.com/stories

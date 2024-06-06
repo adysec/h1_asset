@@ -1,0 +1,14 @@
+airMAX
+UniFi
+EdgeMAX
+airFiber
+UFiber
+AmpliFi
+UniFi Talk
+UniFi Protect
+UniFi Switches
+UniFi Wireless Access Points
+UniFi Gateways (UDM, UXG, USG)
+Cloudkey
+UniFi LED
+UniFi Access

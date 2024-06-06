@@ -1,0 +1,5 @@
+https://www.trafficfactory.com/
+https://main.trafficfactory.biz/
+*.trafficfactory.biz
+www.trafficfactory.com
+main.trafficfactory.biz

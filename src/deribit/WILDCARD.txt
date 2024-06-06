@@ -1,0 +1,2 @@
+http://*.deribit.com
+*.deribit.com

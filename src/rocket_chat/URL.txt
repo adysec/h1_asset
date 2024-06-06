@@ -1,0 +1,4 @@
+https://rocket.chat/
+https://cloud.rocket.chat/
+rocket.chat
+cloud.rocket.chat

@@ -1,0 +1,12 @@
+com.oyo.consumer
+com.oyo.partnerapp
+com.oyo.property
+com.bookertools
+com.oyo.orbis.ovh
+com.oyo.homes.maestro
+com.oyo.mmapp
+com.jedi.jediaudit
+com.oyorooms.coworkfoodvendor
+com.oyo.consumerlite
+com.guerrilla.innov8coworking
+com.oyorooms.weddingz.content

@@ -1,0 +1,3 @@
+*.ratelimited.me
+ratelimited.me
+api.ratelimited.me

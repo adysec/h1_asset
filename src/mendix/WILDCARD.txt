@@ -1,0 +1,6 @@
+http://*.mendix.com
+http://*.timeseries.com
+http://*.timeseries.nl
+*.mendix.com
+*.timeseries.com
+*.timeseries.nl

@@ -1,0 +1,3 @@
+api.kiwi.ki
+mobile.kiwi.ki
+portal.kiwi.ki

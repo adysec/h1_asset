@@ -1,0 +1,5 @@
+https://github.com/pyca/cryptography
+https://github.com/pyca/pynacl
+https://github.com/pyca/bcrypt
+https://github.com/pyca/pyopenssl
+https://github.com/pyca/infra

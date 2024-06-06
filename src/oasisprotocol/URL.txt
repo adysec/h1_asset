@@ -1,0 +1,6 @@
+wallet.oasis.io
+status.oasis.io
+http://emerald.oasis.dev
+http://grpc.oasis.dev
+http://rosetta.oasis.dev/api/mainnet
+http://sapphire.oasis.io

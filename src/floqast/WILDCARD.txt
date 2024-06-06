@@ -1,0 +1,5 @@
+http://*.eu.floqast.app
+http://*.floqast.app
+*.eu.floqast.app
+*.floqast.app
+https://*.floqast.engineering

@@ -1,0 +1,2 @@
+http://*.worklytics.co
+*.worklytics.co

@@ -1,0 +1,8 @@
+http://*.vk.com
+http://*.vk.me
+http://*.vk.cc
+http://*.vk.link
+*.vk.com
+*.vk.me
+*.vk.cc
+*.vk.link

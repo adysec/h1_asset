@@ -1,0 +1,1 @@
+6000	https://hackerone.com/msd	Merck & Co., Inc., Rahway, NJ, USA	msd

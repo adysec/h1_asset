@@ -1,0 +1,8 @@
+*.cafepress.com
+*.canvasworld.com
+*.gifts.com
+*.iseeme.com
+*.mycustomcase.com
+*.personalcreations.com
+*.photoaffections.com
+*.simplytoimpress.com

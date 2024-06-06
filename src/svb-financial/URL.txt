@@ -1,0 +1,16 @@
+www.svb.com
+www.svbconnect.com
+https://connect.svb.com/
+https://lendx.svb.com/
+https://sandbox.api.svb.com/v1/fx/deals
+https://svbbpm.svbconnect.com/suite/sites/GCO-Dashboard
+https://svbbpm.svbconnect.com/suite/sites/portico-client-onboarding
+https://api.svb.com/
+https://openbanking.svb.com/open-banking/v3.1/
+developer.svb.com
+https://www.cipherbio.com/
+connect.svb.com
+lendx.svb.com
+https://svbbpm.svbconnect.com/suite/sites/gco-dashboard
+api.svb.com
+www.cipherbio.com

@@ -1,0 +1,2 @@
+api.thnks.com
+app.thnks.com

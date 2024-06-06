@@ -1,0 +1,2 @@
+https://github.com/leather-wallet/extension
+https://github.com/leather-wallet/desktop

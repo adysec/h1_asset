@@ -1,0 +1,10 @@
+*.boredapeyachtclub.com
+*.yuga.com
+*.yugalabs.io
+*.otherside.xyz
+*.meebits.app
+*.cryptopunks.app
+*.mdvmm.xyz
+https://dookeydash.com/
+dookeydash.com
+hv-mtl.com

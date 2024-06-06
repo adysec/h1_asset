@@ -1,0 +1,2 @@
+com.token.android
+io.tokencard.app.android

@@ -1,0 +1,13 @@
+*.landrysinc.com
+*.landrysambassador.com
+*.landrysselect.com
+*.ldry.com
+*.goldennugget.com
+*.tilmanfertitta.com
+*.thepostoak.com
+*.thepostoakhotel.com
+*.shoppostoak.com
+*.goriocruises.com
+*.kemahboardwalk.com
+*.aquariumrestaurants.com
+*.fertittaentertainmentinc.com

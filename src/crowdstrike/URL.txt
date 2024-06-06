@@ -1,0 +1,16 @@
+*.crowdstrike.com
+www.crowdstrike.org
+falcon-sandbox.com
+hybrid-analysis.com
+crowdstrike.de
+crowdstrike.com.au
+crowdstrike.co.uk
+crowdstrike.fr
+crowdstrike.jp
+*.humio.com
+crowdstrike.com.br
+*.securecircle.com
+www.crowdstrike.com
+*.preempt.com
+*.preemptsecurity.com
+*.reposify.com

@@ -1,0 +1,3 @@
+*.exodus.io
+*.a.exodus.io
+*.exodus.com

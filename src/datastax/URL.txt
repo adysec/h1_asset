@@ -1,0 +1,8 @@
+https://www.datastax.com/
+https://downloads.datastax.com
+https://docs.datastax.com/
+https://astra.datastax.com
+www.datastax.com
+downloads.datastax.com
+docs.datastax.com
+astra.datastax.com

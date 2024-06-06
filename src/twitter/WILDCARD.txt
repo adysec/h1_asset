@@ -1,0 +1,6 @@
+http://*.twitter.com
+http://*.vine.co
+http://*.twimg.com
+*.twitter.com
+*.vine.co
+*.twimg.com

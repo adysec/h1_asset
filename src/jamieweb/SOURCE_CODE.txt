@@ -1,0 +1,5 @@
+https://gitlab.com/jamieweb/results-whitelist
+https://gitlab.com/jamieweb/jamieweb
+https://gitlab.com/jamieweb/jw-config
+https://gitlab.com/jamieweb/web-server-log-anonymizer-bloom-filter
+https://gitlab.com/jamieweb/dl-integrity-verify

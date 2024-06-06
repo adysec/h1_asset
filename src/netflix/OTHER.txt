@@ -1,0 +1,13 @@
+Corporate Assets
+Open Source - Consoleme
+Open Source - Weep
+Open Source - Zuul
+Microsites
+Open Source - Spectator
+Secondary Assets
+Content Authorization Targets
+Open Source - Dispatch
+Affiliates or entities such as recently acquired companies
+Content authorization vulnerabilities affecting only the in-browser player
+Low impact, individually exposed Google Docs with no common root cause (see “Publicly accessible Google Document or Drive Links” in the “Corporate Targets” section)
+Netflix Gaming Target

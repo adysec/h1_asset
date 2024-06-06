@@ -1,0 +1,3 @@
+https://github.com/smartcontractkit/chainlink
+https://github.com/smartcontractkit/chainlink/tree/master/contracts
+https://github.com/smartcontractkit/staking-v0.1/tree/master/contracts

@@ -1,0 +1,9 @@
+com.aqupepgames.projectpepe
+com.pieyel.scrabble
+com.withbuddies.dice.free
+com.scopely.yux
+com.foxnextgames.m3
+com.gww.km
+com.scopely.monopolygo
+com.scopely.startrek
+com.kitkagames.fallbuddies

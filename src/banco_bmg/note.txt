@@ -1,0 +1,1 @@
+74937	https://hackerone.com/banco_bmg	Banco BMG VDP	banco_bmg

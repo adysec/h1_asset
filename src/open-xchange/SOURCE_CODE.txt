@@ -1,0 +1,5 @@
+https://github.com/dovecot/core
+https://github.com/dovecot/pigeonhole
+https://github.com/PowerDNS/pdns
+https://github.com/open-xchange/appsuite-middleware
+https://github.com/open-xchange/appsuite-frontend

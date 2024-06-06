@@ -1,0 +1,4 @@
+http://*.s02.callsign.com
+http://*.*
+*.s02.callsign.com
+*.*

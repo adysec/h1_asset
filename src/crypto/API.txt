@@ -1,0 +1,2 @@
+Crypto.com mobile app APIs that require an account
+Crypto.com Exchange APIs that require an account

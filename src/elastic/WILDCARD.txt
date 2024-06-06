@@ -1,0 +1,14 @@
+http://*.elastic.co
+http://*.found.io
+http://*.swiftype.com
+http://*.elstc.co
+http://*.elasticnet.co
+http://*.eops.nl
+http://*.elastic-cloud.com
+*.elastic.co
+*.found.io
+*.swiftype.com
+*.elstc.co
+*.elasticnet.co
+*.eops.nl
+*.elastic-cloud.com

@@ -1,0 +1,8 @@
+com.capitalone.credittracker
+com.capitalone.intellix.mobile.prod
+com.konylabs.capitalone
+ca.capitalone.enterprisemobilebanking
+com.capitalone.atwork
+com.capitalone.tz
+com.ie.capitalone.uk
+com.ukcapitalone.creditWise

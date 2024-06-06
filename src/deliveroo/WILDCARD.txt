@@ -1,0 +1,12 @@
+api.*.deliveroo.com
+*.deliveroo.co.uk
+*.deliveroo.fr
+*.deliveroo.be
+*.deliveroo.ie
+*.deliveroo.it
+*.deliveroo.com.hk
+*.deliveroo.com.kw
+*.deliveroo.com.qa
+*.deliveroo.com.sg
+*.deliveroo.ae
+*.deliveroo.hk

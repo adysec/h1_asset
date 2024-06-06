@@ -1,0 +1,1 @@
+https://github.com/paypal/react-paypal-js

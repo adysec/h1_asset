@@ -1,0 +1,17 @@
+*.unibet.com
+*.unibet.fr
+*.storspiller.com
+*.bingo.com
+*.mariacasino.com
+*.kolikkopelit.com
+*.casinohuone.com
+*.igame.com
+*.vladcazino.ro
+unibet.me
+maria.casino
+*.ottokasino.com
+*.kindredext.net
+https://www.32red.com
+relaxcdn.unibet.com
+*.highrolling.nu
+www.32red.com

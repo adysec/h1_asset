@@ -1,0 +1,10 @@
+*.inter.co
+*.bancointer.com.br
+*.usend.com
+*.usendbrazil.com
+*.enviouchegou.com
+*.pontualmt.net
+*.pontualreports.net
+*.pontualmoneytransfer.com
+*.pontualmt.com
+*.pontualconnect.com

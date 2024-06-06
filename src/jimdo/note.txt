@@ -1,0 +1,1 @@
+50114	https://hackerone.com/jimdo	Jimdo GmbH	jimdo

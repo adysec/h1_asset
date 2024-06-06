@@ -1,0 +1,3 @@
+com.nextcloud.client
+com.nextcloud.talk2
+it.niedermann.owncloud.notes

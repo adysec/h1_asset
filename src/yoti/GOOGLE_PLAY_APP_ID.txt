@@ -1,0 +1,1 @@
+com.yoti.mobile.android.live

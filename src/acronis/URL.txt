@@ -1,0 +1,8 @@
+beta-baas.acronis.com
+*-api-*.acronis.com
+*.acronis.com
+account.acronis.com
+*.5nine.com
+*.devicelock.com
+*.acronis.work
+beta-cloud.acronis.com

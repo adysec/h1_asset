@@ -1,0 +1,1 @@
+38469	https://hackerone.com/midpoint_h1c	Midpoint (European Commission - DIGIT)	midpoint_h1c

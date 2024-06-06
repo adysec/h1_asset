@@ -1,0 +1,3 @@
+app.frontapp.com
+api2.frontapp.com
+http://help.front.com

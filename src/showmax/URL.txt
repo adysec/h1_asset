@@ -1,0 +1,6 @@
+https://www.showmax.com
+https://secure.showmax.com
+https://api.showmax.com
+vpn.*.platfoo.com
+bastion.*.platfoo.com
+https://stories.showmax.com

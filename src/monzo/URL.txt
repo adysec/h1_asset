@@ -1,0 +1,5 @@
+*.monzo.com
+monzo.me
+monzomail.com
+monzoemail.com
+*.prod-ffs.io

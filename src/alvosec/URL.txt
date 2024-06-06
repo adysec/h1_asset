@@ -1,0 +1,5 @@
+www.alvosec.com
+dns.alvosec.com
+cloud.alvosec.com
+mail.alvosec.com
+proton-api.alvosec.com

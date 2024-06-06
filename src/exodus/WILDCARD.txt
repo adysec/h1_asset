@@ -1,0 +1,6 @@
+http://*.exodus.io
+http://*.a.exodus.io
+http://*.exodus.com
+*.exodus.io
+*.a.exodus.io
+*.exodus.com

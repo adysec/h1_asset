@@ -1,0 +1,2 @@
+com.creditkarma.mobile
+com.creditkarma.mobile.international

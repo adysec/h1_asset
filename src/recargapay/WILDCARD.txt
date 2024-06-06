@@ -1,0 +1,4 @@
+http://www.recargapay.com.br/*
+http://secure.recarga.com/*
+www.recargapay.com.br/*
+secure.recarga.com/*
