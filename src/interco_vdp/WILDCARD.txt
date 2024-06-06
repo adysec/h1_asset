@@ -8,3 +8,12 @@
 *.pontualmoneytransfer.com
 *.pontualmt.com
 *.pontualconnect.com
+*.bmggranito.com.br
+*.filialbmggranito.com.br
+*.granitopagamentos.com.br
+*.granitopdv.com.br
+*.granitosistemas.com.br
+*.pagocartoes.com.br
+*.pagoportal.com.br
+*.portalgranito.com.br
+*.granito.xyz

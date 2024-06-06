@@ -880,3 +880,34 @@ Content authorization vulnerabilities affecting only the in-browser player
 Low impact, individually exposed Google Docs with no common root cause (see “Publicly accessible Google Document or Drive Links” in the “Corporate Targets” section)
 Netflix Gaming Target
 Amazon Subsidiaries (Please only actively test explicitly stated scope)
+gateway.elevi.net
+tenant-svc-fw-02.orl01.cymycloud.com
+38.77.128.123
+38.77.128.190
+38.77.128.196
+38.77.128.254
+38.77.128.255
+autodiscover.cybermyte.io
+imap.cybermyte.io
+mail.cybermyte.io
+vpn-west.lgsinnovations.com
+access.saphotonics.com
+connect-dr.caci.com
+connect.caci.com
+dns1.caci.com
+dns2.caci.com
+dns4.caci.com
+vpn-east.lgsinnovations.com
+mail.caci.com
+mailserver1a.caci.com
+mailserver1b.caci.com
+mailserver2a.caci.com
+mailserver2b.caci.com
+mailserver3a.caci.com
+mailserver3b.caci.com
+devvpn.centurum.com
+ems.centurum.com
+https://sslvpn.centurum.com
+keeper.centurum.com
+syslog.centurum.com
+tip.centurum.com

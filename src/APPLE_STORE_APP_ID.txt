@@ -487,3 +487,4 @@ Freshservice-Intune-iOS-App
 com.bitwarden.authenticator
 Netflix Mobile Application for iOS
 com.zellepay.zelle
+https://apps.apple.com/br/app/portal-granito/id1450658363

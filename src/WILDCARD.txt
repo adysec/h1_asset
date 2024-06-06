@@ -3622,3 +3622,14 @@ api.zmsp.*.earlywarning.io
 *.cibilcreditreport.in
 *.transuniondecisioncentre.co.in
 *.transunionsolutions.co.in
+*.hxfivelaunch.com
+*.dese.com
+*.bmggranito.com.br
+*.filialbmggranito.com.br
+*.granitopagamentos.com.br
+*.granitopdv.com.br
+*.granitosistemas.com.br
+*.pagocartoes.com.br
+*.pagoportal.com.br
+*.portalgranito.com.br
+*.granito.xyz

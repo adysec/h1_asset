@@ -1,0 +1,2 @@
+*.hxfivelaunch.com
+*.dese.com

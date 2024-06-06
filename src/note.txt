@@ -702,3 +702,5 @@
 79046	https://hackerone.com/nimiq	Nimiq	nimiq
 43330	https://hackerone.com/lab45	Lab45	lab45
 83563	https://hackerone.com/circle-bbp	Circle BBP	circle-bbp
+51966	https://hackerone.com/dib-vdp	DIB-VDP	dib-vdp
+81945	https://hackerone.com/klarna	Klarna	klarna
