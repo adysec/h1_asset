@@ -2,3 +2,4 @@ http://enjinx.io,enjinx.cn,api.enjinx.io,api.enjinx.cn,*.api.enjinx.io,*.api.enj
 http://assets.enjin.io,cdn.enjin.io,*.cdn.enjin.io,*.cdn.enjin.cn,cdn.enjin.cn,cdn.enjinx.io,cdn.enjinx.cn,enjinusercontent.com,*.enjinusercontent.com
 enjinx.io,enjinx.cn,api.enjinx.io,api.enjinx.cn,*.api.enjinx.io,*.api.enjinx.cn
 assets.enjin.io,cdn.enjin.io,*.cdn.enjin.io,*.cdn.enjin.cn,cdn.enjin.cn,cdn.enjinx.io,cdn.enjinx.cn,enjinusercontent.com,*.enjinusercontent.com
+*.enjinusercontent.com

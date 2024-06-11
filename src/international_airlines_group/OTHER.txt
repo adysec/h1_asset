@@ -3,3 +3,4 @@ iagcargo.com/*
 *.iairgroup.com
 *.aerlingus.com
 https://partnerservices.avios.com/partnerpages/password/request.html?partner=WEBGB00001&languageCode=en
+*.iberiaexpress.com

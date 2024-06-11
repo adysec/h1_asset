@@ -4,3 +4,4 @@ market://details?id=com.aloyoga.mena
 market://details?id=com.bbw.mena
 market://details?id=com.footlocker.mena
 market://details?id=com.vs.mena
+com.alshaya.aura

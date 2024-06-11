@@ -487,3 +487,4 @@ Netflix Mobile Application for Android
 com.zellepay.zelle
 https://play.google.com/store/apps/details?id=br.com.granitopagamentos.granitopdv
 https://play.google.com/store/apps/details?id=pagocartoes.com.br.pago
+com.alshaya.aura

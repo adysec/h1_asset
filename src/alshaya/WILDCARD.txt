@@ -71,3 +71,4 @@
 *.starbucks.az
 *.tamanna.com
 *.shayakahve.com.tr
+*.aura-mena.com

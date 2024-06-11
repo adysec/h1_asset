@@ -3633,3 +3633,5 @@ api.zmsp.*.earlywarning.io
 *.pagoportal.com.br
 *.portalgranito.com.br
 *.granito.xyz
+*.aura-mena.com
+*.enjinusercontent.com

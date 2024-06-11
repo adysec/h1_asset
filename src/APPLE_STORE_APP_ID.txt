@@ -488,3 +488,4 @@ com.bitwarden.authenticator
 Netflix Mobile Application for iOS
 com.zellepay.zelle
 https://apps.apple.com/br/app/portal-granito/id1450658363
+aura-mena-rewarding-loyalty/id1532694353
