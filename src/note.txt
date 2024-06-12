@@ -704,3 +704,5 @@
 83563	https://hackerone.com/circle-bbp	Circle BBP	circle-bbp
 51966	https://hackerone.com/dib-vdp	DIB-VDP	dib-vdp
 81945	https://hackerone.com/klarna	Klarna	klarna
+57016	https://hackerone.com/render	Render	render
+76677	https://hackerone.com/timelycare	TimelyCare	timelycare

@@ -1,0 +1,2 @@
+render.com
+dashboard.render.com

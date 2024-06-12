@@ -768,3 +768,8 @@ Open Source - Atlas
 https://github.com/nimiq/core-rs-albatross
 https://github.com/discourse/discourse
 https://github.com/nextcloud/tables
+https://github.com/hyperledger/besu
+https://github.com/hyperledger/fabric-admin-sdk
+https://github.com/hyperledger/besu-errorprone-checks
+https://github.com/hyperledger/besu-native
+https://github.com/hyperledger/besu-verkle-trie

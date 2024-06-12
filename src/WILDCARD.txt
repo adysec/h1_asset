@@ -3635,3 +3635,5 @@ api.zmsp.*.earlywarning.io
 *.granito.xyz
 *.aura-mena.com
 *.enjinusercontent.com
+sandbox-*.timelymd.io
+*.fareharbor.com

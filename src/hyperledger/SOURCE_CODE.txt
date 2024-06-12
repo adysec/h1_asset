@@ -22,3 +22,8 @@ https://github.com/hyperledger/fabric-private-chaincode
 https://github.com/hyperledger/fabric-protos-go-apiv2
 https://github.com/hyperledger/fabric-protos-go
 https://github.com/hyperledger/fabric-protos
+https://github.com/hyperledger/besu
+https://github.com/hyperledger/fabric-admin-sdk
+https://github.com/hyperledger/besu-errorprone-checks
+https://github.com/hyperledger/besu-native
+https://github.com/hyperledger/besu-verkle-trie
