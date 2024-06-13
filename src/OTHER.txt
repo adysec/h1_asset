@@ -914,3 +914,4 @@ tip.centurum.com
 *.iberiaexpress.com
 Enjin Blockchain
 Render Infrastructure
+Slack Desktop Application
