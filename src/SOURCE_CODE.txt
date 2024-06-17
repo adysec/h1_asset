@@ -773,3 +773,4 @@ https://github.com/hyperledger/fabric-admin-sdk
 https://github.com/hyperledger/besu-errorprone-checks
 https://github.com/hyperledger/besu-native
 https://github.com/hyperledger/besu-verkle-trie
+https://github.com/nextcloud/collectives

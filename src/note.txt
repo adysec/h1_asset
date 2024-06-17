@@ -706,3 +706,4 @@
 81945	https://hackerone.com/klarna	Klarna	klarna
 57016	https://hackerone.com/render	Render	render
 76677	https://hackerone.com/timelycare	TimelyCare	timelycare
+14406	https://hackerone.com/paylance	Paylance	paylance
