@@ -2,3 +2,5 @@ http://*.windstreamsmallbusiness.com
 http://*broadviewnet.com
 *.windstreamsmallbusiness.com
 *broadviewnet.com
+*.windstream.com
+*.windstream.net
