@@ -3639,3 +3639,6 @@ sandbox-*.timelymd.io
 *.fareharbor.com
 *.windstream.com
 *.windstream.net
+*.tekzone.me
+*.bathandbodyworks.ro
+*.visionexpress.me

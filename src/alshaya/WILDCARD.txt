@@ -72,3 +72,6 @@
 *.tamanna.com
 *.shayakahve.com.tr
 *.aura-mena.com
+*.tekzone.me
+*.bathandbodyworks.ro
+*.visionexpress.me

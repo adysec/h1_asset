@@ -489,3 +489,11 @@ Netflix Mobile Application for iOS
 com.zellepay.zelle
 https://apps.apple.com/br/app/portal-granito/id1450658363
 aura-mena-rewarding-loyalty/id1532694353
+H&M MENA - Shop Fashion Online_MENA_IOS_1445040108
+Bath&BodyWorks_MENA_IOS_1541576878
+AE + Aerie Middle East_MENA_IOS_1547602361
+Victoria's Secret MENA_MENA_IOS_1559906965
+Foot Locker MENA_MENA_IOS_1563808574
+Alo GCC_GCC_IOS_1664702687
+Aura MENA - Rewarding Loyalty_MENA_IOS_1532694353
+Debenhams MENA_MENA_IOS_1603834040
