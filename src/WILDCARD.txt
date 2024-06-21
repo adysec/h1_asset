@@ -3642,3 +3642,5 @@ sandbox-*.timelymd.io
 *.tekzone.me
 *.bathandbodyworks.ro
 *.visionexpress.me
+https://*.nucleussec.com
+*.flowsecurity.app

@@ -11,3 +11,4 @@ http://*.reposify.com
 *.preemptsecurity.com
 *.reposify.com
 *.bionic.ai
+*.flowsecurity.app
