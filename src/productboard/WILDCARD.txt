@@ -1,0 +1,2 @@
+*.productboard.com
+*.satismeter.com

@@ -3644,3 +3644,5 @@ sandbox-*.timelymd.io
 *.visionexpress.me
 https://*.nucleussec.com
 *.flowsecurity.app
+*.productboard.com
+*.satismeter.com
