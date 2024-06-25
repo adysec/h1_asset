@@ -483,3 +483,7 @@ voegele.info
 hamm.eu
 kleeman.info
 benninghoven.com
+https://fdvi5jweb1.jdpublic.deere.com/pqs-partsandservices/
+fdvi5jweb1.jdpublic.deere.com
+https://bantotal-ar-cert.deere.com/bantotal/servlet/com.dlya.bantotal.hwelcome
+bantotal-ar-cert.deere.com
