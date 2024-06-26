@@ -10,3 +10,4 @@ http://*.redditinc.com
 *.redditblog.com
 *.reddithelp.com
 *.redditinc.com
+*.spiketrap.io
