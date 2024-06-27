@@ -28,3 +28,4 @@ https://www.spiketrap.io
 app.spiketrap.io
 www.spiketrap.io
 matrix.redditspace.com
+developers.reddit.com

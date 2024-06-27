@@ -23,3 +23,8 @@ https://*.justicexchange.com
 *.fraudday.com
 *.konduto.blog
 *.decisionpoint3.com
+*equifax.com.br
+*.equifax.cr
+*veraz.com.ar
+*equifax.com.pa
+*theworknumber.com

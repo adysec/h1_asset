@@ -3647,3 +3647,8 @@ https://*.nucleussec.com
 *.productboard.com
 *.satismeter.com
 *.spiketrap.io
+*equifax.com.br
+*.equifax.cr
+*veraz.com.ar
+*equifax.com.pa
+*theworknumber.com
