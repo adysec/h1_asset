@@ -3652,3 +3652,4 @@ https://*.nucleussec.com
 *veraz.com.ar
 *equifax.com.pa
 *theworknumber.com
+*.api.cx.metamask.io
