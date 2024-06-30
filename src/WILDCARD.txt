@@ -3653,3 +3653,5 @@ https://*.nucleussec.com
 *equifax.com.pa
 *theworknumber.com
 *.api.cx.metamask.io
+vcc-ce-*.8x8.com
+analytics-*.8x8.com

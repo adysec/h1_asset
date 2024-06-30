@@ -16,3 +16,5 @@ vcc-*.8x8.com
 *.8x8cloud.net
 *.p8t.us
 *.wavecell.com
+vcc-ce-*.8x8.com
+analytics-*.8x8.com
