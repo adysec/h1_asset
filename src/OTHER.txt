@@ -928,3 +928,5 @@ Android App
 iOS App
 Non-Core Assets
 Campaign
+8x8 Partner Portal
+Authentication component

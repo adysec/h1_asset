@@ -10812,3 +10812,5 @@ arcgisportaltest.tal.deere.com
 invisionapp.com
 developers.reddit.com
 verifier.efxfed.com
+api.8x8.com
+https://user-storage.api.cx.metamask.io

@@ -6,3 +6,4 @@ MetaMask SDK
 https://metamask.github.io/phishing-warning/<vX.Y.Z>
 Snaps
 Third Party Snaps
+Authentication component
