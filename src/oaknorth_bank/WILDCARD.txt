@@ -2,3 +2,5 @@
 *.oaknorth-it.com
 *.oaknorth-prod.com
 *.oaknorth.com
+*.oaknorth.us
+*.oaknorthbank.co.uk

@@ -10814,3 +10814,5 @@ developers.reddit.com
 verifier.efxfed.com
 api.8x8.com
 https://user-storage.api.cx.metamask.io
+dashboard.qa.ai.8x8.com
+bookus.expediacruises.com

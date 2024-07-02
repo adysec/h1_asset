@@ -22,3 +22,4 @@ cloud8.8x8.com
 pay.8x8.com
 admin.8x8.com
 api.8x8.com
+dashboard.qa.ai.8x8.com
