@@ -2,3 +2,4 @@ https://github.com/maticnetwork/heimdall
 https://github.com/maticnetwork/bor
 https://github.com/maticnetwork/contracts
 https://github.com/0xPolygon/chain-indexer-framework 
+https://github.com/maticnetwork/matic-cli 
