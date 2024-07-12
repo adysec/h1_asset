@@ -10872,3 +10872,15 @@ pay-cert.deere.com
 pay-qual.deere.com
 pay.tal.deere.com
 business.reddithelp.com
+careers.remitly.com
+ir.remitly.com
+certifiedanalytics.deere.com
+crm.na1.insightly.com
+accounts.insightly.com
+outlook.insightly.com
+mobileapi.na1.insightly.com
+http://api.insightly.com/v3.1/
+login.insightly.com
+mobileapi.insightly.com
+http://api.na1.insightly.com/v3.1/
+marketing.na1.insightly.com

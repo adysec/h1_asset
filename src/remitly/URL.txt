@@ -9,3 +9,5 @@ cardpayments.remitly.io
 media.remitly.io
 partner-webhook.remitly.io
 ablink.info.remitly.com
+careers.remitly.com
+ir.remitly.com

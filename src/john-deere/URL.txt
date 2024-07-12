@@ -612,3 +612,4 @@ pay.deere.com
 pay-cert.deere.com
 pay-qual.deere.com
 pay.tal.deere.com
+certifiedanalytics.deere.com
