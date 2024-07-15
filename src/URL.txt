@@ -10885,3 +10885,5 @@ mobileapi.insightly.com
 http://api.na1.insightly.com/v3.1/
 marketing.na1.insightly.com
 8x8.my.site.com
+wings.ionity.eu
+https://ionity.eu/en/ionity/career

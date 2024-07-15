@@ -1,2 +1,4 @@
 payment.ionity.eu
 support.ionity.eu
+wings.ionity.eu
+https://ionity.eu/en/ionity/career
