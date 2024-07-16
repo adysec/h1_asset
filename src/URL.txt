@@ -10887,3 +10887,4 @@ marketing.na1.insightly.com
 8x8.my.site.com
 wings.ionity.eu
 https://ionity.eu/en/ionity/career
+academy.deriv.com

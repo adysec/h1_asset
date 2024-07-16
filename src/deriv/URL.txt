@@ -12,3 +12,4 @@ oauth.deriv.com
 api.deriv.com
 derivws.com
 secure-dfadmin.deriv.com
+academy.deriv.com
