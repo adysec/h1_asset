@@ -10888,3 +10888,5 @@ marketing.na1.insightly.com
 wings.ionity.eu
 https://ionity.eu/en/ionity/career
 academy.deriv.com
+news.remitly.com
+metrics.int.remitly.com

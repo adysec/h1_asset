@@ -11,3 +11,5 @@ partner-webhook.remitly.io
 ablink.info.remitly.com
 careers.remitly.com
 ir.remitly.com
+news.remitly.com
+metrics.int.remitly.com
