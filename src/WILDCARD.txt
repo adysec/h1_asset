@@ -3658,3 +3658,9 @@ analytics-*.8x8.com
 *.oaknorth.us
 *.oaknorthbank.co.uk
 *.lightstep.com
+*.alex-as.com
+*.alexamerican.com
+*.americansystems.com
+*.autodiscover.americansystems.com
+*.ddlomni.com
+*.nhaero.com

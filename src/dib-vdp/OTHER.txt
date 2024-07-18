@@ -29,3 +29,4 @@ https://sslvpn.centurum.com
 keeper.centurum.com
 syslog.centurum.com
 tip.centurum.com
+50.76.152.193

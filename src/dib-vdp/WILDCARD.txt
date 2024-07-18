@@ -1,3 +1,9 @@
 *.hxfivelaunch.com
 *.dese.com
 https://*.nucleussec.com
+*.alex-as.com
+*.alexamerican.com
+*.americansystems.com
+*.autodiscover.americansystems.com
+*.ddlomni.com
+*.nhaero.com
