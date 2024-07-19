@@ -3664,3 +3664,4 @@ analytics-*.8x8.com
 *.autodiscover.americansystems.com
 *.ddlomni.com
 *.nhaero.com
+*.epicgames.dev

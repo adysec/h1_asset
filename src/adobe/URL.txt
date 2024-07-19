@@ -89,3 +89,5 @@ marketo.com
 firefly.adobe.com
 https://contentcredentials.org/verify
 https://contentcredentials.org/
+learningmanager.adobe.com
+photoshop.adobe.com

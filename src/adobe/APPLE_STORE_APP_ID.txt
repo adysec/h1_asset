@@ -3,3 +3,5 @@ com.frame.FrameIO
 com.adobe.lrmobilephone
 com.adobe.lrmobile
 com.adobe.PSMobile
+com.adobe.Adobe-Reader
+com.adobe.scan.ios
