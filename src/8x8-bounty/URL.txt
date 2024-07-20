@@ -24,3 +24,4 @@ admin.8x8.com
 api.8x8.com
 dashboard.qa.ai.8x8.com
 8x8.my.site.com
+vcc-ce.8x8.com
