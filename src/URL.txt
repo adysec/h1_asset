@@ -11558,3 +11558,4 @@ mbdviewer.deere.com
 learningmanager.adobe.com
 photoshop.adobe.com
 vcc-ce.8x8.com
+ct.deriv.com

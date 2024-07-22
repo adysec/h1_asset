@@ -13,3 +13,4 @@ api.deriv.com
 derivws.com
 secure-dfadmin.deriv.com
 academy.deriv.com
+ct.deriv.com
