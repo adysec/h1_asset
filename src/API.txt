@@ -3,3 +3,8 @@ Crypto.com Exchange APIs that require an account
 apimobile.vueling.com
 funding-webhooks.remitly.io
 hub-api-sandbox.remitly.io
+api-gateway.polygon.technology
+faucet-api.polygon.technology/
+gasstation.polygon.technology/
+api-polygon-tokens.polygon.technology/
+balance-api.polygon.technology/

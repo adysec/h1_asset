@@ -775,3 +775,7 @@ https://github.com/hyperledger/besu-native
 https://github.com/hyperledger/besu-verkle-trie
 https://github.com/nextcloud/collectives
 https://github.com/maticnetwork/matic-cli 
+ https://github.com/0xPolygon/proof-generation-api
+https://github.com/0xPolygon/auto-claim-service
+https://github.com/0xPolygon/lxly.js
+https://github.com/0xPolygon/static

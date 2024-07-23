@@ -1,0 +1,5 @@
+api-gateway.polygon.technology
+faucet-api.polygon.technology/
+gasstation.polygon.technology/
+api-polygon-tokens.polygon.technology/
+balance-api.polygon.technology/

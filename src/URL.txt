@@ -11559,3 +11559,7 @@ learningmanager.adobe.com
 photoshop.adobe.com
 vcc-ce.8x8.com
 ct.deriv.com
+videodubbing.deere.com
+staking.polygon.technology
+ecosystem.polygon.technology
+ecosystem-api.polygon.technology
