@@ -503,3 +503,4 @@ https://apps.apple.com/us/app/compass-real-estate-homes/id692766504
 987675995
 com.adobe.Adobe-Reader
 com.adobe.scan.ios
+com.rbi.TimHortons

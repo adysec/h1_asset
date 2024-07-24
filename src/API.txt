@@ -8,3 +8,4 @@ faucet-api.polygon.technology/
 gasstation.polygon.technology/
 api-polygon-tokens.polygon.technology/
 balance-api.polygon.technology/
+https://api.6sense.com/docs/#introduction

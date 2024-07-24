@@ -3665,3 +3665,6 @@ analytics-*.8x8.com
 *.ddlomni.com
 *.nhaero.com
 *.epicgames.dev
+*timsfinancial.ca
+*api.timsfinancial.ca
+https://staging.api.timssiena.com/*

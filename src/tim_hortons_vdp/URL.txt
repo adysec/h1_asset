@@ -1,0 +1,1 @@
+https://use1-staging-th.rbictg.com/graphql

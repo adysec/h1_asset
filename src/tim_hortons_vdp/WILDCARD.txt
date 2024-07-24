@@ -1,0 +1,3 @@
+*timsfinancial.ca
+*api.timsfinancial.ca
+https://staging.api.timssiena.com/*
