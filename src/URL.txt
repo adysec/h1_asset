@@ -11566,3 +11566,6 @@ ecosystem-api.polygon.technology
 https://use1-staging-th.rbictg.com/graphql
 https://6sense.com/platform/sales/signup
 https://chromewebstore.google.com/detail/6sense-si-extension-for-c/mkpoonlmiaknmcdcmdhbnehhglndcolf?hl=en
+app.krisp.ai
+monosem.com
+www.toyota.co.th

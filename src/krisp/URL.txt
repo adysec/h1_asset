@@ -27,3 +27,4 @@ jobs.krisp.ai
 resources.krisp.ai
 contact.krisp.ai
 url5145.krisp.ai
+app.krisp.ai
