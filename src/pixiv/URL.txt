@@ -13,3 +13,4 @@ dic.pixiv.net
 novel.pixiv.net
 https://vroid.com/studio
 coban.pixiv.net
+pastela.app

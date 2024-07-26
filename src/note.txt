@@ -711,3 +711,5 @@
 48043	https://hackerone.com/insightly	Insightly	insightly
 63726	https://hackerone.com/tim_hortons_vdp	Tim Hortons VDP	tim_hortons_vdp
 83086	https://hackerone.com/6sense-vdp	6sense VDP	6sense-vdp
+18748	https://hackerone.com/oportun_digit	Oportun & Digit	oportun_digit
+55472	https://hackerone.com/moov	Moov	moov

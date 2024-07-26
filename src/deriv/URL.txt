@@ -14,3 +14,5 @@ derivws.com
 secure-dfadmin.deriv.com
 academy.deriv.com
 ct.deriv.com
+dx-demo.deriv.com
+dx.deriv.com
