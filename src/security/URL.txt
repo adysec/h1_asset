@@ -30,3 +30,4 @@ errors.hackerone.net
 hackerone.live
 www.wearehackerone.com
 mta-sts.wearehackerone.com
+hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com
