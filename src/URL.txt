@@ -11618,3 +11618,5 @@ disneytravelagents.com
 disneyland.disney.go.com
 langflow.org
 *.prudential.com
+www.nba.com
+displaysimulator-cert.deere.com

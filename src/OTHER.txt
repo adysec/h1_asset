@@ -935,3 +935,4 @@ Mozilla Ad Routing Service
 Security vulnerabilities that are identified in 6sense products or in website domains owned, operated, or controlled by 6sense are in scope
 H5G
 Prudential Assets
+Intelligent Canvas

@@ -1,0 +1,13 @@
+www.nba.com
+gleague.nba.com
+2kleague.nba.com
+bal.nba.com
+content-api-nextgen-prod.nba.com
+content-api-prod.nba.com
+core-api.nba.com
+id.nba.com
+stats-trafficcop-prod.nba.com
+cdn.nba.com
+cms.nba.com
+stats.nba.com
+identity.nba.com

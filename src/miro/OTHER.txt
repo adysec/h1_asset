@@ -4,3 +4,4 @@ https://marketplace.atlassian.com/apps/1215456/miro-for-jira-cloud?hosting=cloud
 Miro SDK
 Tier1
 Tier2
+Intelligent Canvas
