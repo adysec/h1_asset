@@ -11620,3 +11620,11 @@ langflow.org
 *.prudential.com
 www.nba.com
 displaysimulator-cert.deere.com
+events.pagerduty.com
+api.pagerduty.com
+pentest-uat.pushbot.com
+https://hub.docker.com/r/rundeck/rundeck/
+https://hub.docker.com/r/rundeckpro/enterprise
+https://hub.docker.com/r/rundeckpro/runner
+hackerone.stg.runbook.pagerduty.cloud
+www.pagerduty.com

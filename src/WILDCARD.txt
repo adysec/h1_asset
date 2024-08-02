@@ -3668,3 +3668,4 @@ analytics-*.8x8.com
 *timsfinancial.ca
 *api.timsfinancial.ca
 https://staging.api.timssiena.com/*
+*.pagerduty.com
