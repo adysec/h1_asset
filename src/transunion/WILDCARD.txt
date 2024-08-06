@@ -20,3 +20,6 @@
 *.cibilcreditreport.in
 *.transuniondecisioncentre.co.in
 *.transunionsolutions.co.in
+*.transunion.com.br
+*.crivo.com.br
+*.zipcode.com.br

@@ -500,3 +500,4 @@ com.compass.compass
 com.expediapartnercentral
 digital.rbi.timhortons
 https://play.google.com/store/apps/details?id=in.co.tkm.lexusindia
+om.vodafone.mva

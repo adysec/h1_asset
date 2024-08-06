@@ -1,0 +1,5 @@
+www.vodafone.om
+apix.vodafone.om
+vfo01.vodafone.om
+vfo02.vodafone.om
+vfo03.vodafone.om

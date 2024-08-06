@@ -124,3 +124,17 @@ http://*.banfieldpetexpress.com
 *.vetschoice.co.za
 *.banfieldassets.com
 *.securevetsource.com
+*.eukanuba.com
+*.eukanuba.com.ar
+*.eukanuba-gt.com
+*.gamellepersonnalisee-animal.fr
+*.hnlp.jp
+*.indsight-royalcanin.com
+*.meetmynewpet.com
+*.momentosroyalcanin.com
+*.mycat2vet.my
+*.myroyalcanin.bg
+*.myroyalcanin.hr
+*.myroyalcanin.si
+*.offre-odrvet.fr
+*.petpaw.com

@@ -717,3 +717,4 @@
 86792	https://hackerone.com/nba-public	NBA Public Bug Bounty	nba-public
 83103	https://hackerone.com/peloton	Peloton	peloton
 54574	https://hackerone.com/pagerduty	PagerDuty	pagerduty
+59057	https://hackerone.com/vodafone_oman	Vodafone Oman	vodafone_oman
