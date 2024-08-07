@@ -9,3 +9,8 @@ gasstation.polygon.technology/
 api-polygon-tokens.polygon.technology/
 balance-api.polygon.technology/
 https://api.6sense.com/docs/#introduction
+auth.onepeloton.com
+auth-orca.onepeloton.com 
+auth2.onepeloton.com
+auth-stage.onepeloton.com 
+auth2-stage.onepeloton.com

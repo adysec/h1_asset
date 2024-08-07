@@ -11633,3 +11633,9 @@ apix.vodafone.om
 vfo01.vodafone.om
 vfo02.vodafone.om
 vfo03.vodafone.om
+claude.ai
+cms.onepeloton.com
+cosmos.onepeloton.com
+auth-test.onepeloton.com
+cosmos-stage.onepeloton.com
+qa1-cms.onepeloton.com
