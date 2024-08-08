@@ -7,3 +7,7 @@ com.gww.km
 com.scopely.monopolygo
 com.scopely.startrek
 com.kitkagames.fallbuddies
+com.gsn.android.casino
+com.gsn.grandcasino
+air.com.bitrhymes.bingo
+com.gsn.android.tripeaks

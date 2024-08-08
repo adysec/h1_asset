@@ -11639,3 +11639,5 @@ cosmos.onepeloton.com
 auth-test.onepeloton.com
 cosmos-stage.onepeloton.com
 qa1-cms.onepeloton.com
+http://rei.com/lists
+www-1p.aig.com
