@@ -3686,3 +3686,4 @@ https://staging.api.timssiena.com/*
 *.myroyalcanin.si
 *.offre-odrvet.fr
 *.petpaw.com
+*.coinpass.com

@@ -719,3 +719,4 @@
 54574	https://hackerone.com/pagerduty	PagerDuty	pagerduty
 59057	https://hackerone.com/vodafone_oman	Vodafone Oman	vodafone_oman
 82909	https://hackerone.com/anthropic-vdp	Anthropic (VDP)	anthropic-vdp
+18748	https://hackerone.com/oportun_vdp	Oportun	oportun_vdp

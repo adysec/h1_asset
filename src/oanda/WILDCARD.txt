@@ -6,3 +6,4 @@ http://*.tmsbrokers.com
 *.oanda.jp
 *.tms.pl
 *.tmsbrokers.com
+*.coinpass.com
