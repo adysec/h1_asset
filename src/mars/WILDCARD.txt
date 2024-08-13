@@ -138,3 +138,13 @@ http://*.banfieldpetexpress.com
 *.myroyalcanin.si
 *.offre-odrvet.fr
 *.petpaw.com
+*.puntosroyaltyrc.com.co
+*.rcjapan.jp
+*.royalcanin.am
+*.royalcanin.bg
+*.royal-canin.by
+*.royalcanin.co.jp
+*.royal-canin.co.kr
+*.royalcanin.co.nz
+*.royalcanin.com.ar
+*.royalcanin.com.au
