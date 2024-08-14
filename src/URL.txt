@@ -11641,3 +11641,10 @@ cosmos-stage.onepeloton.com
 qa1-cms.onepeloton.com
 http://rei.com/lists
 www-1p.aig.com
+business.booking.com/
+daimlertrucksgoldcoast.com.au
+portalweb.bjd.deere.com
+cyberfinancial.deere.com
+gaia.deere.com
+midas.deere.com
+langflow.datastax.com

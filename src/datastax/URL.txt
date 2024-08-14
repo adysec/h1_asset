@@ -7,3 +7,4 @@ downloads.datastax.com
 docs.datastax.com
 astra.datastax.com
 langflow.org
+langflow.datastax.com
