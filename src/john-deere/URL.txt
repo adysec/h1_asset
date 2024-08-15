@@ -652,3 +652,7 @@ portalweb.bjd.deere.com
 cyberfinancial.deere.com
 gaia.deere.com
 midas.deere.com
+http://apps.deere.com/bjdweb
+apps.deere.com
+wwh-api.channel-warranty-warehouse-prod-vpn2.us.e06.c01.johndeerecloud.com
+achieve2.deere.com
