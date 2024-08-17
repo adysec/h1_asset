@@ -941,3 +941,18 @@ Infrastructure & Internal Apps/Services
 My School Bucks
 Other Semrush Related Asset
 Leaked/Сompromised Employee accounts
+Ivanti Avalanche
+Ivanti Endpoint Manager
+Cherwell Service Management (CSM)
+Desktop and Server Management (DSM)
+Ivanti Service Desk
+Ivanti Automation
+Ivanti Identity Director
+Ivanti Endpoint Manager Mobile (EPMM)
+Ivanti Endpoint Security for Endpoint Manager
+Ivanti Neurons for ITSM
+Ivanti Neurons for ZTA
+Ivanti Connect Secure
+Ivanti Neurons for MDM
+Ivanti Policy Secure
+Ivanti Sentry (on-prem)
