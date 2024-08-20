@@ -1,0 +1,14 @@
+ap-s.cloud.com
+eu.cloud.com
+us.cloud.com
+*.citrixworkspacesapi.net
+onboarding.cloud.com
+onboarding-*.cloud.com
+accounts.cloud.com
+adm.cloud.com
+api.adm.cloud.com
+(yoursubdomain).us.iws.cloud.com
+(yoursubdomain).ap.iws.cloud.com
+(yoursubdomain).eu.iws.cloud.com
+(youriwssubdomain).cloud.com
+*developer.cloud.com
