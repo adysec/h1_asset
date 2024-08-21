@@ -3697,3 +3697,4 @@ https://staging.api.timssiena.com/*
 *.royalcanin.co.nz
 *.royalcanin.com.ar
 *.royalcanin.com.au
+*.memorable.io

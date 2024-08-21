@@ -11,3 +11,4 @@ http://*.redditinc.com
 *.reddithelp.com
 *.redditinc.com
 *.spiketrap.io
+*.memorable.io

@@ -956,3 +956,4 @@ Ivanti Connect Secure
 Ivanti Neurons for MDM
 Ivanti Policy Secure
 Ivanti Sentry (on-prem)
+Copilot for Business
