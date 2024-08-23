@@ -16,3 +16,5 @@
 *.USMISSION.GOV
 *.ELGUARDIA.NET
 *.REWARDSFORJUSTICE.NET
+https://ais.usvisa-info.com
+https://casadmin.peckham.org

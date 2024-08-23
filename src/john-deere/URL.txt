@@ -656,3 +656,4 @@ http://apps.deere.com/bjdweb
 apps.deere.com
 wwh-api.channel-warranty-warehouse-prod-vpn2.us.e06.c01.johndeerecloud.com
 achieve2.deere.com
+standard-application-connection-demo.prod.us.e01.c01.johndeerecloud.com

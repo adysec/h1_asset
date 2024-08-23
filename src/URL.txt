@@ -11924,3 +11924,6 @@ cadbury.africa
 cadbury.com.my
 cadbury.com.sg
 cipster.it
+https://ais.usvisa-info.com
+https://casadmin.peckham.org
+standard-application-connection-demo.prod.us.e01.c01.johndeerecloud.com

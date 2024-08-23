@@ -3698,3 +3698,6 @@ https://staging.api.timssiena.com/*
 *.royalcanin.com.ar
 *.royalcanin.com.au
 *.memorable.io
+*.usvisascheduling.com
+*.ustraveldocs.com
+https://*.usvisaappt.com
