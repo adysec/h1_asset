@@ -148,3 +148,17 @@ http://*.banfieldpetexpress.com
 *.royalcanin.co.nz
 *.royalcanin.com.ar
 *.royalcanin.com.au
+*.rc.com.br
+*.royalcanin.com.br
+*.royalcanin.com.cn
+*.royalcanin.com.my
+*.royalcanin.com.tr
+*.royalcanin.com.ua
+*.royalcanin.com.uy
+*.royalcanin.de
+*.royalcanin.digital
+*.royalcanin.hu
+*.royalcanin.jp
+*.royalcanin.org
+*.royalcaninclub.hr
+*.royalcanin-cp.jp

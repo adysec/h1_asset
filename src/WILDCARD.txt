@@ -3701,3 +3701,17 @@ https://staging.api.timssiena.com/*
 *.usvisascheduling.com
 *.ustraveldocs.com
 https://*.usvisaappt.com
+*.rc.com.br
+*.royalcanin.com.br
+*.royalcanin.com.cn
+*.royalcanin.com.my
+*.royalcanin.com.tr
+*.royalcanin.com.ua
+*.royalcanin.com.uy
+*.royalcanin.de
+*.royalcanin.digital
+*.royalcanin.hu
+*.royalcanin.jp
+*.royalcanin.org
+*.royalcaninclub.hr
+*.royalcanin-cp.jp
