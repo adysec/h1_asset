@@ -957,3 +957,4 @@ Ivanti Neurons for MDM
 Ivanti Policy Secure
 Ivanti Sentry (on-prem)
 Copilot for Business
+https://chrome.google.com/webstore/detail/xverse-wallet/idnnbdplmphpflfnlkomgpfbpcgelopg

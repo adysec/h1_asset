@@ -505,3 +505,4 @@ com.gsn.android.casino
 com.gsn.grandcasino
 air.com.bitrhymes.bingo
 com.gsn.android.tripeaks
+com.secretkeylabs.xverse

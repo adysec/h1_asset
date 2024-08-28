@@ -722,3 +722,4 @@
 18748	https://hackerone.com/oportun_vdp	Oportun	oportun_vdp
 65430	https://hackerone.com/ivanti_vdp	Ivanti (VDP)	ivanti_vdp
 50631	https://hackerone.com/csg-public	Cloud Software Group	csg-public
+69690	https://hackerone.com/xverse	Xverse	xverse

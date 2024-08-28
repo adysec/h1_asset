@@ -11971,3 +11971,8 @@ https://www.rolands.com
 https://safran-dsi.com
 https://sealbeachea.com
 https://simivalleyvpn.ddns.net
+test.payworks.io
+console.tink.com
+developer.currencycloud.com
+direct-demo.currencycloud.com
+atscalepoc.ae-databricks-prod-standalone.us.e18.c01.johndeerecloud.com

@@ -62,3 +62,7 @@ developer.cybersource.com
 sandbox.authorize.net
 developer.authorize.net
 developer.visa.com
+test.payworks.io
+console.tink.com
+developer.currencycloud.com
+direct-demo.currencycloud.com
