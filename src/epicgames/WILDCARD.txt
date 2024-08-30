@@ -1,3 +1,4 @@
 *.bandcamp.com
 *.bcbits.com
 *.epicgames.dev
+*.twinmotion.com

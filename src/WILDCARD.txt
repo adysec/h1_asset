@@ -3715,3 +3715,4 @@ https://*.usvisaappt.com
 *.royalcanin.org
 *.royalcaninclub.hr
 *.royalcanin-cp.jp
+*.twinmotion.com
