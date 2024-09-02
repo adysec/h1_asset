@@ -3,3 +3,4 @@ Other
 Workfront Outlook Plugin
 ContentCal
 C2PA Tool
+*.lightroom.adobe.com

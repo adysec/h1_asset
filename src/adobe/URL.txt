@@ -91,3 +91,6 @@ https://contentcredentials.org/verify
 https://contentcredentials.org/
 learningmanager.adobe.com
 photoshop.adobe.com
+http://ims-na1.adobelogin.com
+adobeid-na1.services.adobe.com
+http://federatedid-na1.services.adobe.com

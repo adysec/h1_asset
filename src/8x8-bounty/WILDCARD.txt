@@ -19,3 +19,13 @@ vcc-*.8x8.com
 vcc-ce-*.8x8.com
 analytics-*.8x8.com
 qm-*.8x8.com
+*.fuze.site
+*.fuze.com
+*.thinkingphones.com
+*.thinkingphones.net
+*.8x8.com
+*.8x8.co.uk
+*.8x8.uk
+*.8x8e2e.com
+*.ucverse.com
+*.8x8pilot.com

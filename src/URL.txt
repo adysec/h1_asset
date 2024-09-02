@@ -12003,3 +12003,6 @@ https://www.drogas.lv/blog/
 https://www.drogas.lv/lv/blog
 https://www.drogas.lv/ru/blog
 media.theperfumeshop.com
+http://ims-na1.adobelogin.com
+adobeid-na1.services.adobe.com
+http://federatedid-na1.services.adobe.com
