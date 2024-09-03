@@ -3716,3 +3716,15 @@ https://*.usvisaappt.com
 *.royalcaninclub.hr
 *.royalcanin-cp.jp
 *.twinmotion.com
+*.slotomania.com
+*.playtika.com
+*.bingoblitz.com
+*.caesarsgames.com
+*.boardkingsgame.com
+*.houseoffun.com
+*.playwsop.com
+*.serious.li
+*.wooga.com
+*.redecor.com
+*.justfall.lol,*.justplay.lol,*.1v1.lol
+*.seriously.com

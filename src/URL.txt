@@ -12006,3 +12006,7 @@ media.theperfumeshop.com
 http://ims-na1.adobelogin.com
 adobeid-na1.services.adobe.com
 http://federatedid-na1.services.adobe.com
+gnocchi-www.buffalo-ggn.net
+bestfiends.com
+http://h1-your-domain.zendesk.com/wfm/
+http://h1-your-domain.zendesk.com/qa/
