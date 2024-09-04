@@ -781,3 +781,4 @@ https://github.com/0xPolygon/lxly.js
 https://github.com/0xPolygon/static
 https://github.com/rundeck/rundeck-cli
 https://github.com/rundeck/rundeck
+https://github.com/supabase

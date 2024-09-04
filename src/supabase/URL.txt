@@ -1,0 +1,6 @@
+supabase.com
+api.supabase.com
+https://supabase.store
+https://multiplayer.dev
+https://supabase.help
+https://supabase.link

@@ -12010,3 +12010,9 @@ gnocchi-www.buffalo-ggn.net
 bestfiends.com
 http://h1-your-domain.zendesk.com/wfm/
 http://h1-your-domain.zendesk.com/qa/
+supabase.com
+api.supabase.com
+https://supabase.store
+https://multiplayer.dev
+https://supabase.help
+https://supabase.link

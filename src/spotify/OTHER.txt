@@ -12,3 +12,5 @@ Whooshkaa
 Podsights
 Chartable
 Sonantic
+Core Assets
+Non-Core Assets
