@@ -964,3 +964,7 @@ https://apps.facebook.com/vegas_downtown_slots
 1v1.lol
 https://apps.facebook.com/pearls-peril
 Security vulnerabilities that are identified in Sony products or in website domains owned, operated, or controlled by Sony are in scope.  
+GHE
+Jira
+Okta
+VPN

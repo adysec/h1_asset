@@ -12016,3 +12016,6 @@ https://supabase.store
 https://multiplayer.dev
 https://supabase.help
 https://supabase.link
+access.remitly.com
+access-sandbox.remitly.com
+https://forestry.deere.com/dealers/salesreport/

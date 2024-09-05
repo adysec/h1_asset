@@ -658,3 +658,4 @@ wwh-api.channel-warranty-warehouse-prod-vpn2.us.e06.c01.johndeerecloud.com
 achieve2.deere.com
 standard-application-connection-demo.prod.us.e01.c01.johndeerecloud.com
 atscalepoc.ae-databricks-prod-standalone.us.e18.c01.johndeerecloud.com
+https://forestry.deere.com/dealers/salesreport/
