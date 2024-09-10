@@ -527,3 +527,7 @@ com.secretkeylabs.xverse
 1510325826
 1215220850
 594802437
+1180400838
+1089294040
+https://apps.apple.com/us/app/booking-com-hotels-travel/id367003839
+https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726

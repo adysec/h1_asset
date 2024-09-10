@@ -968,3 +968,8 @@ GHE
 Jira
 Okta
 VPN
+*.capitalone.com
+*.capitaloneshopping.com
+Capital One Shopping Browser Extension
+*.capitalonegslbex.com
+*.capitalone.ca

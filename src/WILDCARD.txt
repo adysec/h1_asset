@@ -3729,3 +3729,6 @@ https://*.usvisaappt.com
 *.justfall.lol,*.justplay.lol,*.1v1.lol
 *.seriously.com
 https://*.database.dev/
+https://*.khealth.com
+https://*.khealth.io/
+https://*.khealth.us/

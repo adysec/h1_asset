@@ -1,0 +1,3 @@
+https://*.khealth.com
+https://*.khealth.io/
+https://*.khealth.us/

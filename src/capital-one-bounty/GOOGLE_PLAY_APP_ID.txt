@@ -1,0 +1,2 @@
+com.konylabs.capitalone
+com.wikibuy.prod.main

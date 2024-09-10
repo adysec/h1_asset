@@ -1,0 +1,1 @@
+51619	https://hackerone.com/capital-one-bounty	Capital One Bug Bounty	capital-one-bounty

@@ -1,0 +1,6 @@
+Eno® Browser Extension
+*.capitalone.com
+*.capitaloneshopping.com
+Capital One Shopping Browser Extension
+*.capitalonegslbex.com
+*.capitalone.ca

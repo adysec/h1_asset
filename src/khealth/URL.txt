@@ -1,0 +1,15 @@
+api.khealth.io
+accounts.khealth.com
+www.kpharmacyllc.com
+start.khealth.com
+app.khealth.com
+kaccount.khealth.com
+ask.khealth.com
+http://auth.khealth.com/khealth/sign-up
+http://auth.khealth.com/cedars/sign-up
+http://auth.khealth.com/mayo-la-crosse/sign-up
+salesforce.khealth.com
+http://clinical-quality.khealth.com/api/v1
+middle-force.khealth.io
+anthem.khealth.com
+api.khealth.com
