@@ -727,3 +727,4 @@
 86709	https://hackerone.com/supabase	Supabase	supabase
 52578	https://hackerone.com/khealth	KHealth	khealth
 51619	https://hackerone.com/capital-one-bounty	Capital One Bug Bounty	capital-one-bounty
+81530	https://hackerone.com/ion_group	ION Group	ion_group
