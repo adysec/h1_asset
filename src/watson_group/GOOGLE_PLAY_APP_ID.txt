@@ -20,3 +20,4 @@ Watsons.Thailand.Android
 Superdrug.Healthera.App.Android
 Marionnaud.France.Android
 Watsons.Turkey.Android
+Drogas.Latvia.Android

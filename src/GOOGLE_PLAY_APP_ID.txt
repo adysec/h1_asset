@@ -528,3 +528,4 @@ ai.kanghealth
 com.wikibuy.prod.main
 https://play.google.com/store/apps/details?id=com.booking&hl=en
 https://play.google.com/store/apps/details?id=com.booking.hotelmanager&hl=en
+Drogas.Latvia.Android

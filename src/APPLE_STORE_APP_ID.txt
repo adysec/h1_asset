@@ -531,3 +531,4 @@ com.secretkeylabs.xverse
 1089294040
 https://apps.apple.com/us/app/booking-com-hotels-travel/id367003839
 https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726
+Drogas.Latvia.iOS

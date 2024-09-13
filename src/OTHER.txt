@@ -973,3 +973,5 @@ VPN
 Capital One Shopping Browser Extension
 *.capitalonegslbex.com
 *.capitalone.ca
+Watsons VN (subdomains)
+Drogas (subdomains)
