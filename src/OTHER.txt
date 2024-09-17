@@ -975,3 +975,4 @@ Capital One Shopping Browser Extension
 *.capitalone.ca
 Watsons VN (subdomains)
 Drogas (subdomains)
+Third Party Application
