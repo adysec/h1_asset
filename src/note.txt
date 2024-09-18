@@ -729,3 +729,4 @@
 51619	https://hackerone.com/capital-one-bounty	Capital One Bug Bounty	capital-one-bounty
 81530	https://hackerone.com/ion_group	ION Group	ion_group
 81530	https://hackerone.com/ion	ION Group	ion
+84809	https://hackerone.com/aws_vdp	AWS VDP	aws_vdp

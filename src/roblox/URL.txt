@@ -2,3 +2,4 @@
 *.rbx.com
 *.ra.roblox.com
 *.guilded.gg
+blox.link

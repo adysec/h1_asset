@@ -1,0 +1,15 @@
+https://github.com/aws/amazon-ecs-agent
+https://github.com/aws/amazon-ecs-cli
+https://github.com/aws/amazon-vpc-cni-k8s
+https://github.com/aws/aws-cdk
+https://github.com/aws/aws-cli
+https://github.com/aws/aws-sdk
+https://github.com/aws/s2n-tls
+https://github.com/kubernetes-sigs/aws-ebs-csi-driver
+https://github.com/kubernetes-sigs/aws-efs-csi-driver
+https://github.com/kubernetes-sigs/aws-encryption-provider
+https://github.com/kubernetes-sigs/aws-fsx-csi-driver
+https://github.com/kubernetes-sigs/aws-iam-authenticator
+https://github.com/kubernetes-sigs/aws-load-balancer-controller
+https://github.com/kubernetes-sigs/cluster-api-provider-aws
+https://github.com/amazonlinux/amazon-linux-2023

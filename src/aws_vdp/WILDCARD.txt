@@ -1,0 +1,1 @@
+*.lostark.games.aws.dev

@@ -12041,3 +12041,7 @@ www.watsons.vn
 www10.watsons.vn
 partsdesk.deere.com
 ai-lab-code-interpreter-api.ae-machine-learning-operations-devl-vpn.us.e18.c01.johndeerecloud.com
+forums.newworld.com
+https://github.com/aws-samples
+www.awseducate.com
+blox.link

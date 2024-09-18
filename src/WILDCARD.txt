@@ -4382,3 +4382,6 @@ https://*.khealth.us/
 *.wssauctions.net
 *.wssconsulting.com
 *.wssconsulting.net
+*.lostark.games.aws.dev
+*.transunion.com.do
+*.rocketball.com

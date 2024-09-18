@@ -1,0 +1,3 @@
+forums.newworld.com
+https://github.com/aws-samples
+www.awseducate.com

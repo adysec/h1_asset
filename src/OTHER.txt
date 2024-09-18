@@ -976,3 +976,266 @@ Capital One Shopping Browser Extension
 Watsons VN (subdomains)
 Drogas (subdomains)
 Third Party Application
+https://*.aws.amazon.com/*
+*.agscollab.com
+*.agslauncher.com
+*.amazongames.com
+*.aws.dev
+*.cloudendure.com
+*.gaming.amazon.com
+*.lambda-url.*.on.aws
+*.newworld.com
+*.tsologic.com
+AWS Databases
+AWS WAF
+AWS WorkDocs
+AWS WorkMail
+AWS-Owned and Operated Thick Clients
+Alexa For Business 
+All API's called by the AWS CLI
+Anything not in scope
+Devices
+Ground Station
+Services, Apps, Mobile
+api-user.e2ro.com/*
+https://*.amazonaws.com/*
+https://*.amazoncognito.com/*
+https://*.amazonworkdocs.com/*
+https://*.amazonzocalo.com/*
+https://*.aws.a2z.com/*
+https://*.aws.training/*
+https://*.aws/*
+https://*.awsapps.com/*
+https://*.awsevents.com/*
+https://*.awspartner.com/*
+https://*.mturk.com/*
+https://github.com/amazon-research/
+node.e2ro.com/*
+Amazon Bedrock
+AWS Amplify
+AWS App Mesh
+AWS App Runner
+AWS App2Container
+AWS AppConfig
+AWS AppFabric
+AWS AppSync
+AWS Application Auto Scaling
+AWS Application Composer
+AWS Application Cost Profiler
+AWS Application Discovery Service
+AWS Application Migration Service
+AWS Artifact
+AWS Audit Manager
+AWS Auto Scaling
+AWS B2B Data Interchange
+AWS Backint Agent
+AWS Backup
+AWS Batch
+AWS Billing and Cost Management
+AWS Blockchain Templates
+AWS BugBust
+AWS Builder ID
+AWS Certificate Manager (ACM)
+AWS Chalice
+AWS Chatbot
+AWS Clean Rooms
+AWS Clean Rooms ML
+AWS Client VPN
+AWS Cloud Control API
+AWS Cloud Development Kit (AWS CDK)
+AWS Cloud Digital Interface (CDI) SDK
+AWS Cloud Map
+AWS Cloud WAN
+AWS Cloud9
+AWS CloudFormation
+AWS CloudHSM
+AWS CloudShell
+AWS CloudTrail
+AWS CloudTrail Lake
+AWS CodeArtifact
+AWS CodeBuild
+AWS CodeCommit
+AWS CodeDeploy
+AWS CodePipeline
+AWS CodeStar
+AWS Command Line Interface (AWS CLI)
+AWS Compute Optimizer
+AWS Config
+AWS Console Mobile Application
+AWS Control Tower
+AWS Data Exchange
+AWS Data Pipeline
+AWS DataSync
+AWS Database Migration Service (AWS DMS)
+AWS Deep Learning AMIs (DLAMI)
+AWS Deep Learning Containers
+AWS DeepComposer
+AWS DeepLens
+AWS DeepRacer
+AWS Device Farm
+AWS Diode
+AWS Diode Messaging
+AWS Direct Connect
+AWS Directory Service
+AWS Directory Service for Microsoft Active Directory
+AWS Distro for OpenTelemetry
+AWS Elastic Beanstalk
+AWS Elastic Disaster Recovery
+AWS Elemental MediaConnect
+AWS Elemental MediaConvert
+AWS Elemental MediaLive
+AWS Elemental MediaPackage
+AWS Elemental MediaStore
+AWS Elemental MediaTailor
+AWS Entity Resolution
+AWS Fargate
+AWS Fault Injection Service
+AWS Firewall Manager
+AWS GameKit
+AWS Global Accelerator
+AWS Glue
+AWS Glue DataBrew
+AWS GovCloud (US)
+AWS Ground Station
+AWS Health
+AWS Health Dashboard
+AWS HealthImaging
+AWS HealthLake
+AWS HealthOmics
+AWS HealthScribe
+AWS IAM Identity Center
+AWS IQ
+AWS Identity and Access Management (IAM)
+AWS Identity and Access Management Access Analyzer
+AWS Import/Export
+AWS Inferentia
+AWS IoT 1-Click
+AWS IoT Analytics
+AWS IoT Core
+Amazon API Gateway
+Amazon AppFlow
+Amazon AppStream
+Amazon AppStream 2.0
+Amazon Athena
+Amazon Augmented AI (Amazon A2I)
+Amazon Aurora
+Amazon Braket
+Amazon Chime
+Amazon Chime SDK
+Amazon Cloud Directory
+Amazon CloudFront
+Amazon CloudSearch
+Amazon CloudWatch
+Amazon CloudWatch Application Insights
+Amazon CloudWatch Events
+Amazon CloudWatch Evidently
+Amazon CloudWatch Internet Monitor
+Amazon CloudWatch Logs
+Amazon CloudWatch RUM
+Amazon CodeCatalyst
+Amazon CodeGuru
+Amazon CodeGuru Profiler
+Amazon CodeGuru Reviewer
+Amazon CodeWhisperer
+Amazon Cognito
+Amazon Comprehend
+Amazon Comprehend Medical
+Amazon Connect
+Amazon Corretto
+Amazon Data Firehose
+Amazon Data Lifecycle Manager
+Amazon DataZone
+Amazon Detective
+Amazon DevOps Guru
+Amazon DevPay
+Amazon DocumentDB (with MongoDB compatibility)
+Amazon DynamoDB
+Amazon DynamoDB Streams
+Amazon EC2 Auto Scaling
+Amazon EMR
+Amazon EMR Serverless
+Amazon ElastiCache
+Amazon ElastiCache Serverless
+Amazon Elastic Block Store (Amazon EBS)
+Amazon Elastic Compute Cloud (Amazon EC2)
+Amazon Elastic Container Registry (Amazon ECR)
+Amazon Elastic Container Service (Amazon ECS)
+Amazon Elastic File System (Amazon EFS)
+Amazon Elastic Inference
+Amazon Elastic Kubernetes Service (Amazon EKS)
+Amazon Elastic Transcoder
+Amazon EventBridge
+Amazon FSx
+Amazon FSx for Lustre
+Amazon FSx for NetApp ONTAP
+Amazon FSx for OpenZFS
+Amazon FSx for Windows File Server
+Amazon FinSpace
+Amazon Forecast
+Amazon Fraud Detector
+Amazon GameLift
+Amazon GameSparks
+Amazon GuardDuty
+Amazon GuardDuty ECS Runtime Monitoring
+Amazon Honeycode
+Amazon Inspector
+Amazon Inspector Classic
+Amazon Interactive Video Service (Amazon IVS)
+Amazon Kendra
+Amazon Keyspaces (for Apache Cassandra)
+Amazon Kinesis
+Amazon Kinesis Data Streams
+Amazon Kinesis Video Streams
+Amazon Lex
+Amazon Lightsail
+Amazon Location Service
+Amazon Lookout for Equipment
+Amazon Lookout for Metrics
+Amazon Lookout for Vision
+Amazon Lumberyard
+Amazon MQ
+Amazon Machine Learning (Amazon ML)
+Amazon Macie
+Amazon Macie Classic
+Amazon Managed Blockchain (AMB)
+Amazon Managed Grafana
+Amazon Managed Service for Apache Flink
+Amazon Managed Service for Prometheus
+Amazon Managed Streaming for Apache Kafka (Amazon MSK)
+Amazon Managed Workflows for Apache Airflow (Amazon MWAA)
+Amazon Mechanical Turk
+Amazon MemoryDB
+Amazon Mobile Analytics
+Amazon Monitron
+Amazon Neptune
+Amazon Neptune Analytics
+Amazon Nimble Studio
+Amazon One Enterprise
+Amazon OpenSearch Serverless
+Alexa for Business
+Babelfish
+Blazegraph
+Blox
+Bottlerocket
+CloudEndure Disaster Recovery
+CloudEndure Migration
+EC2 Image Builder
+Elastic Load Balancing (ELB)
+Firecracker
+AWS Network Firewall
+FreeRTOS
+Migration Evaluator
+NICE DCV
+Open Distro
+OpenSearch
+PartiQL
+Quivela
+Red Hat OpenShift Service on AWS (ROSA)
+Sequoia
+Service Quotas
+Vector Engine for Amazon OpenSearch Serverless
+VPC Reachability Analyzer
+*.workshops.aws.dev
+*.people.aws.com
+*.people.aws.dev
+*.sa.aws.dev
