@@ -1239,3 +1239,4 @@ VPC Reachability Analyzer
 *.people.aws.com
 *.people.aws.dev
 *.sa.aws.dev
+Discovered Leaked Credentials

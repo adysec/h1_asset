@@ -1,3 +1,4 @@
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
+sunflower.ot.exodus.com
