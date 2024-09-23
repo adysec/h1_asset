@@ -1,1 +1,3 @@
 *.trip.com
+*.travix.com
+*.travix.io

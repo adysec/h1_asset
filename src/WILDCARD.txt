@@ -4385,3 +4385,5 @@ https://*.khealth.us/
 *.lostark.games.aws.dev
 *.transunion.com.do
 *.rocketball.com
+*.travix.com
+*.travix.io
