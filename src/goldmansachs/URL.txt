@@ -25,3 +25,4 @@ www.rocaton.com
 *.claritymoney.com
 apigw.foliofn.com
 api.foliofn.com
+www.fitvermogen.nl

@@ -12046,3 +12046,10 @@ https://github.com/aws-samples
 www.awseducate.com
 blox.link
 sunflower.ot.exodus.com
+fab.com
+api.marionnaud.at
+api.marionnaud.ch
+media.marionnaud.ch
+media.marionnaud.at
+https://equifax.ivdocs.net
+www.fitvermogen.nl
