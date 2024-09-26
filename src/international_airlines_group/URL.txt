@@ -27,3 +27,4 @@ m.vueling.com
 tickets.vueling.com
 www.iberia.com
 www.iberiaexpress.com
+adfs.avios.com
