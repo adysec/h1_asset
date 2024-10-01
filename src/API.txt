@@ -15,3 +15,4 @@ auth2.onepeloton.com
 auth-stage.onepeloton.com 
 auth2-stage.onepeloton.com
 https://sandbox.fireblocks.io/v2/settings/notifications
+8x8 Communication APIs

@@ -17,3 +17,4 @@
 *.pagoportal.com.br
 *.portalgranito.com.br
 *.granito.xyz
+*.interpag.co

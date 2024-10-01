@@ -12056,3 +12056,6 @@ www.fitvermogen.nl
 adfs.avios.com
 adminservice-dev.pla.com.ar
 https://equifaxpre.ivdocs.net
+advisoryworld.com
+lpl.com
+origin-www.tal.deere.com

@@ -1240,3 +1240,4 @@ VPC Reachability Analyzer
 *.people.aws.dev
 *.sa.aws.dev
 Discovered Leaked Credentials
+Domains where LPL Financial is listed as the Registrant Organization, Admin Organization, or Tech Organization are in scope. Domains maintained by third parties, other than LPL Financial, are not in scope for this program.
