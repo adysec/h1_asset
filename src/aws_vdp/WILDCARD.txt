@@ -1,1 +1,2 @@
 *.lostark.games.aws.dev
+https://github.com/awslabs/*

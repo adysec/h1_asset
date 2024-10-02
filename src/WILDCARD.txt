@@ -4389,3 +4389,4 @@ https://*.khealth.us/
 *.travix.io
 https://www.mactag.com/*
 *.interpag.co
+https://github.com/awslabs/*
