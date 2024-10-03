@@ -1,3 +1,7 @@
 *.dyson.com
 Other Dyson Assets
 Github findings
+Connected Products (IoT Hardware)
+Secondary Assets
+Core Assets
+Alternate Assets

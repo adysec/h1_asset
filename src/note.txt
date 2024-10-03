@@ -733,3 +733,4 @@
 65361	https://hackerone.com/mactaggart_scott	MacTaggart Scott	mactaggart_scott
 83114	https://hackerone.com/lpl_financial-vdp	LPL Financial VDP	lpl_financial-vdp
 87092	https://hackerone.com/pepsico_vdp	PepsiCo VDP	pepsico_vdp
+82811	https://hackerone.com/finnair_vdp	Finnair Vulnerability Disclosure	finnair_vdp
