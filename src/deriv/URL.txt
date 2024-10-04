@@ -16,3 +16,4 @@ academy.deriv.com
 ct.deriv.com
 dx-demo.deriv.com
 dx.deriv.com
+http://partners.deriv.com

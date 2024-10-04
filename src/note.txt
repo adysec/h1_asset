@@ -734,3 +734,4 @@
 83114	https://hackerone.com/lpl_financial-vdp	LPL Financial VDP	lpl_financial-vdp
 87092	https://hackerone.com/pepsico_vdp	PepsiCo VDP	pepsico_vdp
 82811	https://hackerone.com/finnair_vdp	Finnair Vulnerability Disclosure	finnair_vdp
+72764	https://hackerone.com/3cx	3CX	3cx

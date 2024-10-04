@@ -41,3 +41,5 @@ Data Loss Prevention (DLP)
 SSL/TLS
 Images
 *.cloudflarepartners.com
+Area 1
+Cloudflare Workers CI
