@@ -5,3 +5,6 @@ https://www.aeromexico.com/es-mx/aeromexico-rewards
 https://amfacturacion.aeromexico.com
 https://facturacion.aeromexico.com
 https://portalfacturacioncargo.aeromexico.com
+http://www.aeromexico-delta.com
+http://www.delta-aeromexico.com
+http://www.vuela.aeromexico.com

@@ -12145,3 +12145,8 @@ https://nimbus2.appslatam.com
 stanleyaccess.com
 viewv.dpn.deere.com
 http://partners.deriv.com
+http://www.aeromexico-delta.com
+http://www.delta-aeromexico.com
+http://www.vuela.aeromexico.com
+accounts.x.ai
+console.x.ai

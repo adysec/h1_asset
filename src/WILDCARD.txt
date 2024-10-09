@@ -4471,3 +4471,4 @@ https://github.com/awslabs/*
 *.sunchips.com
 *.tostitos.com
 *.yachak.com
+*.aeromexico.com

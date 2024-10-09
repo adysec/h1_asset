@@ -1,1 +1,2 @@
 www.aeromexico.com*
+*.aeromexico.com

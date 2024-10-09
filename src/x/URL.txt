@@ -6,3 +6,5 @@ api.x.ai
 grok.x.ai
 ide.x.ai
 xadsacademy.com
+accounts.x.ai
+console.x.ai
