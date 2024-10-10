@@ -4472,3 +4472,5 @@ https://github.com/awslabs/*
 *.tostitos.com
 *.yachak.com
 *.aeromexico.com
+https://*.wonder.com
+*.x.ai

@@ -1,3 +1,4 @@
 *.twitter.com
 *.vine.co
 *.twimg.com
+*.x.ai

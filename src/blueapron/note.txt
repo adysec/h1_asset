@@ -1,1 +1,2 @@
 50163	https://hackerone.com/blueapron	Blue Apron, LLC VDP	blueapron
+50163	https://hackerone.com/blueapron	Blue Apron (Wonder Group) VDP	blueapron

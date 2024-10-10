@@ -12150,3 +12150,6 @@ http://www.delta-aeromexico.com
 http://www.vuela.aeromexico.com
 accounts.x.ai
 console.x.ai
+https://order.wonder.com
+aiproducts.com
+https://www.mtn.com/supply-chain/
