@@ -4474,3 +4474,4 @@ https://github.com/awslabs/*
 *.aeromexico.com
 https://*.wonder.com
 *.x.ai
+*.amlab7.com

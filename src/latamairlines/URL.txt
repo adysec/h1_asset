@@ -1,1 +1,2 @@
 https://nimbus2.appslatam.com
+http://prs.appslatam.com
