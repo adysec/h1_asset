@@ -12156,3 +12156,10 @@ https://www.mtn.com/supply-chain/
 http://prs.appslatam.com
 blog.remitly.com
 jdsn-cart-qual.deere.com
+auth.remitly.com
+web3.moonpay.com
+sell.moonpay.com
+buy.moonpay.com
+auth.moonpay.com
+app.moonpay.com
+api.moonpay.com

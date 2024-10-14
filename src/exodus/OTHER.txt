@@ -1,1 +1,2 @@
 Exodus Browser Extension
+Passkey PlayGround
