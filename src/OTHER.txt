@@ -1249,3 +1249,4 @@ Alternate Assets
 Area 1
 Cloudflare Workers CI
 Passkey PlayGround
+staging.travix.com & stg.travix.com & dev.travix.com & development.travix.com & playground.travix.com

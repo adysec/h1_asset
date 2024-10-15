@@ -1,1 +1,2 @@
 <locale>.trip.com
+staging.travix.com & stg.travix.com & dev.travix.com & development.travix.com & playground.travix.com
