@@ -533,3 +533,5 @@ https://apps.apple.com/us/app/booking-com-hotels-travel/id367003839
 https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726
 Drogas.Latvia.iOS
 https://apps.apple.com/us/app/3cx/id992045982
+com.wf.mobilebanking
+com.wf.ceomobile

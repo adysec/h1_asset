@@ -737,3 +737,4 @@
 72764	https://hackerone.com/3cx	3CX	3cx
 50163	https://hackerone.com/blueapron	Blue Apron (Wonder Group) VDP	blueapron
 85694	https://hackerone.com/liverpool_victoria	Liverpool Victoria	liverpool_victoria
+55357	https://hackerone.com/wellsfargo-bbp	Wells Fargo Bounty	wellsfargo-bbp

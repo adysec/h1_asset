@@ -1,3 +1,4 @@
 https://nimbus2.appslatam.com
 http://prs.appslatam.com
 https://srtlatam.appslatam.com/
+https://flightwatch.lancargo.com/flightwatchweb-2.0/login.jsf

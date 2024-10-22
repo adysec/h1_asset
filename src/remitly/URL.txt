@@ -17,3 +17,4 @@ access.remitly.com
 access-sandbox.remitly.com
 blog.remitly.com
 auth.remitly.com
+site.rewire.com
