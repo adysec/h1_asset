@@ -60,3 +60,7 @@ wonderboxapi.com
 wonderboxdev.com
 capturingreality.com
 fab.com
+innersloth.kidswebservices.com
+kidswebservices.com
+niantic.kidswebservices.com
+staging.kidswebservices.com

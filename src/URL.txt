@@ -12211,3 +12211,7 @@ https://flightwatch.lancargo.com/flightwatchweb-2.0/login.jsf
 eligibility.khealth.com
 treatments.khealth.com
 caas-grafana.deere.com
+innersloth.kidswebservices.com
+kidswebservices.com
+niantic.kidswebservices.com
+staging.kidswebservices.com
