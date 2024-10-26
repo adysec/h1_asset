@@ -535,3 +535,13 @@ Drogas.Latvia.iOS
 https://apps.apple.com/us/app/3cx/id992045982
 com.wf.mobilebanking
 com.wf.ceomobile
+https://apps.apple.com/br/app/banco-ita%C3%BA-conta-cart%C3%A3o-e/id474505665
+https://apps.apple.com/br/app/ita%C3%BA-empresas-conta-mei-e-pj/id348274534
+https://apps.apple.com/br/app/iti-banco-digital-gr%C3%A1tis/id1442872271
+https://apps.apple.com/br/app/%C3%ADon-ita%C3%BA-investimentos/id1531733746
+https://apps.apple.com/br/app/credicard-cart%C3%A3o-de-cr%C3%A9dito/id928152601
+https://apps.apple.com/br/app/players-bank-conta-e-cart%C3%A3o/id1589488655
+https://apps.apple.com/br/app/ita%C3%BA-trader/id1567279093
+https://apps.apple.com/br/app/hipercard-cart%C3%A3o-de-cr%C3%A9dito/id1058898100
+https://apps.apple.com/br/app/ita%C3%BA-cart%C3%B5es-de-cr%C3%A9dito/id394401915
+https://apps.apple.com/br/app/credicard-on-cart%C3%A3o-de-cr%C3%A9dito/id1456157878

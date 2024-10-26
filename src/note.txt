@@ -738,3 +738,4 @@
 50163	https://hackerone.com/blueapron	Blue Apron (Wonder Group) VDP	blueapron
 85694	https://hackerone.com/liverpool_victoria	Liverpool Victoria	liverpool_victoria
 55357	https://hackerone.com/wellsfargo-bbp	Wells Fargo Bounty	wellsfargo-bbp
+85016	https://hackerone.com/itau_unibanco	Itaú Unibanco	itau_unibanco

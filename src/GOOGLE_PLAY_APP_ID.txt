@@ -532,3 +532,13 @@ Drogas.Latvia.Android
 https://play.google.com/store/apps/details?id=com.tcx.sipphone14
 com.wellsfargo.ceomobile
 com.wf.wellsfargomobile
+https://play.google.com/store/apps/details?id=com.itau&hl=pt_BR
+https://play.google.com/store/apps/details?id=com.itau.empresas&hl=pt_BR&gl=US
+https://play.google.com/store/apps/details?id=com.itau.iti&hl=pt_BR&gl=US
+https://play.google.com/store/apps/details?id=com.itau.investimentos&hl=pt_BR&gl=US
+https://play.google.com/store/apps/details?id=com.odete.credicard&hl=pt_BR&gl=US
+https://play.google.com/store/apps/details?id=com.itaucard.activity&hl=pt_BR&gl=US
+https://play.google.com/store/apps/details?id=com.odete.playersbank&hl=en&gl=US
+https://play.google.com/store/apps/details?id=com.itau.trader.mobile&hl=en&gl=US
+https://play.google.com/store/apps/details?id=com.hipercard.app&hl=en&gl=US
+https://play.google.com/store/apps/details?id=com.credicard.app&hl=pt_BR&gl=US
