@@ -1259,3 +1259,6 @@ Message signing snap
 *.wystar.com
 v1staging.kidswebservices.com 
 v1. kidswebservices.com
+falcon.gitlab.drs.com
+vpn01.drs.com
+vpn09.drs.com

@@ -7,3 +7,4 @@ https://*.nucleussec.com
 *.autodiscover.americansystems.com
 *.ddlomni.com
 *.nhaero.com
+*.coalfirefederal.com

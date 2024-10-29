@@ -4475,3 +4475,4 @@ https://github.com/awslabs/*
 https://*.wonder.com
 *.x.ai
 *.amlab7.com
+*.coalfirefederal.com
