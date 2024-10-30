@@ -671,3 +671,6 @@ about.deere.com
 caas-grafana.deere.com
 jdbulletins.deere.com
 soap.hagie.com
+jddirectory.deere.com
+kemper-stadtlohn.de
+produktkonfigurator1.kemper-stadtlohn.de
