@@ -12299,3 +12299,6 @@ soap.hagie.com
 jddirectory.deere.com
 kemper-stadtlohn.de
 produktkonfigurator1.kemper-stadtlohn.de
+www.bolsasymercados.es
+https://www.sdx.com/
+https://web3.sdx.com

@@ -542,3 +542,7 @@ https://play.google.com/store/apps/details?id=com.odete.playersbank&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.itau.trader.mobile&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.hipercard.app&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.credicard.app&hl=pt_BR&gl=US
+https://play.google.com/store/apps/details?id=com.sixgroup.debixplus
+https://play.google.com/store/apps/details?id=com.sixgroup.id&hl=en_US&pli=1
+https://play.google.com/store/apps/details?id=es.grupobme.bmeconecta
+https://play.google.com/store/search?q=Schweizer+Finanzmuseum&c=apps
