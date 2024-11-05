@@ -2,3 +2,5 @@ toolsforhumanity.com
 getworldcoin.com
 bioid-management.app
 worldcoin.org
+developer.worldcoin.org
+id.worldcoin.org

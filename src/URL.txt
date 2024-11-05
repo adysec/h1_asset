@@ -12302,3 +12302,7 @@ produktkonfigurator1.kemper-stadtlohn.de
 www.bolsasymercados.es
 https://www.sdx.com/
 https://web3.sdx.com
+developer.worldcoin.org
+id.worldcoin.org
+https://metroconnect.app.ridewithvia.com
+https://pt-runner.app.ridewithvia.com

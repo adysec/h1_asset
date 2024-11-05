@@ -2,3 +2,5 @@ global-api.citymapper.com
 remix.com
 eu.remix.com
 platform.remix.com
+https://metroconnect.app.ridewithvia.com
+https://pt-runner.app.ridewithvia.com
