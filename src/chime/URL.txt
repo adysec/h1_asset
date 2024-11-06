@@ -19,3 +19,6 @@ wp-integ.chime.com
 wp-qa.chime.com
 https://app.chime.com/
 app.chime.com
+app.saltlabs.com
+app.staging.saltlabs.com
+saltlabs.com

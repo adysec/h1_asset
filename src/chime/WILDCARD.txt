@@ -10,3 +10,4 @@ http://*.chimepayments.com
 *.chime.com
 *.chmfin.com
 *.chimepayments.com
+*.saltlabs.com

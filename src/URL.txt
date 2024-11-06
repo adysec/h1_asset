@@ -12306,3 +12306,6 @@ developer.worldcoin.org
 id.worldcoin.org
 https://metroconnect.app.ridewithvia.com
 https://pt-runner.app.ridewithvia.com
+app.saltlabs.com
+app.staging.saltlabs.com
+saltlabs.com

@@ -9,3 +9,5 @@ http://*.spotifyforbrands.com
 *.forspotify.com
 *.fromspotify.com
 *.tospotify.com
+*.spotify.com
+*.spotify.net

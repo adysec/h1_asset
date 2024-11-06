@@ -1,0 +1,3 @@
+*.tomtom-global.com
+*.tomtom.com
+*.tomtomgroup.com
