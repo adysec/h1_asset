@@ -1,0 +1,5 @@
+www.starbucks.co.jp
+www.cart.starbucks.co.jp/
+cart.starbucks.co.jp
+gift.starbucks.co.jp
+login.starbucks.co.jp

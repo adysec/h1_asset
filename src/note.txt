@@ -740,3 +740,8 @@
 55357	https://hackerone.com/wellsfargo-bbp	Wells Fargo Bounty	wellsfargo-bbp
 85016	https://hackerone.com/itau_unibanco	Itaú Unibanco	itau_unibanco
 81476	https://hackerone.com/tomtom	TomTom	tomtom
+85931	https://hackerone.com/starbucks_apac	Starbucks Asia Pacific and India	starbucks_apac
+85930	https://hackerone.com/starbucks_japan	Starbucks Japan	starbucks_japan
+85929	https://hackerone.com/starbucks_china	Starbucks China	starbucks_china
+85928	https://hackerone.com/starbucks_emea	Starbucks Europe, and Middle East and Africa	starbucks_emea
+85927	https://hackerone.com/starbucks_lac	Starbucks Latin America and Caribbean	starbucks_lac

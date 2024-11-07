@@ -5,3 +5,4 @@ Miro SDK
 Tier1
 Tier2
 Intelligent Canvas
+Innovation Workspace

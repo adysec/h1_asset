@@ -6,3 +6,4 @@ Acronis Snap Deploy
 Acronis Cyber Files
 Other Acronis executables
 Acronis Cloud Manager
+Acronis True Image (formerly Acronis Cyber Protect Home Office)
