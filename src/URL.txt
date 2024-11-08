@@ -12360,3 +12360,7 @@ www.starbucks.pe
 www.starbuckspr.com/
 www.starbucks.tt
 www.starbucks.com.uy
+web.crypto.com
+developer-platform-api.crypto.com
+new.express.adobe.com
+net.s2stagehance.com
