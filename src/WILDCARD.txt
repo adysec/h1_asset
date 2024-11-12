@@ -4482,3 +4482,7 @@ https://*.wonder.com
 *.saltlabs.com
 *.spotify.com
 *.spotify.net
+*.mintel.com
+*.mintel.cloud
+*.gnpd.com
+*.comperemedia.com

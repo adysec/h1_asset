@@ -1,0 +1,4 @@
+*.mintel.com
+*.mintel.cloud
+*.gnpd.com
+*.comperemedia.com
