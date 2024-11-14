@@ -31,3 +31,6 @@ https://etherscan.io/address/0x000000000000a53f64b7bcf4cd59624943c43fc7
 http://github.com/circlefin/noble-cctp
 https://github.com/circlefin/solana-cctp-contracts
 https://docs.world.org/world-chain/reference/address-book
+https://github.com/circlefin/buidl-wallet-contracts
+https://github.com/circlefin/stablecoin-evm
+https://github.com/circlefin/noble-fiattokenfactory

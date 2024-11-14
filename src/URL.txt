@@ -12385,3 +12385,8 @@ https://lon-dc-pdf.mintel.com
 https://lon-dc-ppt.mintel.com
 https://policy-agent.mintel.com
 https://whoswho.mintel.com/
+business-resources.truecaller.com
+tvamonitoring.com
+tvasites.giswebtechguru.com
+remoteaccess.deere.com
+simon.deere.com
