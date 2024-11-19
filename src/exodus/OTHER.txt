@@ -1,2 +1,3 @@
 Exodus Browser Extension
 Passkey PlayGround
+Passkey Wallet

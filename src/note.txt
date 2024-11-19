@@ -746,3 +746,4 @@
 85928	https://hackerone.com/starbucks_emea	Starbucks Europe, and Middle East and Africa	starbucks_emea
 85927	https://hackerone.com/starbucks_lac	Starbucks Latin America and Caribbean	starbucks_lac
 82258	https://hackerone.com/mintel	Mintel	mintel
+77110	https://hackerone.com/porsche	Porsche	porsche
