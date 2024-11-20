@@ -4486,3 +4486,6 @@ https://*.wonder.com
 *.mintel.cloud
 *.gnpd.com
 *.comperemedia.com
+*.mintel.co.uk
+https://www.britishairways.com/nx/*
+*.cceng.8x8.com

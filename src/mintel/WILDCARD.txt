@@ -2,3 +2,4 @@
 *.mintel.cloud
 *.gnpd.com
 *.comperemedia.com
+*.mintel.co.uk

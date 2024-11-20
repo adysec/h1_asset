@@ -1,1 +1,2 @@
 https://*.avios.com
+https://www.britishairways.com/nx/*
