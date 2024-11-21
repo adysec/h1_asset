@@ -798,3 +798,4 @@ https://github.com/kubernetes-sigs/aws-load-balancer-controller
 https://github.com/kubernetes-sigs/cluster-api-provider-aws
 https://github.com/amazonlinux/amazon-linux-2023
 https://github.com/circlefin/stablecoin-sui
+https://github.com/circlefin/stablecoin-aptos

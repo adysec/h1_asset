@@ -1,1 +1,2 @@
 https://github.com/circlefin/stablecoin-sui
+https://github.com/circlefin/stablecoin-aptos
