@@ -12484,3 +12484,12 @@ xn--porsche-schwbisch-gmnd-c5b89c.de
 xn--porsche-wrzburg-7vb.de
 https://www.britishairways.com/nx
 performanceresults.deere.com
+www.wnba.com
+stats.2kleague.nba.com
+corp-dev.nba.com
+manage-teams.nba.com
+nbafedsvc.nba.com
+vote.nba.com
+mcdalerts.nba.com
+elm.nba.com
+master.parts.deere.africa

@@ -4491,3 +4491,5 @@ https://www.britishairways.com/nx/*
 *.cceng.8x8.com
 *.sentinel-hub.cc
 *.sentinel-hub.com
+*.lemonsqueezy.com
+primevideo.com/*

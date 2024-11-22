@@ -677,3 +677,4 @@ produktkonfigurator1.kemper-stadtlohn.de
 remoteaccess.deere.com
 simon.deere.com
 performanceresults.deere.com
+master.parts.deere.africa
