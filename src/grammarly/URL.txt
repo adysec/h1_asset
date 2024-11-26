@@ -2,3 +2,5 @@
 *.grammarlyaws.com
 *.grammarly.com
 grammarly.ai
+capi.grammarly.com
+app.grammarly.com

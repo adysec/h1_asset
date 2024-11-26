@@ -4,3 +4,5 @@ https://github.com/rsksmart/powpeg-node
 https://github.com/rsksmart/rif-wallet
 https://github.com/rsksmart/rif-wallet-services
 https://github.com/rsksmart/rif-wallet-libs
+https://github.com/rsksmart/2wp-app
+https://github.com/rsksmart/2wp-api

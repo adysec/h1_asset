@@ -799,3 +799,5 @@ https://github.com/kubernetes-sigs/cluster-api-provider-aws
 https://github.com/amazonlinux/amazon-linux-2023
 https://github.com/circlefin/stablecoin-sui
 https://github.com/circlefin/stablecoin-aptos
+https://github.com/rsksmart/2wp-app
+https://github.com/rsksmart/2wp-api
