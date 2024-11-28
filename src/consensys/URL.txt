@@ -21,3 +21,5 @@ tickets.metamask.io
 https://www.infura.io/faucet/sepolia
 https://www.infura.io/faucet/linea
 webhook.metamask-institutional.io
+developer.metamask.io
+https://docs.metamask.io/developer-tools/faucet
