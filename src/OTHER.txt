@@ -1267,3 +1267,5 @@ Innovation Workspace
 Passkey Wallet
 Grammarly Auth Services
 Official Clients
+BlinkIT & Hyperpure assets (in scope)
+All Zomato Assets (Other than BlinkIT & Hyperpure)

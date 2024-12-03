@@ -1,1 +1,2 @@
 rubygems.org
+shipit.rubygems.org

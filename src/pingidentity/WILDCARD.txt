@@ -10,3 +10,4 @@ https://api-staging.pingone.com/*
 https://apps-staging.pingone.com/*
 https://ort-authenticator.pingone.com/*
 https://ort-desktop.pingone.com/*
+https://openam-bug-bounty-stag.forgeblocks.com/*

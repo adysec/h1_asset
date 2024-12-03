@@ -747,3 +747,4 @@
 85927	https://hackerone.com/starbucks_lac	Starbucks Latin America and Caribbean	starbucks_lac
 82258	https://hackerone.com/mintel	Mintel	mintel
 77110	https://hackerone.com/porsche	Porsche	porsche
+86897	https://hackerone.com/ishosting	is*hosting	ishosting

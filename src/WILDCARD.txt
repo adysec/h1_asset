@@ -4493,3 +4493,5 @@ https://www.britishairways.com/nx/*
 *.sentinel-hub.com
 *.lemonsqueezy.com
 primevideo.com/*
+https://openam-bug-bounty-stag.forgeblocks.com/*
+*.adaptive-shield.com
