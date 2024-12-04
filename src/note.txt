@@ -748,3 +748,4 @@
 82258	https://hackerone.com/mintel	Mintel	mintel
 77110	https://hackerone.com/porsche	Porsche	porsche
 86897	https://hackerone.com/ishosting	is*hosting	ishosting
+93599	https://hackerone.com/bcny	The Browser Company of NYC	bcny

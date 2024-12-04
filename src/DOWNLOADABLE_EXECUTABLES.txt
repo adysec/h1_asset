@@ -251,3 +251,5 @@ Roblox Engine
 3CX SBC
 Tenable Enclave Security
 Acronis True Image (formerly Acronis Cyber Protect Home Office)
+Arc on Window
+Arc on Mac
