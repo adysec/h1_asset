@@ -4495,3 +4495,6 @@ https://www.britishairways.com/nx/*
 primevideo.com/*
 https://openam-bug-bounty-stag.forgeblocks.com/*
 *.adaptive-shield.com
+*-asia-south1.truecaller.com
+*-eu.truecaller.com
+*-noneu.truecaller.com
