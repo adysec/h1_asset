@@ -12510,3 +12510,10 @@ bcny.com
 https://vault.chiatest.net/
 homeloans.wellsfargo.com
 https://api.deposits.oaknorth.co.uk
+auth0.gocardless.com
+myvirtualsuper.com.au
+thevirtualsuperintendent.com.au
+virtualsuperintendent.com.au
+cloudscapelabs.com
+myvirtualsuper.com
+thevirtualsuperintendent.com

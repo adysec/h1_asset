@@ -681,3 +681,9 @@ master.parts.deere.africa
 forms.deere.com
 visionapp-inline.apps1-qual.us.e20.c01.johndeerecloud.com
 r3p.johndeerepanel.com
+myvirtualsuper.com.au
+thevirtualsuperintendent.com.au
+virtualsuperintendent.com.au
+cloudscapelabs.com
+myvirtualsuper.com
+thevirtualsuperintendent.com

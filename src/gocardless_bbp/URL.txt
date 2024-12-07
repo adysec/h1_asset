@@ -7,3 +7,4 @@ oauth-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 bankaccountdata.gocardless.com
 ob.gocardless.com
+auth0.gocardless.com

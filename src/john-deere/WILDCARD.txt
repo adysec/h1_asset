@@ -1,0 +1,2 @@
+*.myvirtualsuper.com.au
+*.thevirtualsuperintendent.com.au
