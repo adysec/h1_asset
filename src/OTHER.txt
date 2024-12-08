@@ -1269,3 +1269,4 @@ Grammarly Auth Services
 Official Clients
 BlinkIT & Hyperpure assets (in scope)
 All Zomato Assets (Other than BlinkIT & Hyperpure)
+Stripe for Visual Studio Code
