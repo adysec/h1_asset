@@ -4500,3 +4500,5 @@ https://openam-bug-bounty-stag.forgeblocks.com/*
 *-noneu.truecaller.com
 *.myvirtualsuper.com.au
 *.thevirtualsuperintendent.com.au
+*.mytrainpal.com
+*.trainpal.com

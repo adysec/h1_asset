@@ -1,3 +1,5 @@
 *.trip.com
 *.travix.com
 *.travix.io
+*.mytrainpal.com
+*.trainpal.com
