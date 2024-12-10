@@ -804,3 +804,4 @@ https://github.com/rsksmart/2wp-api
 https://market.concretecms.com/
 https://github.com/modelcontextprotocol
 Elastic Behavior Detections
+Web3 DEX Open Source

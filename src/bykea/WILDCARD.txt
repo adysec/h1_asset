@@ -1,0 +1,6 @@
+https://kronos*.bykea.net
+https://loadboard*.bykea.net/
+https://raptor*.bykea.net
+*.bykea.net
+https://googleplace*.bykea.net
+https://*test*.bykea.net

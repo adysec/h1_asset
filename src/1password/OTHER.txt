@@ -1,0 +1,2 @@
+<Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI)
+<Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension (Chrome, Brave, Firefox, Edge, and Safari)

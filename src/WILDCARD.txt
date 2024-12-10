@@ -4502,3 +4502,11 @@ https://openam-bug-bounty-stag.forgeblocks.com/*
 *.thevirtualsuperintendent.com.au
 *.mytrainpal.com
 *.trainpal.com
+https://kronos*.bykea.net
+https://loadboard*.bykea.net/
+https://raptor*.bykea.net
+*.bykea.net
+https://googleplace*.bykea.net
+https://*test*.bykea.net
+*.trainpal.com,*.mytrainpal.com
+*.cheaptickets.nl

@@ -1,0 +1,2 @@
+com.bykea.pk
+com.bykea.pk.partner

@@ -749,3 +749,6 @@
 77110	https://hackerone.com/porsche	Porsche	porsche
 86897	https://hackerone.com/ishosting	is*hosting	ishosting
 93599	https://hackerone.com/bcny	The Browser Company of NYC	bcny
+93598	https://hackerone.com/1password	1Password - Enterprise Password Manager	1password
+93597	https://hackerone.com/1password_ctf	1Password - CTF	1password_ctf
+69982	https://hackerone.com/bykea	Bykea	bykea

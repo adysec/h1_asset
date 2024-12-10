@@ -584,3 +584,5 @@ Starbucks Peru Android
 https://play.google.com/store/apps/details?id=com.porsche.one
 com.nbaimd.gametime.nba2011
 company.thebrowser.arc
+com.bykea.pk
+com.bykea.pk.partner

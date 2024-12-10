@@ -3,3 +3,5 @@
 *.travix.io
 *.mytrainpal.com
 *.trainpal.com
+*.trainpal.com,*.mytrainpal.com
+*.cheaptickets.nl
