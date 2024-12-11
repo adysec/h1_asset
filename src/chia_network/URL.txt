@@ -1,1 +1,2 @@
 https://vault.chiatest.net/
+api.vault.chiatest.net

@@ -12527,3 +12527,4 @@ https://leaflet-map.bykea.net
 https://nominatim.bykea.net
 https://geocode-beta.bykea.net
 vpntest.johndeereandco.com
+api.vault.chiatest.net
