@@ -5,3 +5,4 @@ https://flightwatch.lancargo.com/flightwatchweb-2.0/login.jsf
 https://latamvideos.appslatam.com
 https://partnercenter.intg.appslatam.com/
 https://gte.appslatam.com
+https://lataminit.appslatam.com/

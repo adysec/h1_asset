@@ -20,3 +20,9 @@ api.spotify.com, api-partner.spotify.com
  api.spotify.com, api-partner.spotify.com
 api.ishosting.com
 https://events.1password.com/
+data-streams-vendor-api-eu.deliveryhero.io
+vendor.api.thedatafridge.com
+order.api.thedatafridge.com
+customer-profile.api.thedatafridge.com
+data-streams-product-api.deliveryhero.io
+product.api.thedatafridge.com
