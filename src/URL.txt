@@ -12567,3 +12567,9 @@ staging-node.myvirtualsuper.com
 staging-safesite.myvirtualsuper.com
 www.bhp.myvirtualsuper.com
 www.thevirtualsuperintendent.com
+www.drogas.lt
+media.drogas.lt
+https://www.drogas.lt/blog
+app.drogas.lt
+api.drogas.lt
+www.bitmex.com

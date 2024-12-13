@@ -133,3 +133,8 @@ api.marionnaud.at
 api.marionnaud.ch
 media.marionnaud.ch
 media.marionnaud.at
+www.drogas.lt
+media.drogas.lt
+https://www.drogas.lt/blog
+app.drogas.lt
+api.drogas.lt

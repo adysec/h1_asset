@@ -19,3 +19,4 @@ Watsons.Singapore.IOS
 Marionnaud.France.iOS
 Watsons.Turkey.iOS
 Drogas.Latvia.iOS
+Drogas.Lietuva.iOS

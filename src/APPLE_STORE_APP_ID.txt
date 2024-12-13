@@ -592,3 +592,4 @@ com.nbaimd.gametime.universal
 id6472513080
 https://apps.apple.com/app/chia-signer/id6504493785 
 1351179184
+Drogas.Lietuva.iOS
