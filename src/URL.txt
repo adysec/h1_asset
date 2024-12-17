@@ -12573,3 +12573,6 @@ https://www.drogas.lt/blog
 app.drogas.lt
 api.drogas.lt
 www.bitmex.com
+kronor.io
+https://amelia.appslatam.com
+nadex.com

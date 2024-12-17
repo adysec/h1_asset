@@ -16,3 +16,4 @@ testnet-croeseid-4.crypto.org
 https://crypto.com/price
 web.crypto.com
 developer-platform-api.crypto.com
+nadex.com
