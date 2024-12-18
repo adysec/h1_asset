@@ -593,3 +593,5 @@ id6472513080
 https://apps.apple.com/app/chia-signer/id6504493785 
 1351179184
 Drogas.Lietuva.iOS
+https://apps.apple.com/us/app/verily-me/id6448808133
+https://apps.apple.com/us/app/onduo/id1138490045

@@ -752,3 +752,4 @@
 93598	https://hackerone.com/1password	1Password - Enterprise Password Manager	1password
 93597	https://hackerone.com/1password_ctf	1Password - CTF	1password_ctf
 69982	https://hackerone.com/bykea	Bykea	bykea
+91022	https://hackerone.com/verily_life_sciences	Verily Life Sciences	verily_life_sciences

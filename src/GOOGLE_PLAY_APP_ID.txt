@@ -587,3 +587,5 @@ company.thebrowser.arc
 com.bykea.pk
 com.bykea.pk.partner
 Drogas.Lietuva.Android
+https://play.google.com/store/apps/details?id=com.verily.me
+https://play.google.com/store/apps/details?id=com.google.android.apps.diabetes
