@@ -2,3 +2,4 @@
 *.vine.co
 *.twimg.com
 *.x.ai
+*.x.com
