@@ -4,3 +4,4 @@ identity.bitwarden.com
 vault.bitwarden.com
 help.bitwarden.com
 v4.passwordless.dev
+docs.passwordless.dev
