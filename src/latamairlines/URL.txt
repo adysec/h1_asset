@@ -7,3 +7,4 @@ https://partnercenter.intg.appslatam.com/
 https://gte.appslatam.com
 https://lataminit.appslatam.com/
 https://amelia.appslatam.com
+https://portal.api.latampass.com/

@@ -12580,3 +12580,4 @@ cvml-primaries.deere.com
 app.gmelius.com
 www.roastery.starbucks.it
 docs.passwordless.dev
+https://portal.api.latampass.com/
