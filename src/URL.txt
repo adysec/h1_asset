@@ -12581,3 +12581,15 @@ app.gmelius.com
 www.roastery.starbucks.it
 docs.passwordless.dev
 https://portal.api.latampass.com/
+www.starbucks.com.kz
+www.starbucks.ae
+www.starbucks.com.bh
+www.starbucks.com.jo
+www.starbucks.com.kw
+www.starbucks.com.lb
+www.starbucks.co.ma
+www.starbucks.com.om
+www.starbucks.qa
+www.starbucks.sa
+www.starbucks.co.za
+www.starbucks.rs
