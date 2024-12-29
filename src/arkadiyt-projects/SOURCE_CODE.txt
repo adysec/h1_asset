@@ -5,3 +5,4 @@ https://github.com/arkadiyt/zoom-redirector
 https://github.com/arkadiyt/protodump
 https://github.com/arkadiyt/ddexport
 https://github.com/arkadiyt/free-ft
+https://github.com/arkadiyt/multiple-aws-sessions

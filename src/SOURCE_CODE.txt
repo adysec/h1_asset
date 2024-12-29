@@ -806,3 +806,4 @@ https://github.com/modelcontextprotocol
 Elastic Behavior Detections
 Web3 DEX Open Source
 https://github.com/circlefin/sui-cctp
+https://github.com/arkadiyt/multiple-aws-sessions
