@@ -12593,3 +12593,15 @@ www.starbucks.qa
 www.starbucks.sa
 www.starbucks.co.za
 www.starbucks.rs
+shop.thecompanystore.com.sg
+shop.thecompanystore.com.my
+shop.thecompanystore.asia
+shop.thecompanystore.com.tw
+shop.thecompanystore.jp
+shop.theonlinecompanystore.com.au
+www.thecompanystore.com.hk
+thecompanystore.co.kr
+microsite.digitalcapture.elcompanies.com
+d2c-register-balmainbeauty.elcompanies.co.uk
+form.digitalcapture.elcompanies.com
+www.eform.ap.elcompanies.com
