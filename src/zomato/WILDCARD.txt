@@ -10,3 +10,8 @@ http://*.runnr.in
 *.runnr.in
 http://*.grofer.io
 http://*.grofers.com
+*.district.in
+*.edition.in
+*.ticketnew.com
+*.insider.in
+*.tktnew.com

@@ -4518,3 +4518,8 @@ https://*.projectbaseline.com/
 https://*.signalpath.com/
 https://*.granularinsurance.com/
 *.x.com
+*.district.in
+*.edition.in
+*.ticketnew.com
+*.insider.in
+*.tktnew.com
