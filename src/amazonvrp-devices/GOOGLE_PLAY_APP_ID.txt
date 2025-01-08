@@ -6,3 +6,4 @@ com.amazon.dee.app
 com.amazon.clouddrive.photos
 com.amazon.cosmos
 com.amazon.tails
+com.amazon.dee.alexaonwearos
