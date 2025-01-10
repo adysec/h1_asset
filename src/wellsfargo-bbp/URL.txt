@@ -2,3 +2,4 @@ connect.secure.wellsfargo.com
 http://wellsfargo.com
 http://wf.com
 homeloans.wellsfargo.com
+accountoffers.wellsfargo.com

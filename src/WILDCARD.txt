@@ -4523,3 +4523,8 @@ https://*.granularinsurance.com/
 *.ticketnew.com
 *.insider.in
 *.tktnew.com
+*.wsshome.com
+*.wsshome.net
+*.wssorderlink.com
+*.wssorderlink.net
+*.wssservicescorp.com

@@ -1274,3 +1274,4 @@ Stripe for Visual Studio Code
 <Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension (Chrome, Brave, Firefox, Edge, and Safari)
 BlinkIT, Hyperpure assets (in scope)
 All District Assets (Other than Zomato, BlinkIT & Hyperpure)
+Tier 3

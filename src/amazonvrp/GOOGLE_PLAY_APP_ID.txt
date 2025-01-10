@@ -25,3 +25,7 @@ com.amazon.technician.android
 com.amazon.primenow.seller.android
 com.amazon.vendormobile.india.android
 com.amazon.sellermobile.android
+com.amazon.astro
+com.amazon.warhol.android
+com.amazon.amazonone.androidapp
+com.amazon.kisan.app
