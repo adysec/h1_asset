@@ -4528,3 +4528,6 @@ https://*.granularinsurance.com/
 *.wssorderlink.com
 *.wssorderlink.net
 *.wssservicescorp.com
+*.monopoly-poker.com
+*.governorofpoker.com
+*.gop3.nl

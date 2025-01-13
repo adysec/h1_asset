@@ -16,3 +16,4 @@ lol.onevone
 net.wooga.switchcraft.googleplay
 net.wooga.tropicats_tropical_cats_puzzle_paradise
 com.wooga.pearlsperil
+com.youdagames.monopolypoker

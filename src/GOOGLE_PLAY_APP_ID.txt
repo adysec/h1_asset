@@ -621,3 +621,4 @@ com.amazon.astro
 com.amazon.warhol.android
 com.amazon.amazonone.androidapp
 com.amazon.kisan.app
+com.youdagames.monopolypoker

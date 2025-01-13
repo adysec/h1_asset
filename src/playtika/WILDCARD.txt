@@ -10,3 +10,6 @@
 *.redecor.com
 *.justfall.lol,*.justplay.lol,*.1v1.lol
 *.seriously.com
+*.monopoly-poker.com
+*.governorofpoker.com
+*.gop3.nl
