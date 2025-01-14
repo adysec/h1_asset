@@ -12782,3 +12782,5 @@ yourcreditidentity.com.au
 dealerdriv-mobile.deere.com
 accountoffers.wellsfargo.com
 www.popeyesromania.ro
+auth.privy.io
+dashboard.privy.io

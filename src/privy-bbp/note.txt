@@ -1,0 +1,1 @@
+73506	https://hackerone.com/privy-bbp	Privy (Bounty)	privy-bbp

@@ -1,1 +1,2 @@
 com.fanduel.android.self
+com.fanduel.sportsbook
