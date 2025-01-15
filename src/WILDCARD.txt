@@ -4531,3 +4531,4 @@ https://*.granularinsurance.com/
 *.monopoly-poker.com
 *.governorofpoker.com
 *.gop3.nl
+*.wssservicescorp.net
