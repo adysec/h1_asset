@@ -12784,3 +12784,6 @@ accountoffers.wellsfargo.com
 www.popeyesromania.ro
 auth.privy.io
 dashboard.privy.io
+http://api.lightspark.com
+http://app.lightspark.com
+https://link.uma.me

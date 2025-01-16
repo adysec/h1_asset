@@ -1,0 +1,8 @@
+lightsparkdev/lightspark-crypto-uniffi
+lightsparkdev/swift-wallet-sdk
+lightsparkdev/kotlin-sdk
+lightsparkdev/js-sdk
+lightsparkdev/flutter-sdk
+https://github.com/lightsparkdev/go-sdk
+https://github.com/lightsparkdev/lightspark-rs
+https://github.com/lightsparkdev/python-sdk
