@@ -1,0 +1,5 @@
+*.bill.com
+*.divvy.co
+*.finmark.com
+*.2go.com
+*.zipbooks.com

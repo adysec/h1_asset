@@ -4532,3 +4532,8 @@ https://*.granularinsurance.com/
 *.governorofpoker.com
 *.gop3.nl
 *.wssservicescorp.net
+*.bill.com
+*.divvy.co
+*.finmark.com
+*.2go.com
+*.zipbooks.com

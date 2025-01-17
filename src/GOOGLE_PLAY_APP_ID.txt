@@ -623,3 +623,6 @@ com.amazon.amazonone.androidapp
 com.amazon.kisan.app
 com.youdagames.monopolypoker
 com.fanduel.sportsbook
+com.bdc.bill
+com.divvypay.Divvy
+com.invoice2go.invoice2goplus

@@ -756,3 +756,4 @@
 63726	https://hackerone.com/rbi_vdp	Restaurant Brands International (RBI) VDP	rbi_vdp
 73506	https://hackerone.com/privy-bbp	Privy (Bounty)	privy-bbp
 70008	https://hackerone.com/lightspark_bbp	Lightspark BBP	lightspark_bbp
+86196	https://hackerone.com/bill_vdp	BILL VDP	bill_vdp
