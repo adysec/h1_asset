@@ -723,3 +723,5 @@ cvml-primaries.deere.com
 dealerdriv-mobile.deere.com
 runops.apps-devl.us.e11.c01.johndeerecloud.com
 staging.johndeereclassic.com
+runaudit.apps-devl.us.e11.c01.johndeerecloud.com
+smartnest.apps-devl.us.e11.c01.johndeerecloud.com

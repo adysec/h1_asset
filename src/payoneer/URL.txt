@@ -1,2 +1,3 @@
 *.payoneer.com
 payoneer.com.cn
+http://greenchannel.payoneer.com.cn/gcportal
