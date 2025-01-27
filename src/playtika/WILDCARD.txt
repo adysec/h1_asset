@@ -13,3 +13,4 @@
 *.monopoly-poker.com
 *.governorofpoker.com
 *.gop3.nl
+*.playticorp.com

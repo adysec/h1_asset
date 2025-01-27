@@ -4574,3 +4574,4 @@ https://*.granularinsurance.com/
 *.mercadoshops.com.py
 *.mercadoshops.com.uy
 *.mlstatic.com
+*.playticorp.com
