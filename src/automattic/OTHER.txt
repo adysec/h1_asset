@@ -2,3 +2,5 @@ WooCommerce
 Crowdsignal
 WordPress.com VIP
 WordPress Plugins & Themes
+Texts
+Beeper
