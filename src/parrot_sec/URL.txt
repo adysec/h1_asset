@@ -1,2 +1,3 @@
 https://parrotlinux.org
 parrotlinux.org
+parrotsec.org

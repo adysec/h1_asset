@@ -6,3 +6,4 @@ http://*.shopifycloud.com
 *.shopifycloud.com
 *.shopifycs.com
 *.shopify.io
+*.pci.shopifyinc.com

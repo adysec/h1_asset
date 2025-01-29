@@ -12811,3 +12811,12 @@ smartnest.apps-devl.us.e11.c01.johndeerecloud.com
 runops.apps-qual.us.e11.c01.johndeerecloud.com
 debug.8x8.com
 comic-indies.pixiv.net
+app.stg.inspectorio.com
+rise.stg.inspectorio.com
+report-html-sight.stg.inspectorio.com
+api.stg.inspectorio.com
+rise-api.stg.inspectorio.com
+docuflow.stg.inspectorio.com
+id.stg.inspectorio.com
+files-stg.inspectorio.com
+parrotsec.org

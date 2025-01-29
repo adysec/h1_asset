@@ -1,3 +1,4 @@
 com.tinyspeck.chatlyio
 com.slack.slackmdm
 647922896
+https://apps.apple.com/us/app/quip-docs-chat-sheets/id647922896

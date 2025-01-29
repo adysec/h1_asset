@@ -759,3 +759,4 @@
 86196	https://hackerone.com/bill_vdp	BILL VDP	bill_vdp
 83156	https://hackerone.com/bumba_bbp	Bumba	bumba_bbp
 20022	https://hackerone.com/autodesk	Autodesk	autodesk
+54860	https://hackerone.com/inspectorio	Inspectorio	inspectorio

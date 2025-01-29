@@ -1,0 +1,8 @@
+app.stg.inspectorio.com
+rise.stg.inspectorio.com
+report-html-sight.stg.inspectorio.com
+api.stg.inspectorio.com
+rise-api.stg.inspectorio.com
+docuflow.stg.inspectorio.com
+id.stg.inspectorio.com
+files-stg.inspectorio.com
