@@ -24,3 +24,8 @@ auth2.indrive.tech
 aws.indrive.tech
 debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
+alternativa.film
+bridekidnapping.alternativa.film
+festival.alternativa.film
+indrive.alternativa.film
+auroratechaward.com
