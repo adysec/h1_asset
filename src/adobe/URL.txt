@@ -96,3 +96,4 @@ adobeid-na1.services.adobe.com
 http://federatedid-na1.services.adobe.com
 new.express.adobe.com
 net.s2stagehance.com
+learningmanagerstage4.adobe.com

@@ -7,3 +7,6 @@ securitytrails.com
 geminiadvisory.io
 hatching.io
 tria.ge
+dns.watch
+rescan.io
+bgpview.io
