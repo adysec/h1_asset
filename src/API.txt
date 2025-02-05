@@ -26,3 +26,4 @@ order.api.thedatafridge.com
 customer-profile.api.thedatafridge.com
 data-streams-product-api.deliveryhero.io
 product.api.thedatafridge.com
+https://events.1password.com/api/

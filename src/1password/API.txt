@@ -1,1 +1,2 @@
 https://events.1password.com/
+https://events.1password.com/api/

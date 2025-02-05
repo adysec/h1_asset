@@ -760,3 +760,4 @@
 83156	https://hackerone.com/bumba_bbp	Bumba	bumba_bbp
 20022	https://hackerone.com/autodesk	Autodesk	autodesk
 54860	https://hackerone.com/inspectorio	Inspectorio	inspectorio
+52649	https://hackerone.com/zurich-insurance	Zurich Insurance	zurich-insurance

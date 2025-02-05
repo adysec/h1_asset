@@ -4,3 +4,4 @@ bioid-management.app
 worldcoin.org
 developer.worldcoin.org
 id.worldcoin.org
+world.org

@@ -625,3 +625,4 @@ https://apps.apple.com/us/app/onduo/id1138490045
 id980353334
 id1114962353
 https://apps.apple.com/us/app/quip-docs-chat-sheets/id647922896
+com.costco.costco
