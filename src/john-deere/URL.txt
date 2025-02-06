@@ -727,3 +727,4 @@ runaudit.apps-devl.us.e11.c01.johndeerecloud.com
 smartnest.apps-devl.us.e11.c01.johndeerecloud.com
 runops.apps-qual.us.e11.c01.johndeerecloud.com
 campus.deere.com.br
+ecommerce-product-experience-cert.cps-johndeerestore-cert-vpn3.us.e32.c01.johndeerecloud.com

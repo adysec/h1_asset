@@ -6,3 +6,4 @@ http://rei.com/events
 http://www.rei.com/learn/expert-advice
 http://collaboration.rei.com
 http://rei.com/lists
+login.rei.com

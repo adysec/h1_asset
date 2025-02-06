@@ -1,0 +1,1 @@
+96712	https://hackerone.com/constitutional-classifiers	Constitutional Classifier Red Team Challenge	constitutional-classifiers
