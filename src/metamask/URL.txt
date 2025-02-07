@@ -3,3 +3,4 @@ portfolio.metamask.io
 snaps.metamask.io
 metamask.io
 https://user-storage.api.cx.metamask.io
+signature-insights.api.cx.metamask.io

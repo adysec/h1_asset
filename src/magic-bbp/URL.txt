@@ -6,3 +6,4 @@ api.magic.link
 dashboard.fortmatic.com
 fortmatic.com
 careers.fortmatic.com
+portal.magicnewton.com

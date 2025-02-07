@@ -2,3 +2,5 @@ http://www.oreo.com/*
 http://*.sourpatchkids.com
 http://www.sourpatchkids.com/*
 http://*.oreo.com
+*.sourpatchkids.com
+www.sourpatchkids.com/*
