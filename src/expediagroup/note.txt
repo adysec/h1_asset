@@ -1,1 +1,2 @@
 33400	https://hackerone.com/expediagroup	Expedia Group	expediagroup
+33400	https://hackerone.com/expediagroup	Expedia Group VDP	expediagroup
