@@ -656,3 +656,4 @@
 *.wssorderlink.net
 *.wssservicescorp.com
 *.wssservicescorp.net
+*.wsssuite.com

@@ -1,0 +1,12 @@
+auth.toloka.ai
+sso.auth.toloka.ai
+ladybug.a9s.toloka.ai
+https://we.toloka.ai/auth
+mindrift.toloka.ai
+experts-portal.toloka.ai
+https://toloka.ai/
+https://mindrift.ai/
+workspace.toloka.dev
+workspace.toloka.ai
+tb.toloka.dev
+https://api-ui.toloka.ai

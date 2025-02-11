@@ -1,3 +1,5 @@
 *.fidelity.com
 www.fidelityworkplace.com
 www.myfidelitysolutions.com
+web.fidsafe.com
+www.fidsafe.com

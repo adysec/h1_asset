@@ -4578,3 +4578,12 @@ https://*.granularinsurance.com/
 *.pci.shopifyinc.com
 *.sourpatchkids.com
 www.sourpatchkids.com/*
+*.clover.com
+*.corp.clover.com
+*.prod.clover.com
+*.clover.network
+a*.clover.com
+*.la.clover.com
+*.eu.clover.com
+*.dev.clover.com
+*.wsssuite.com

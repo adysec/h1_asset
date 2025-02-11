@@ -1,0 +1,8 @@
+*.clover.com
+*.corp.clover.com
+*.prod.clover.com
+*.clover.network
+a*.clover.com
+*.la.clover.com
+*.eu.clover.com
+*.dev.clover.com

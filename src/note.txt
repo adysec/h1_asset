@@ -763,3 +763,5 @@
 52649	https://hackerone.com/zurich-insurance	Zurich Insurance	zurich-insurance
 96712	https://hackerone.com/constitutional-classifiers	Constitutional Classifier Red Team Challenge	constitutional-classifiers
 33400	https://hackerone.com/expediagroup	Expedia Group VDP	expediagroup
+87703	https://hackerone.com/toloka_ai	Toloka AI.	toloka_ai
+50972	https://hackerone.com/fiserv	Fiserv	fiserv
