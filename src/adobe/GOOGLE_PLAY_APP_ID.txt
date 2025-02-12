@@ -4,3 +4,4 @@ com.adobe.lrmobile
 com.adobe.scan.android
 com.adobe.fas
 com.adobe.echosign
+com.adobe.workfront

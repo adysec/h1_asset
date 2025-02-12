@@ -1,2 +1,3 @@
 api.spotify.com, api-partner.spotify.com
  api.spotify.com, api-partner.spotify.com
+api-partner.spotify.com

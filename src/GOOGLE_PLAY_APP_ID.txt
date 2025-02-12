@@ -627,3 +627,4 @@ com.bdc.bill
 com.divvypay.Divvy
 com.invoice2go.invoice2goplus
 ai.toloka.expert
+com.adobe.workfront
