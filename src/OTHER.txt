@@ -1285,3 +1285,4 @@ Beeper
 Disney Corporate
 Zurich Insurance 
 Farmer's Insurance
+https://www.npmjs.com/package/@8x8/pui-partner-comm

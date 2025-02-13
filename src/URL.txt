@@ -13739,3 +13739,7 @@ web.fidsafe.com
 www.fidsafe.com
 developer.globalpay.com
 photos.adobe.io
+www.zurichna.com
+www.johndeerepppr.com
+payment.johndeerepppr.com
+portfolio.ccpsx.com

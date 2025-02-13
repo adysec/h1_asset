@@ -2,3 +2,4 @@ Intellectual Property on Public Domains
 8x8 Partner Portal
 Third Party Application
 Discovered Leaked Credentials
+https://www.npmjs.com/package/@8x8/pui-partner-comm
