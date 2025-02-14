@@ -107,3 +107,32 @@ OpenX eHandle
 OpenX Wall Reader
 CounterAct 8.4
 Dyson Connected Products (IoT Hardware)
+A16k
+A76
+A96
+F 21 Pro
+FindN2
+FindN2Flip
+FindN3
+FindN3Flip
+FindX6
+FindX6Pro
+FindX7
+FindX7Ultra
+K10
+K105G
+K9
+K9Pro
+K9s
+Porsche-B
+Reno105G
+Reno10Pro+5G
+Reno10Pro5G
+Reno115G
+Reno11Pro5G
+Reno12
+Reno12Pro
+Reno8Pro5G
+Reno9Pro+5G
+Reno9Pro5G
+Reno 9 5G

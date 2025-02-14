@@ -4588,3 +4588,9 @@ a*.clover.com
 *.dev.clover.com
 *.wsssuite.com
 *.acrobat.adobe.com
+*.coloros.com
+*.oppo.com
+*.oppomobile.com
+*.myoas.com
+*.wanyol.com
+*.myoas.net

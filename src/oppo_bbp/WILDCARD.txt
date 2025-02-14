@@ -1,0 +1,6 @@
+*.coloros.com
+*.oppo.com
+*.oppomobile.com
+*.myoas.com
+*.wanyol.com
+*.myoas.net
