@@ -654,3 +654,4 @@ com.oppo.market
 com.oppo.quicksearchbox
 com.oppo.speechassist
 com.oppo.usercenter
+Klarna Android App (com.myklarnamobile)

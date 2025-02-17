@@ -4594,3 +4594,6 @@ a*.clover.com
 *.myoas.com
 *.wanyol.com
 *.myoas.net
+*.prod.cloud.8x8.com
+*.acceptance.cloud.8x8.com
+*.staging.cloud.8x8.com
