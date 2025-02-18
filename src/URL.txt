@@ -13782,3 +13782,10 @@ http://www.prismenergy.com.ph
 http://www.visayanelectric.com
 investor.pepsico.com
 investors.pepsico.com
+https://app.hemi.xyz/
+https://explorer.hemi.xyz/
+https://rpc.hemi.network/rpc
+https://rpc.hemi.network/noderpc
+https://rpc.hemi.network/v1/ws/public
+https://rpc.hemi.network/wsrpc
+api.zillin.io

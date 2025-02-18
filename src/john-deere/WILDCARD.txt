@@ -1,2 +1,3 @@
 *.myvirtualsuper.com.au
 *.thevirtualsuperintendent.com.au
+*.chinacacd-prod-floating.us.e10.c01.johndeerecloud.com

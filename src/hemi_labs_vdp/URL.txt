@@ -1,0 +1,6 @@
+https://app.hemi.xyz/
+https://explorer.hemi.xyz/
+https://rpc.hemi.network/rpc
+https://rpc.hemi.network/noderpc
+https://rpc.hemi.network/v1/ws/public
+https://rpc.hemi.network/wsrpc
