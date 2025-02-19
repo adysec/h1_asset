@@ -13789,3 +13789,12 @@ https://rpc.hemi.network/noderpc
 https://rpc.hemi.network/v1/ws/public
 https://rpc.hemi.network/wsrpc
 api.zillin.io
+http://ftp.hrtec.net
+http://honeycomb.fedhive.com
+http://remote.fedhive.com
+http://support.fedhive.com
+learning.zebra.com
+training.zebra.com
+psion.com
+software.symbol.com
+support.symbol.com

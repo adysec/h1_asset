@@ -364,3 +364,7 @@ https://cas.us.baesystems.com
 https://gettozero.com
 https://hybridrive.com
 https://marketing.us.baesystems.com
+http://ftp.hrtec.net
+http://honeycomb.fedhive.com
+http://remote.fedhive.com
+http://support.fedhive.com

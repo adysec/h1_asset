@@ -726,3 +726,8 @@ https://smartcount.zebrainventory.com
 smartcountdamagestest.zebrainventory.com
 https://zebrainventory.com
 api.zillin.io
+learning.zebra.com
+training.zebra.com
+psion.com
+software.symbol.com
+support.symbol.com
