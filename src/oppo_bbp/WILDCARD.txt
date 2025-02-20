@@ -4,3 +4,5 @@
 *.myoas.com
 *.wanyol.com
 *.myoas.net
+*.nearme.com.cn
+*.myoppo.com

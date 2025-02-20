@@ -22,3 +22,5 @@
 *.zpc.zebra.com
 *.qa-zebra.com
 *.learningportal.zebra.com
+*.pp.zebra.com
+*.cortexica.com

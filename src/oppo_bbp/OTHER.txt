@@ -2,3 +2,4 @@ ColorOS
 LockScreenMagazine
 OPPO+
 QuickApps
+Test environment

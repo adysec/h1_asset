@@ -4622,3 +4622,7 @@ a*.clover.com
 *.zpc.zebra.com
 *.qa-zebra.com
 *.learningportal.zebra.com
+*.nearme.com.cn
+*.myoppo.com
+*.pp.zebra.com
+*.cortexica.com
