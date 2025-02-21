@@ -24,3 +24,4 @@
 *.learningportal.zebra.com
 *.pp.zebra.com
 *.cortexica.com
+*.jpmc.reflexisinc.com
