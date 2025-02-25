@@ -1,0 +1,3 @@
+*.corebridgefinancial.com
+*.corebridgegolf.com
+*.valic.com

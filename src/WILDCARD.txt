@@ -4627,3 +4627,5 @@ a*.clover.com
 *.pp.zebra.com
 *.cortexica.com
 *.jpmc.reflexisinc.com
+*.corebridgegolf.com
+*.valic.com

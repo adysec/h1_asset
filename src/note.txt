@@ -767,3 +767,5 @@
 50972	https://hackerone.com/fiserv	Fiserv	fiserv
 93721	https://hackerone.com/hemi_labs_vdp	Hemi VDP	hemi_labs_vdp
 92406	https://hackerone.com/oppo_bbp	OPPO	oppo_bbp
+96875	https://hackerone.com/eightfold	Eightfold	eightfold
+75709	https://hackerone.com/corebridge_financial	Corebridge Financial	corebridge_financial
