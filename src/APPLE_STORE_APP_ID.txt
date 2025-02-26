@@ -629,3 +629,4 @@ com.costco.costco
 id6504492387
 adobe.fresco.ios
 Klarna iOS App (com.klarna.app)
+com.whoop.iphone

@@ -4629,3 +4629,4 @@ a*.clover.com
 *.jpmc.reflexisinc.com
 *.corebridgegolf.com
 *.valic.com
+*.whoop.com

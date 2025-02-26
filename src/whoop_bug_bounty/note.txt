@@ -1,0 +1,1 @@
+94439	https://hackerone.com/whoop_bug_bounty	Whoop Bug Bounty	whoop_bug_bounty
