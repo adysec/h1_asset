@@ -1,2 +1,4 @@
 digital.rbi.timhortons
 com.popeyes.ro
+com.emn8.mobilem8.nativeapp.fhsch
+com.bk.ch

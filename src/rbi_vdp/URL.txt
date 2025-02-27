@@ -1,2 +1,4 @@
 https://use1-staging-th.rbictg.com/graphql
 www.popeyesromania.ro
+www.burger-king.ch
+www.firehousesubs.ch

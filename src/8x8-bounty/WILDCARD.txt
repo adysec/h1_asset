@@ -34,3 +34,4 @@ qm-*.8x8.com
 *.acceptance.cloud.8x8.com
 *.staging.cloud.8x8.com
 *.ociadmin.cloud.8x8.com
+*.in2tel.ie

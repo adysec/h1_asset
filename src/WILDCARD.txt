@@ -4630,3 +4630,4 @@ a*.clover.com
 *.corebridgegolf.com
 *.valic.com
 *.whoop.com
+*.in2tel.ie
