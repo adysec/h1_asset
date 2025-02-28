@@ -1,1 +1,2 @@
 *.whoop.com
+**.whoop.com

@@ -770,3 +770,4 @@
 96875	https://hackerone.com/eightfold	Eightfold	eightfold
 75709	https://hackerone.com/corebridge_financial	Corebridge Financial	corebridge_financial
 94439	https://hackerone.com/whoop_bug_bounty	Whoop Bug Bounty	whoop_bug_bounty
+92627	https://hackerone.com/neon_bbp	Neon	neon_bbp
