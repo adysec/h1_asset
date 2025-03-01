@@ -1,0 +1,6 @@
+com.coloros.assistantscreen
+com.oplus.games
+com.coloros.video
+com.heytap.music
+com.heytap.pictorial
+com.coloros.pictorial
