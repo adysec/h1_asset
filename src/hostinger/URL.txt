@@ -13,3 +13,4 @@ payments.hosting24.com
 www.niagahoster.co.id
 partner.niagahoster.co.id
 builder.hostinger.com
+horizons.hostinger.com

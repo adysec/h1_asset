@@ -607,3 +607,4 @@ dev-siif-gateway.serviceinsight.cbre.com
 dev-tempest-gateway.serviceinsight.cbre.com
 dev-tempest.serviceinsight.cbre.com
 dev-tfs.cbre.com
+dev-workplace.cbre.com

@@ -1,1 +1,3 @@
 api.prod.whoop.com
+app.whoop.com
+shop.whoop.com
