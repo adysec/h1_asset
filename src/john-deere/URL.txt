@@ -731,3 +731,4 @@ ecommerce-product-experience-cert.cps-johndeerestore-cert-vpn3.us.e32.c01.johnde
 www.johndeerepppr.com
 payment.johndeerepppr.com
 shop-cert.deere.com
+dealer-api.mfg-sd-branch-and-parts-qual-vpn.us.e11.c01.johndeerecloud.com
