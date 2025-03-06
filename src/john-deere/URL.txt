@@ -732,3 +732,5 @@ www.johndeerepppr.com
 payment.johndeerepppr.com
 shop-cert.deere.com
 dealer-api.mfg-sd-branch-and-parts-qual-vpn.us.e11.c01.johndeerecloud.com
+udp-core.ae-udp-prod-vpn.us.e18.c01.johndeerecloud.com
+udp-core.ae-udp-devl-vpn.us.e18.c01.johndeerecloud.com
