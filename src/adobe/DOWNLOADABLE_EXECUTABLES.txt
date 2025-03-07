@@ -30,3 +30,4 @@ Premiere Elements
 Dimension
 ColdFusion
 Substance 3D
+Acrobat Reader

@@ -64,3 +64,4 @@ innersloth.kidswebservices.com
 kidswebservices.com
 niantic.kidswebservices.com
 staging.kidswebservices.com
+competitive.fortnite.com

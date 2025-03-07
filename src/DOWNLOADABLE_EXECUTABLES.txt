@@ -258,3 +258,4 @@ Files.com Desktop v4 App (previously known as Desktop App)
 Files.com Desktop v6 App
 Files.com On-Premise Agent
 Arc on Windows
+Acrobat Reader
