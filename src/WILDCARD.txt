@@ -4632,3 +4632,4 @@ a*.clover.com
 *.whoop.com
 *.in2tel.ie
 **.whoop.com
+https://*.silotechgroup.com
