@@ -4633,3 +4633,11 @@ a*.clover.com
 *.in2tel.ie
 **.whoop.com
 https://*.silotechgroup.com
+https://*.intrusion.com
+*.sontiq.com
+*.iovation.com
+*.truoptik.com
+*.8x8testa.com
+*.8x8testb.com
+*.packet8-pilot.net
+*.kayak.com

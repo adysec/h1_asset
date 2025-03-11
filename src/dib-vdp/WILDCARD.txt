@@ -9,3 +9,4 @@ https://*.nucleussec.com
 *.nhaero.com
 *.coalfirefederal.com
 https://*.silotechgroup.com
+https://*.intrusion.com

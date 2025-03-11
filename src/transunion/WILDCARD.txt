@@ -24,3 +24,6 @@
 *.crivo.com.br
 *.zipcode.com.br
 *.transunion.com.do
+*.sontiq.com
+*.iovation.com
+*.truoptik.com
