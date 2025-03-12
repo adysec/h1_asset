@@ -632,3 +632,4 @@ Klarna iOS App (com.klarna.app)
 com.whoop.iphone
 6449489924
 1550130856
+Citrix Secure Access client for macOS

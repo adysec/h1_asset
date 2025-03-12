@@ -1298,3 +1298,8 @@ https://support.whoop.com/Battery_Pack_Updater
 join.whoop.com
 Global Payments Inc
 Leaked Credentials
+Citrix Secure Access client for Windows
+Citrix Secure Access client for iOS
+Citrix Secure Access client for Linux
+Citrix End Point Analysis (EPA) client for Linux
+Citrix End Point Analysis (EPA) client for Windows

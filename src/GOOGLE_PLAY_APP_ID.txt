@@ -659,3 +659,4 @@ com.whoop.android
 com.emn8.mobilem8.nativeapp.fhsch
 com.bk.ch
 com.mercadoenvios.logistics
+Citrix Secure Access client for Android
