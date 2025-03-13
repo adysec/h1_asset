@@ -29,3 +29,4 @@ product.api.thedatafridge.com
 https://events.1password.com/api/
 api-partner.spotify.com
 app.klarna.com
+https://ob-sandbox.gocardless.io

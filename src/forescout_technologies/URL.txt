@@ -89,3 +89,4 @@ http://datapod-1-druid-query.production.forescoutcloud.net/v2/query/ips/bysrc
 http://datapod-1-druid-query.production.forescoutcloud.net/v2/service-list
 http://datapod-1-druid-query.production.forescoutcloud.net/v2/query/ips/bydst/details
 http://datapod-1-druid-query.production.forescoutcloud.net/v2/services
+cloud.forescout.com
