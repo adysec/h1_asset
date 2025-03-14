@@ -2,3 +2,4 @@ com.finnwea.Raivo
 com.wisdomtree.wtprime
 com.lowes.LowesStoreTestFlight
 https://testflight.apple.com/join/vwFxXX7t
+https://testflight.apple.com/join/Y4cHu289
