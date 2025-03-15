@@ -4,3 +4,6 @@ https://api-staging.pingone.com/*
 https://apps-staging.pingone.com/*
 https://ort-authenticator.pingone.com/*
 https://ort-desktop.pingone.com/*
+api.ort-one-pingone.com
+console.ort-one-pingone.com
+apps.ort-one-pingone.com

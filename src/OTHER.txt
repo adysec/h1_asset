@@ -1304,3 +1304,5 @@ Citrix Secure Access client for Linux
 Citrix End Point Analysis (EPA) client for Linux
 Citrix End Point Analysis (EPA) client for Windows
 Geneva 
+Tap to Pay (Android)
+Tap to Pay (iOS)
