@@ -4641,3 +4641,4 @@ https://*.intrusion.com
 *.8x8testb.com
 *.packet8-pilot.net
 *.kayak.com
+*.wtwit2.wallstreetsystems.com
