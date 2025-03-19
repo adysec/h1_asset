@@ -772,3 +772,5 @@
 94439	https://hackerone.com/whoop_bug_bounty	Whoop Bug Bounty	whoop_bug_bounty
 92627	https://hackerone.com/neon_bbp	Neon	neon_bbp
 93257	https://hackerone.com/vf-corporation-vdp	VF Corporation - VDP	vf-corporation-vdp
+90417	https://hackerone.com/syfe_bbp	Syfe	syfe_bbp
+93679	https://hackerone.com/kraken-tech	Kraken Tech	kraken-tech

@@ -1,3 +1,4 @@
 testnet.bitmex.com
 *.bitmex.com
 www.bitmex.com
+blog.bitmex.com

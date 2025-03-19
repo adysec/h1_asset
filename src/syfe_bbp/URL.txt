@@ -1,0 +1,6 @@
+uat-bugbounty.nonprod.syfe.com
+api-uat-bugbounty.nonprod.syfe.com
+www.syfe.com
+api.syfe.com
+alfred.syfe.com
+mark8.syfe.com

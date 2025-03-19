@@ -13915,3 +13915,10 @@ social.geneva-staging.chat
 api.ort-one-pingone.com
 console.ort-one-pingone.com
 apps.ort-one-pingone.com
+uat-bugbounty.nonprod.syfe.com
+api-uat-bugbounty.nonprod.syfe.com
+www.syfe.com
+api.syfe.com
+alfred.syfe.com
+mark8.syfe.com
+blog.bitmex.com
