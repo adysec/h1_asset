@@ -1306,3 +1306,20 @@ Citrix End Point Analysis (EPA) client for Windows
 Geneva 
 Tap to Pay (Android)
 Tap to Pay (iOS)
+Node.js Driver
+Java Driver
+Python Driver
+.NET Driver
+Ruby Driver
+Rust Driver
+Cluster-To-Cluster sync
+Compass
+C Driver
+C# Driver
+C++ Driver
+GO Driver
+PHP Driver
+Kafka Connector
+Relational Migrator
+Spark Connector
+VS Code Plugin

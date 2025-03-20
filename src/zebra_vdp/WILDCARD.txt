@@ -25,3 +25,5 @@
 *.pp.zebra.com
 *.cortexica.com
 *.jpmc.reflexisinc.com
+*essmartpackd.zebra.engineering
+*spx-load.zebra.engineering

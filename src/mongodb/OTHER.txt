@@ -21,3 +21,20 @@ MongoDB Relational Migrator
 MongoDB Shell
 MongoDB Spark Connector
 MongoDB VS Code Plugin
+Node.js Driver
+Java Driver
+Python Driver
+.NET Driver
+Ruby Driver
+Rust Driver
+Cluster-To-Cluster sync
+Compass
+C Driver
+C# Driver
+C++ Driver
+GO Driver
+PHP Driver
+Kafka Connector
+Relational Migrator
+Spark Connector
+VS Code Plugin
