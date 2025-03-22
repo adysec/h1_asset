@@ -65,3 +65,6 @@ kidswebservices.com
 niantic.kidswebservices.com
 staging.kidswebservices.com
 competitive.fortnite.com
+create.fortnite.com
+content-service.bfda.live.use1a.on.epicgames.com
+content-service-live-testing.bfda.live.use1a.on.epicgames.com
