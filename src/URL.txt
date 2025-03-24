@@ -14213,3 +14213,7 @@ etraining.services.wirtgen-group.com
 create.fortnite.com
 content-service.bfda.live.use1a.on.epicgames.com
 content-service-live-testing.bfda.live.use1a.on.epicgames.com
+www.zooplus.de
+www.zooplus.co.uk
+www.zooplus.com
+zooplus.net

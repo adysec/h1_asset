@@ -774,3 +774,4 @@
 93257	https://hackerone.com/vf-corporation-vdp	VF Corporation - VDP	vf-corporation-vdp
 90417	https://hackerone.com/syfe_bbp	Syfe	syfe_bbp
 93679	https://hackerone.com/kraken-tech	Kraken Tech	kraken-tech
+53020	https://hackerone.com/zooplus	Zooplus	zooplus
