@@ -4644,3 +4644,4 @@ https://*.intrusion.com
 *.wtwit2.wallstreetsystems.com
 *essmartpackd.zebra.engineering
 *spx-load.zebra.engineering
+*.deere.com

@@ -64,3 +64,4 @@ www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
 http://www.logitech.com/my-account
+https://www.logitech.com/blog
