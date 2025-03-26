@@ -661,3 +661,4 @@ com.bk.ch
 com.mercadoenvios.logistics
 Citrix Secure Access client for Android
 com.syfe
+Android Playstation App

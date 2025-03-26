@@ -634,3 +634,4 @@ com.whoop.iphone
 1550130856
 Citrix Secure Access client for macOS
 https://apps.apple.com/sg/app/syfe-stay-invested/id1497156434
+iOS Playstation App

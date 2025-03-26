@@ -1323,3 +1323,5 @@ Kafka Connector
 Relational Migrator
 Spark Connector
 VS Code Plugin
+All Assets Owned by NerdWallet
+Cloud Misconfigurations

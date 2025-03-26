@@ -775,3 +775,6 @@
 90417	https://hackerone.com/syfe_bbp	Syfe	syfe_bbp
 93679	https://hackerone.com/kraken-tech	Kraken Tech	kraken-tech
 53020	https://hackerone.com/zooplus	Zooplus	zooplus
+97704	https://hackerone.com/experian	Experian	experian
+95397	https://hackerone.com/nerdwallet_vdp	NerdWallet (VDP)	nerdwallet_vdp
+50163	https://hackerone.com/wonder-vdp	Blue Apron (Wonder Group) VDP	wonder-vdp

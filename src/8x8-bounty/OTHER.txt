@@ -3,3 +3,4 @@ Intellectual Property on Public Domains
 Third Party Application
 Discovered Leaked Credentials
 https://www.npmjs.com/package/@8x8/pui-partner-comm
+Cloud Misconfigurations

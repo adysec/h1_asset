@@ -1,1 +1,2 @@
 com.scee.psxandroid
+Android Playstation App

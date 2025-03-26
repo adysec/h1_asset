@@ -1,0 +1,4 @@
+api.53.com
+api.payments-api.nube.53.com
+api.rtpapi-stg.nube.53.com
+api.newline53.com
