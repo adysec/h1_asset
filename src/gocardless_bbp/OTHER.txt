@@ -1,1 +1,2 @@
 bankaccountdata.gocardless.com, ob.gocardless.com
+bankaccountdata.gocardless.com
