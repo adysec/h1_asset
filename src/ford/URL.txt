@@ -3,3 +3,4 @@
 *.quicklane.com
 *.motorcraft.com
 *.omnicraftautoparts.com
+ford.ca
