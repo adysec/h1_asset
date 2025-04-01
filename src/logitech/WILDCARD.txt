@@ -47,3 +47,4 @@ http://*.challonge.com
 *.crossclip.com
 *.lukwerks.com
 *.cognitiveperformer.com
+*.logicool.co.jp

@@ -789,3 +789,5 @@ esb-sbd-wir-cons.services.wirtgen-group.com
 esb-sbd-wir.services.wirtgen-group.com
 etraining-dev.services.wirtgen-group.com
 etraining.services.wirtgen-group.com
+dev-proxy-ci-centralus.agrisync.com
+http://www.deere.com/assets/pdfs
