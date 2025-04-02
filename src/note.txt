@@ -779,3 +779,4 @@
 95397	https://hackerone.com/nerdwallet_vdp	NerdWallet (VDP)	nerdwallet_vdp
 50163	https://hackerone.com/wonder-vdp	Blue Apron (Wonder Group) VDP	wonder-vdp
 48242	https://hackerone.com/lichess	Lichess	lichess
+45496	https://hackerone.com/justworks_inc	Justworks, Inc. 	justworks_inc
