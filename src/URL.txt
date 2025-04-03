@@ -14463,3 +14463,8 @@ www.justworks.com
 www.justworkshours.com
 mall.aig.com.cn
 https://mall.aig.com.cn/efapiao/
+https://api.myntra.com
+https://payments.myntra.com
+https://www.myntra.com
+https://www.flipkart.com
+ai.portswigger.net

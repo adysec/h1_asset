@@ -4646,3 +4646,4 @@ https://*.intrusion.com
 *spx-load.zebra.engineering
 *.deere.com
 *.logicool.co.jp
+https://*.payzippy.com
