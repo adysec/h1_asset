@@ -8,3 +8,4 @@ Hermes
 ibc-go Relayer
 IBC Go Relayer
 Hermes Relayer
+Solidity IBC Eureka

@@ -1326,3 +1326,4 @@ VS Code Plugin
 All Assets Owned by NerdWallet
 Cloud Misconfigurations
 bankaccountdata.gocardless.com
+Solidity IBC Eureka

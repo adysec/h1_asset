@@ -22,3 +22,4 @@ https://slapmsp001.info53.com:9443
 https://wsde260n-1.info53.com:481/olb/#/login
 newline53.com
 sandbox.newline53.com
+http://dobotapp.org
