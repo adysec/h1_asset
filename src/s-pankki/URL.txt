@@ -16,3 +16,4 @@ www.prisma.fi
 www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
+api.s-kaupat.fi

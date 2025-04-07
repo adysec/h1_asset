@@ -474,3 +474,16 @@ devapi.ayoba.me
 ayoba-donations.vercel.app
 https://www.mtn.com/supply-chain/
 mtn.ng
+https://chenosis.io
+https://api.chenosis.io/
+https://auth.chenosis.io/
+https://apiportal.chenosis.io/
+https://lookerstudio.google.com/
+https://www.pipedrive.com/
+https://5254877.app.netsuite.com/app/login/secure/enterpriselogin.nl?c=5254877&redirect=%2fapp%2fcenter%2fcard.nl%3fsc%3d-29%26whence%3d&whence=
+https://mtngroup.atlassian.net/wiki/home?feed=0
+https://mtn.service-now.com/
+https://web.ayoba.me
+https://shop.ayoba.me
+http://admin.marketplace.ayoba.me
+https://www.ayoba.me

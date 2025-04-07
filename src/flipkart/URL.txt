@@ -2,3 +2,5 @@ https://api.myntra.com
 https://payments.myntra.com
 https://www.myntra.com
 https://www.flipkart.com
+https://pay.payzippy.com
+https://uiscoop.payzippy.com
