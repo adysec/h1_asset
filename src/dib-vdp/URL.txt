@@ -368,3 +368,4 @@ http://ftp.hrtec.net
 http://honeycomb.fedhive.com
 http://remote.fedhive.com
 http://support.fedhive.com
+https://specializedturning.com

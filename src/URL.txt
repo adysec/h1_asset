@@ -14509,3 +14509,17 @@ https://web.ayoba.me
 https://shop.ayoba.me
 http://admin.marketplace.ayoba.me
 https://www.ayoba.me
+https://specializedturning.com
+_domainconnect.gd.domaincontrol.com
+chenosis-prod-prod.apigee.net
+chenosis-nonprod-dev.apigee.net
+chenosis-prod-staging.apigee.net
+chenosis-prod-sandbox.apigee.net
+chenosis-nonprod-test.apigee.net
+chenosisza-prod-cd-6qbqld53nwicqaof.edge.tenants.mtn.auth0.com
+autodiscover.outlook.com
+ghs.googlehosted.com
+us17-bcbe7e27-77b3ad6504f814b9f30c04cbc.pages.mailchi.mp
+chenosisza-dev-cd-wpqlaq34dnebm9uo.edge.tenants.mtn-dev.auth0.com
+proxy-ssl.webflow.com
+pm.mtasv.net
