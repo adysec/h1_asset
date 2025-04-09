@@ -3,3 +3,4 @@
 *.twimg.com
 *.x.ai
 *.x.com
+*.grok.com

@@ -8,3 +8,4 @@ ide.x.ai
 xadsacademy.com
 accounts.x.ai
 console.x.ai
+grok.com

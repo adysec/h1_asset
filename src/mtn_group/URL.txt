@@ -500,3 +500,4 @@ us17-bcbe7e27-77b3ad6504f814b9f30c04cbc.pages.mailchi.mp
 chenosisza-dev-cd-wpqlaq34dnebm9uo.edge.tenants.mtn-dev.auth0.com
 proxy-ssl.webflow.com
 pm.mtasv.net
+https://kibana.infra.prod.westeurope.api.mtn.com/login
