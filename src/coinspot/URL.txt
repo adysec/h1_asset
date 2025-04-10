@@ -1,1 +1,2 @@
 www.coinspot.com.au
+https://www.coinspot.com.au/v2/api
