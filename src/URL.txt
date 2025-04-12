@@ -14527,3 +14527,5 @@ https://www.opalsoft.com
 https://kibana.infra.prod.westeurope.api.mtn.com/login
 grok.com
 https://www.coinspot.com.au/v2/api
+disneyvacationclub.disney.go.com
+fetlifemail.com
