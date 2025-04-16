@@ -14529,3 +14529,9 @@ grok.com
 https://www.coinspot.com.au/v2/api
 disneyvacationclub.disney.go.com
 fetlifemail.com
+https://app.hex.tech
+https://hex.tech
+www.accessmyiq.com
+www.virtualterminal.com
+login8.fiscloudservices.com
+docs.worldpay.com

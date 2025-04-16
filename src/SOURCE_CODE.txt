@@ -822,3 +822,4 @@ https://lichess.org/source
 https://github.com/lichess-org/lichobile
 https://github.com/Lichess4545
 https://github.com/lichess-org
+https://github.com/coinbase/cb-mpc

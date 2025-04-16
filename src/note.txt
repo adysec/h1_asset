@@ -781,3 +781,6 @@
 48242	https://hackerone.com/lichess	Lichess	lichess
 45496	https://hackerone.com/justworks_inc	Justworks, Inc. 	justworks_inc
 8156	https://hackerone.com/flipkart	Flipkart	flipkart
+96516	https://hackerone.com/ferrero	Ferrero	ferrero
+94750	https://hackerone.com/hex	Hex	hex
+97889	https://hackerone.com/worldpay	Worldpay	worldpay
