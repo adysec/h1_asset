@@ -784,3 +784,4 @@
 96516	https://hackerone.com/ferrero	Ferrero	ferrero
 94750	https://hackerone.com/hex	Hex	hex
 97889	https://hackerone.com/worldpay	Worldpay	worldpay
+92483	https://hackerone.com/penn_entertainment	Penn Entertainment	penn_entertainment

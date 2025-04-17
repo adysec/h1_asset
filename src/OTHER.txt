@@ -1327,3 +1327,5 @@ All Assets Owned by NerdWallet
 Cloud Misconfigurations
 bankaccountdata.gocardless.com
 Solidity IBC Eureka
+*.staging.travix.com
+Burp Suite DAST

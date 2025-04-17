@@ -1,0 +1,2 @@
+com.espn.bet
+com.fivemobile.thescore
