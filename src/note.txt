@@ -785,3 +785,5 @@
 94750	https://hackerone.com/hex	Hex	hex
 97889	https://hackerone.com/worldpay	Worldpay	worldpay
 92483	https://hackerone.com/penn_entertainment	Penn Entertainment	penn_entertainment
+96398	https://hackerone.com/dust	Dust	dust
+97790	https://hackerone.com/hertz	Hertz VDP	hertz
