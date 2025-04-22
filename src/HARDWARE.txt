@@ -136,3 +136,7 @@ Reno8Pro5G
 Reno9Pro+5G
 Reno9Pro5G
 Reno 9 5G
+Gecko SDK
+SiW917
+Arduino Nano
+Wireless Microcontrollers (MCUs)

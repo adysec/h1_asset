@@ -1,0 +1,8 @@
+https://github.com/SiliconLabsSoftware/matter_extension
+https://github.com/SiliconLabsSoftware/z-wave-protocol-controller
+https://github.com/SiliconLabsSoftware/matter_sdk
+https://github.com/renode/renode-infrastructure
+https://github.com/SiliconLabsSoftware/renode
+https://github.com/SiliconLabsSoftware/simplicity-device-manager
+https://github.com/SiliconLabsSoftware/aiml-extension
+https://github.com/SiliconLabsSoftware/tflite-micro

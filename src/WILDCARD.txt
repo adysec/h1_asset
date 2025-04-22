@@ -4679,3 +4679,5 @@ https://*.payzippy.com
 *.thorntons.com
 *.yogurette.de
 https://*.hex.tech
+*.silabs.com
+*.hertz.com

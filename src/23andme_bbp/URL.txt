@@ -8,3 +8,8 @@ store.23andme.com
 therapeutics.23andme.com
 you.23andme.com
 research.23andme.com
+clinic.lemonaidhealth.com
+sapi-live.lh.us-west-2.prd.23andme.us
+pd-api.polkadoc.com
+healthaid.lemonaidhealth.com
+lemonaidhealth.com

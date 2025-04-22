@@ -260,3 +260,4 @@ Files.com On-Premise Agent
 Arc on Windows
 Acrobat Reader
 UEFN
+Simplicity Studio Development Platform

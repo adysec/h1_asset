@@ -1329,3 +1329,4 @@ bankaccountdata.gocardless.com
 Solidity IBC Eureka
 *.staging.travix.com
 Burp Suite DAST
+Any other domain reasonably attributable to Silicon Labs

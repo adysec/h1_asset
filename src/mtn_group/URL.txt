@@ -501,3 +501,4 @@ chenosisza-dev-cd-wpqlaq34dnebm9uo.edge.tenants.mtn-dev.auth0.com
 proxy-ssl.webflow.com
 pm.mtasv.net
 https://kibana.infra.prod.westeurope.api.mtn.com/login
+central.bayobab.africa

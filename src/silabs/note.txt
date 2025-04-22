@@ -1,0 +1,1 @@
+96318	https://hackerone.com/silabs	Silicon Labs Vulnerability Disclosure/Bug Bounty Program	silabs
