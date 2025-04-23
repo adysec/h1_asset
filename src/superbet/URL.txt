@@ -1,3 +1,4 @@
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
+superbet.bet.br
