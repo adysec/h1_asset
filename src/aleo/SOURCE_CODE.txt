@@ -1,2 +1,4 @@
 https://github.com/AleoHQ/snarkOS/
 https://github.com/AleoHQ/snarkVM/
+https://github.com/ProvableHQ/snarkOS
+https://github.com/ProvableHQ/snarkVM

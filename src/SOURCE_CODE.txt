@@ -831,3 +831,5 @@ https://github.com/SiliconLabsSoftware/renode
 https://github.com/SiliconLabsSoftware/simplicity-device-manager
 https://github.com/SiliconLabsSoftware/aiml-extension
 https://github.com/SiliconLabsSoftware/tflite-micro
+https://github.com/ProvableHQ/snarkOS
+https://github.com/ProvableHQ/snarkVM
