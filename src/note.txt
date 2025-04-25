@@ -788,3 +788,4 @@
 96398	https://hackerone.com/dust	Dust	dust
 97790	https://hackerone.com/hertz	Hertz VDP	hertz
 96318	https://hackerone.com/silabs	Silicon Labs Vulnerability Disclosure/Bug Bounty Program	silabs
+61	https://hackerone.com/x	X / XAI	x
