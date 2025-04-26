@@ -10,3 +10,4 @@ https://*.nucleussec.com
 *.coalfirefederal.com
 https://*.silotechgroup.com
 https://*.intrusion.com
+https://*.theossteam.com

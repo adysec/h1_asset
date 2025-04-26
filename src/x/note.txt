@@ -1,2 +1,3 @@
 61	https://hackerone.com/x	X (Formerly Twitter)	x
 61	https://hackerone.com/x	X / XAI	x
+61	https://hackerone.com/x	X / xAI	x

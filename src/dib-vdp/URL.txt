@@ -370,3 +370,5 @@ http://remote.fedhive.com
 http://support.fedhive.com
 https://specializedturning.com
 https://www.opalsoft.com
+https://brightpathresearch.com
+https://strategicaiservices.com

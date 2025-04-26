@@ -789,3 +789,4 @@
 97790	https://hackerone.com/hertz	Hertz VDP	hertz
 96318	https://hackerone.com/silabs	Silicon Labs Vulnerability Disclosure/Bug Bounty Program	silabs
 61	https://hackerone.com/x	X / XAI	x
+61	https://hackerone.com/x	X / xAI	x
