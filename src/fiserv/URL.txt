@@ -661,3 +661,8 @@ http://foxvalleycu-dn.financial-net.com
 http://aspenfcu-dc.cert.fec-dc.fiservapps.com
 http://aspirefcu-dc.cert.fec-dc.fiservapps.com
 http://associatedhealthcarecu-dc.cert.fec-dc.fiservapps.com
+http://autotruckfcu-dc.cert.fec-dc.fiservapps.com
+http://badlandsfcu-dc.cert.fec-dc.fiservapps.com
+http://baldwincountyfcu-dc.cert.fec-dc.fiservapps.com
+http://bcefcu-dc.cert.fec-dc.fiservapps.com
+http://bcfcu-dc.cert.fec-dc.fiservapps.com
