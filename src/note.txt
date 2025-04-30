@@ -790,3 +790,5 @@
 96318	https://hackerone.com/silabs	Silicon Labs Vulnerability Disclosure/Bug Bounty Program	silabs
 61	https://hackerone.com/x	X / XAI	x
 61	https://hackerone.com/x	X / xAI	x
+88742	https://hackerone.com/recreation_gov_vdp	Recreation.gov	recreation_gov_vdp
+73227	https://hackerone.com/audible	Audible	audible

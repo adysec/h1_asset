@@ -833,3 +833,7 @@ https://github.com/SiliconLabsSoftware/aiml-extension
 https://github.com/SiliconLabsSoftware/tflite-micro
 https://github.com/ProvableHQ/snarkOS
 https://github.com/ProvableHQ/snarkVM
+https://github.com/rsksmart/liquidity-provider-server
+https://github.com/rsksmart/liquidity-bridge-contract
+https://github.com/rsksmart/bridges-core-sdk
+https://github.com/rsksmart/flyover-sdk

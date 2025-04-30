@@ -6,3 +6,7 @@ https://github.com/rsksmart/rif-wallet-services
 https://github.com/rsksmart/rif-wallet-libs
 https://github.com/rsksmart/2wp-app
 https://github.com/rsksmart/2wp-api
+https://github.com/rsksmart/liquidity-provider-server
+https://github.com/rsksmart/liquidity-bridge-contract
+https://github.com/rsksmart/bridges-core-sdk
+https://github.com/rsksmart/flyover-sdk

@@ -666,3 +666,15 @@ http://badlandsfcu-dc.cert.fec-dc.fiservapps.com
 http://baldwincountyfcu-dc.cert.fec-dc.fiservapps.com
 http://bcefcu-dc.cert.fec-dc.fiservapps.com
 http://bcfcu-dc.cert.fec-dc.fiservapps.com
+http://beverlycu-dc.cert.fec-dc.fiservapps.com
+http://bhcscu-dc.cert.fec-dc.fiservapps.com
+http://bigislandfcu-dc.cert.fec-dc.fiservapps.com
+http://brecofcu-dc.cert.fec-dc.fiservapps.com
+http://btfcu-dc.cert.fec-dc.fiservapps.com
+http://buttecommunityfcu-dc.cert.fec-dc.fiservapps.com
+http://cbcreditunion-dc.cert.fec-dc.fiservapps.com
+http://cbfcreditunion-dc.cert.fec-dc.fiservapps.com
+http://ccncu-dc.cert.fec-dc.fiservapps.com
+http://cenla-dc.cert.fec-dc.fiservapps.com
+http://centralmainecu-dc.cert.fec-dc.fiservapps.com
+http://centricity-dc.cert.fec-dc.fiservapps.com
