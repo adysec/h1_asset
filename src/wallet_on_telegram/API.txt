@@ -1,0 +1,6 @@
+walletbot.me/api/v1/
+walletbot.me/p2p
+walletbot.me/v2api
+walletbot.me/scwapi
+walletbot.me/users
+pay.wallet.tg/wpay

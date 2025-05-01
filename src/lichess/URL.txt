@@ -44,3 +44,4 @@ asako.lichess.ovh
 bookd.lichess.ovh
 cerebro.lichess.ovh
 deb.lichess.ovh
+eight.lichess.ovh

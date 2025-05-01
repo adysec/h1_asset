@@ -1333,3 +1333,7 @@ Any other domain reasonably attributable to Silicon Labs
 Tesco Mobile
 GitHub Enterprise Cloud with Data Residency (GHEC-DR)
 *.audible.*
+t.me/wallet
+Crypto infrastructure for cold and hot wallets
+t.me/wallet_supportbot
+t.me/wallet_news

@@ -678,3 +678,9 @@ http://ccncu-dc.cert.fec-dc.fiservapps.com
 http://cenla-dc.cert.fec-dc.fiservapps.com
 http://centralmainecu-dc.cert.fec-dc.fiservapps.com
 http://centricity-dc.cert.fec-dc.fiservapps.com
+http://cffcu-dc.cert.fec-dc.fiservapps.com
+http://championcu-dc.cert.fec-dc.fiservapps.com
+http://chelseaefcu-dc.cert.fec-dc.fiservapps.com
+http://chhe-dc.cert.fec-dc.fiservapps.com
+http://cmccreditunion-dc.cert.fec-dc.fiservapps.com
+http://coconinofcu-dc.cert.fec-dc.fiservapps.com

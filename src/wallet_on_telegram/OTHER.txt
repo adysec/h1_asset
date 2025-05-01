@@ -1,0 +1,4 @@
+t.me/wallet
+Crypto infrastructure for cold and hot wallets
+t.me/wallet_supportbot
+t.me/wallet_news

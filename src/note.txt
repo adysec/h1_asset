@@ -792,3 +792,4 @@
 61	https://hackerone.com/x	X / xAI	x
 88742	https://hackerone.com/recreation_gov_vdp	Recreation.gov	recreation_gov_vdp
 73227	https://hackerone.com/audible	Audible	audible
+81934	https://hackerone.com/wallet_on_telegram	Wallet on Telegram	wallet_on_telegram

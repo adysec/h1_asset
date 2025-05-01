@@ -35,3 +35,9 @@ api.payments-api.nube.53.com
 api.rtpapi-stg.nube.53.com
 api.newline53.com
  api.sportszelethawaiipromo.hu
+walletbot.me/api/v1/
+walletbot.me/p2p
+walletbot.me/v2api
+walletbot.me/scwapi
+walletbot.me/users
+pay.wallet.tg/wpay
