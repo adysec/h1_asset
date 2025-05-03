@@ -2,3 +2,5 @@ http://api.lightspark.com
 http://app.lightspark.com
 https://link.uma.me
 https://www.uma.money
+lrc20.lightspark.com
+app.uma.money
