@@ -722,3 +722,15 @@ http://financialpartnersfcu-dc.cert.fec-dc.fiservapps.com
 http://firstfinancial-dn.cert.fec-dc.fiservapps.com
 http://firstokfcu-dc.cert.fec-dc.fiservapps.com
 http://fldotcu-dc.cert.fec-dc.fiservapps.com
+cert.briopay.com
+cert.everywherepaycard.com
+cert.moneytransfer.moneynetwork.com
+cert.paystubportal.com
+cert.premieraccesscard.com
+cert.pspa.solspark.com
+cert.pspt.solspark.com
+cert.totalpay.everywherepaycard.com
+cert-card.moneynetwork.com
+cert-paylucky.prepaidaccount.com
+cert-prepaidcard.moneynetwork.com
+cms.solspark.com

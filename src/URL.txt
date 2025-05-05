@@ -14783,3 +14783,15 @@ http://firstokfcu-dc.cert.fec-dc.fiservapps.com
 http://fldotcu-dc.cert.fec-dc.fiservapps.com
 lrc20.lightspark.com
 app.uma.money
+cert.briopay.com
+cert.everywherepaycard.com
+cert.moneytransfer.moneynetwork.com
+cert.paystubportal.com
+cert.premieraccesscard.com
+cert.pspa.solspark.com
+cert.pspt.solspark.com
+cert.totalpay.everywherepaycard.com
+cert-card.moneynetwork.com
+cert-paylucky.prepaidaccount.com
+cert-prepaidcard.moneynetwork.com
+cms.solspark.com

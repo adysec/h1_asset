@@ -4683,3 +4683,5 @@ https://*.hex.tech
 *.hertz.com
 https://*.theossteam.com
 *.acx.com
+*.8x8hosts.internal
+*.8x8hosts.pilot
