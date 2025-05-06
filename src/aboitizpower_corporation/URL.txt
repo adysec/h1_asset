@@ -53,3 +53,5 @@ http://www.prismenergy.com.ph
 http://www.visayanelectric.com
 http://www.project-renaissance-prod.aboitizdatainnovation.io
 http://metering-services.aboitizpower.com
+http://gnpd.ph
+http://wise.gnpd.ph

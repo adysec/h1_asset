@@ -14795,3 +14795,7 @@ cert-card.moneynetwork.com
 cert-paylucky.prepaidaccount.com
 cert-prepaidcard.moneynetwork.com
 cms.solspark.com
+https://newaccounts-admin.arborbanking.com
+https://newaccounts.arborbanking.com
+http://gnpd.ph
+http://wise.gnpd.ph
