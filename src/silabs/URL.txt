@@ -1,1 +1,4 @@
 community.silabs.com
+cpms.silabs.com
+docs.silabs.com
+ops.silabs.com
