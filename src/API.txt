@@ -41,3 +41,5 @@ walletbot.me/v2api
 walletbot.me/scwapi
 walletbot.me/users
 pay.wallet.tg/wpay
+https://bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com/
+https://bug-bounty-rest.k8s.tools-001.d-use-1.braze-dev.com/

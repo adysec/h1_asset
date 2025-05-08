@@ -29,3 +29,8 @@ com.amazon.astro
 com.amazon.warhol.android
 com.amazon.amazonone.androidapp
 com.amazon.kisan.app
+com.amazon.aba.application
+com.amazon.enterprise.access.android
+com.amazon.firetv.recast.blaster.aosp
+com.amazon.ihm.candycane
+com.amazon.swa.mobileapp

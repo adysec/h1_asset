@@ -17,3 +17,5 @@ https://crypto.com/price
 web.crypto.com
 developer-platform-api.crypto.com
 nadex.com
+developer.crypto.com
+developer-api.crypto.com

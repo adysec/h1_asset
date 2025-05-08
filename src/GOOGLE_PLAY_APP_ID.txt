@@ -668,3 +668,8 @@ com.fivemobile.thescore
 ai.x.grok
 com.bah.r1smobile
 com.audible.application
+com.amazon.aba.application
+com.amazon.enterprise.access.android
+com.amazon.firetv.recast.blaster.aosp
+com.amazon.ihm.candycane
+com.amazon.swa.mobileapp
