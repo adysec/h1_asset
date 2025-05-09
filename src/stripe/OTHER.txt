@@ -25,3 +25,5 @@ Stripe Treasury
 Stripe for Visual Studio Code
 Tap to Pay (Android)
 Tap to Pay (iOS)
+Sandboxes
+Stripe Organizations

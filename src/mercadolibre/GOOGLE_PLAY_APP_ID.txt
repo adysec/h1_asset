@@ -3,3 +3,4 @@ com.mercadolibre
 com.mercadoenvios.driver
 com.mercadoenvios.crowdsourcing
 com.mercadoenvios.logistics
+com.mercadolibre.android.mplay_tv

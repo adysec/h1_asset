@@ -6,3 +6,4 @@ https://github.com/SiliconLabsSoftware/renode
 https://github.com/SiliconLabsSoftware/simplicity-device-manager
 https://github.com/SiliconLabsSoftware/aiml-extension
 https://github.com/SiliconLabsSoftware/tflite-micro
+https://github.com/tensorflow/tflite-micro/commit/02414075e7f718a2d0412775fcadbf28fb4cc5aa 

@@ -673,3 +673,5 @@ com.amazon.enterprise.access.android
 com.amazon.firetv.recast.blaster.aosp
 com.amazon.ihm.candycane
 com.amazon.swa.mobileapp
+com.anker.charging
+com.mercadolibre.android.mplay_tv
