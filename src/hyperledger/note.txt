@@ -1,1 +1,2 @@
 22522	https://hackerone.com/hyperledger	Hyperledger	hyperledger
+22522	https://hackerone.com/hyperledger	Linux Foundation Decentralized Trust	hyperledger
