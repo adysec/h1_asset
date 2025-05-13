@@ -2,3 +2,4 @@ app.launchdarkly.com
 events.launchdarkly.com
 stream.launchdarkly.com
 docs.launchdarkly.com
+https://launchdarkly.com/docs

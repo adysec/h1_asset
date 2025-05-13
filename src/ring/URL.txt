@@ -9,3 +9,4 @@ billing.ring.com/*
 prd-ring-web-us.prd.rings.solutions
 *.immedia-semi.com/*
 *.blinkforhome.com/*
+publicsafety.ring.com

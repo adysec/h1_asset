@@ -6,3 +6,4 @@ www.cheapflights.com
 www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
+kayak.ai
