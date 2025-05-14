@@ -4685,3 +4685,7 @@ https://*.theossteam.com
 *.acx.com
 *.8x8hosts.internal
 *.8x8hosts.pilot
+*.hubspotemail.net
+*.hs-sites(-eu1)?.com
+*.hubspotpagebuilder.com
+*.hubspotpagebuilder.eu

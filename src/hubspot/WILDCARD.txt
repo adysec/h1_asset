@@ -1,0 +1,4 @@
+*.hubspotemail.net
+*.hs-sites(-eu1)?.com
+*.hubspotpagebuilder.com
+*.hubspotpagebuilder.eu

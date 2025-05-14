@@ -1,0 +1,6 @@
+app.hubspot.com
+api.hubspot.com
+api.hubapi.com
+app-eu1.hubspot.com
+chatspot.ai
+connect.com

@@ -14880,3 +14880,11 @@ customerportal.transunion.co.za
 publicsafety.ring.com
 kayak.ai
 https://launchdarkly.com/docs
+app.hubspot.com
+api.hubspot.com
+api.hubapi.com
+app-eu1.hubspot.com
+chatspot.ai
+connect.com
+http://mtn.co.sz
+http://mtn.go-vip.net

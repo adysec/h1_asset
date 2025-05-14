@@ -795,3 +795,4 @@
 81934	https://hackerone.com/wallet_on_telegram	Wallet on Telegram	wallet_on_telegram
 99943	https://hackerone.com/braze_inc	Braze, Inc.	braze_inc
 22522	https://hackerone.com/hyperledger	Linux Foundation Decentralized Trust	hyperledger
+92284	https://hackerone.com/hubspot	HubSpot	hubspot
