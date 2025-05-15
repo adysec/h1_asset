@@ -14,3 +14,4 @@ http://*.grab.co
 *.grab.co
 *.ovo.id
 *.taralite.com
+*.ovofinansial.com

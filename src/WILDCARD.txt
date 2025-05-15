@@ -4689,3 +4689,4 @@ https://*.theossteam.com
 *.hs-sites(-eu1)?.com
 *.hubspotpagebuilder.com
 *.hubspotpagebuilder.eu
+*.ovofinansial.com
