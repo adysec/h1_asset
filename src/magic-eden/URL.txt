@@ -2,3 +2,5 @@ magiceden.io
 coralcube.io
 eng.magiceden.io
 eng.magiceden.dev
+slingshot.app
+slingshot.finance

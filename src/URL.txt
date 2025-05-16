@@ -14888,3 +14888,5 @@ chatspot.ai
 connect.com
 http://mtn.co.sz
 http://mtn.go-vip.net
+slingshot.app
+slingshot.finance

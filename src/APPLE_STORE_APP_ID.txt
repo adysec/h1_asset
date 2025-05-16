@@ -647,3 +647,4 @@ com.bah.r1s
 id1635029057
 1481198245
 HubSpot iOS Mobile App
+com.magiceden.wallet
