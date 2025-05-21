@@ -91,3 +91,4 @@ com.heytap.music
 com.heytap.pictorial
 com.coloros.pictorial
 https://appdistribution.firebase.google.com/pub/i/505927432f64f04a
+Wellcare+

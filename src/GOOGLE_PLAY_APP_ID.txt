@@ -678,3 +678,5 @@ com.mercadolibre.android.mplay_tv
 com.moveit.app.customer
 HubSpot Android Mobile App
 com.magiceden.wallet
+com.ihtech.p2m.mywellcare
+com.wellcare.ohana
