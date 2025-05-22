@@ -680,3 +680,4 @@ HubSpot Android Mobile App
 com.magiceden.wallet
 com.ihtech.p2m.mywellcare
 com.wellcare.ohana
+com.newegg.app

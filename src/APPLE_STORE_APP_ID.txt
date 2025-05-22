@@ -650,3 +650,4 @@ HubSpot iOS Mobile App
 com.magiceden.wallet
 com.wellcare.mypdp
 com.wellcare.wellcarega
+com.newegg.app
