@@ -1,1 +1,2 @@
 *.hertz.com
+*hertz.io

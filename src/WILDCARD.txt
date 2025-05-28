@@ -4690,3 +4690,5 @@ https://*.theossteam.com
 *.hubspotpagebuilder.com
 *.hubspotpagebuilder.eu
 *.ovofinansial.com
+*hertz.io
+*.abr.com.au
