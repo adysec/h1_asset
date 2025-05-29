@@ -1,2 +1,4 @@
 http://*.ups.com
 *.ups.com
+*.ups-tms.com
+*.ups-mi.com

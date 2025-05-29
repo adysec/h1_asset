@@ -5,3 +5,9 @@
 *.trainpal.com
 *.trainpal.com,*.mytrainpal.com
 *.cheaptickets.nl
+*.triplinkintl.com
+*.tyo-masters.co.jp
+*.budgetair.com
+*.flugladen.de
+*.vayama.com
+*.vliegwinkel.nl
