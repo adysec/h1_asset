@@ -1346,3 +1346,4 @@ HubSpot Sales Office 365 add-in
 Customer Portal
 Other HubSpot-owned (sub)domains not listed as Out of Scope
 *.cloud.mongodb.com/*
+Claude Code
