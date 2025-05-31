@@ -4720,3 +4720,4 @@ www.lazada.*sixcountry
 *.vliegwinkel.nl
 *.ups-tms.com
 *.ups-mi.com
+*.call-control.ie
