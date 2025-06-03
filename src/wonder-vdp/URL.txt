@@ -2,3 +2,6 @@ https://blog.blueapron.com/
 www.blueapron.com
 http://www.blueapron.com/graphql
 https://order.wonder.com
+www.grubhub.com
+www.menupages.com
+www.seamless.com

@@ -1,1 +1,3 @@
 https://*.wonder.com
+*.seamless.com
+*.grubhub.com

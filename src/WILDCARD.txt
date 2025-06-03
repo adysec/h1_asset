@@ -4721,3 +4721,5 @@ www.lazada.*sixcountry
 *.ups-tms.com
 *.ups-mi.com
 *.call-control.ie
+*.seamless.com
+*.grubhub.com

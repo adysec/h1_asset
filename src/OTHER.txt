@@ -1347,3 +1347,18 @@ Customer Portal
 Other HubSpot-owned (sub)domains not listed as Out of Scope
 *.cloud.mongodb.com/*
 Claude Code
+ASN: AS32308
+ASN: AS44965
+ASN: AS46680
+ASN: AS49856
+ASN: AS62306
+ASN: AS62876
+ASN: AS133144
+ASN: AS198554
+ASN: AS395362
+ASN: AS398067
+ASN: AS14294
+ASN: AS13896
+ASN: AS10976
+ASN: AS199687
+ASN: AS206422

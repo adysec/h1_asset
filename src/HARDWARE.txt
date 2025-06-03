@@ -142,3 +142,4 @@ Arduino Nano
 Wireless Microcontrollers (MCUs)
 eufyMake E1
 Solarbank 2 E1600 Pro
+UniFi Connect

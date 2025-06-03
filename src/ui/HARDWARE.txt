@@ -12,3 +12,4 @@ UniFi Gateways (UDM, UXG, USG)
 Cloudkey
 UniFi LED
 UniFi Access
+UniFi Connect
