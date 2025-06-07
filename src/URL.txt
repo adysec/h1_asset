@@ -14982,3 +14982,4 @@ token-api.starlingbank.com
 openbanking.starlingbank.com
 api-openbanking.starlingbank.com
 payment-api.starlingbank.com
+https://ebctest.cybersource.com/merchant-mgmt/
