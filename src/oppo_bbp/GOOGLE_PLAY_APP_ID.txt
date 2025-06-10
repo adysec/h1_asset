@@ -24,3 +24,5 @@ com.oppo.market
 com.oppo.quicksearchbox
 com.oppo.speechassist
 com.oppo.usercenter
+com.heytap.store
+com.heytap.mall

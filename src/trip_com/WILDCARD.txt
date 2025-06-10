@@ -11,3 +11,4 @@
 *.flugladen.de
 *.vayama.com
 *.vliegwinkel.nl
+*.trip.biz

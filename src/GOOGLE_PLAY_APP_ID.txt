@@ -681,3 +681,5 @@ com.magiceden.wallet
 com.ihtech.p2m.mywellcare
 com.wellcare.ohana
 com.newegg.app
+com.heytap.store
+com.heytap.mall

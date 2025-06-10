@@ -4,3 +4,4 @@ http://*.ui.com
 *.ui.com
 https://*.ui.com/distributors/
 https://*.ui.com/training/partners/
+*.uisp.com
