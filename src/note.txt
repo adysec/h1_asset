@@ -798,3 +798,4 @@
 92284	https://hackerone.com/hubspot	HubSpot	hubspot
 96615	https://hackerone.com/centene_vdp	Centene_vdp	centene_vdp
 93807	https://hackerone.com/alibaba_vdp	Alibaba VDP	alibaba_vdp
+2943	https://hackerone.com/eternal	Eternal	eternal

@@ -143,3 +143,8 @@ Wireless Microcontrollers (MCUs)
 eufyMake E1
 Solarbank 2 E1600 Pro
 UniFi Connect
+Nintendo Switch 2 applications for which Nintendo is the publisher worldwide
+Nintendo Switch 2 Security controller known as PSC or Platform Security Controller (any component) / Security controller known as TSEC (bootROM only)
+Nintendo Switch 2 Kernel / ARM® TrustZone®
+Nintendo Switch 2 System Processes allowing piracy
+Nintendo Switch 2 System Processes

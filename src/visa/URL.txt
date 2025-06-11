@@ -68,3 +68,4 @@ developer.currencycloud.com
 direct-demo.currencycloud.com
 https://www.visa.com.az/az_az/account/registration
 https://ebctest.cybersource.com/merchant-mgmt/
+https://ebctest.cybersource.com/ums
