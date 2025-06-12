@@ -33,3 +33,4 @@ tip.centurum.com
 falcon.gitlab.drs.com
 vpn01.drs.com
 vpn09.drs.com
+https://vpn1.globalinfotek.com
