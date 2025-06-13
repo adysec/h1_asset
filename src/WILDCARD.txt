@@ -4726,3 +4726,6 @@ www.lazada.*sixcountry
 *.trip.biz
 *.uisp.com
 *.thescore.com
+app*.hubspot.com
+api*.hubspot.com
+api*.hubapi.com

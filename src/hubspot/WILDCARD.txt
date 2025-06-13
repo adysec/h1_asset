@@ -2,3 +2,6 @@
 *.hs-sites(-eu1)?.com
 *.hubspotpagebuilder.com
 *.hubspotpagebuilder.eu
+app*.hubspot.com
+api*.hubspot.com
+api*.hubapi.com
