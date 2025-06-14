@@ -40,3 +40,4 @@ Spark Connector
 VS Code Plugin
 *.cloud.mongodb.com/*
 All Evergreen Assets (Excluding staging)
+*.account.mongodb.com/*

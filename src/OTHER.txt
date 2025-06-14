@@ -1364,3 +1364,4 @@ ASN: AS199687
 ASN: AS206422
 All Evergreen Assets (Excluding staging)
 https://vpn1.globalinfotek.com
+*.account.mongodb.com/*

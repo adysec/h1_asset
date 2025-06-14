@@ -4,3 +4,9 @@
 *.costcobusinesscentre.ca
 *.costcotravel.com
 *.costcotravel.ca
+www.costco.ca
+www.costco.com
+www.costcobusinesscentre.ca
+www.costcobusinessdelivery.com
+www.costcotravel.com
+www.costcotravel.ca
