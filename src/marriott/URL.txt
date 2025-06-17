@@ -41,3 +41,4 @@ help.marriott.com
 traveler.marriott.com
 travelagents.marriott.com/
 mipartnerprivileges.marriott.com
+psp.marriott.com
