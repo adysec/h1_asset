@@ -4731,3 +4731,4 @@ api*.hubspot.com
 api*.hubapi.com
 *-vpn.8x8.com
 *.bridge.xyz
+*.twitter.biz

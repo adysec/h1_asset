@@ -4,3 +4,4 @@
 *.x.ai
 *.x.com
 *.grok.com
+*.twitter.biz
