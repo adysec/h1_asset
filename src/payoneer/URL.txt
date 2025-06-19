@@ -2,3 +2,4 @@
 payoneer.com.cn
 http://greenchannel.payoneer.com.cn/gcportal
 myaccount-cn.payoneer.com
+myaccount.payoneer.com

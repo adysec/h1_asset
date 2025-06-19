@@ -1,2 +1,3 @@
 https://demo.openmage.org/
 demo.openmage.org
+demo-admin.openmage.com
