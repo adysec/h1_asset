@@ -15000,3 +15000,11 @@ psp.marriott.com
 myaccount.payoneer.com
 demo-admin.openmage.com
 shanghaidisneyresort.com.cn
+www.corebridgedirect.com
+rapid-rater.live.web.corebridgefinancial.com
+https://consultant.live.web.corebridgefinancial.com/valic/consultantdirect/public/login#/
+https://agentportal.live.web.corebridgefinancial.com/im/ssagent/public/login#/
+https://ca-optout.live.web.corebridgefinancial.com/optout/login.jsp
+www.connext.corebridgefinancial.com
+https://ica.live.web.corebridgefinancial.com/distribution/ica/public/login#/
+https://rsenablers.live.web.corebridgefinancial.com/valic/nonparticipant/auth/public/login?appname=pso#/

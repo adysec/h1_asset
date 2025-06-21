@@ -17,3 +17,11 @@ https://myaccount.valic.com/auth/public/login#/
 https://myaccount.valic.com/enroll/public/get-started
 https://live.cloud.api.corebridgefinancial.com/distribution/ica/auth/public/login#/
 https://live.cloud.api.corebridgefinancial.com/valic/nonparticipant/auth/public/login?appname=pso#/
+www.corebridgedirect.com
+rapid-rater.live.web.corebridgefinancial.com
+https://consultant.live.web.corebridgefinancial.com/valic/consultantdirect/public/login#/
+https://agentportal.live.web.corebridgefinancial.com/im/ssagent/public/login#/
+https://ca-optout.live.web.corebridgefinancial.com/optout/login.jsp
+www.connext.corebridgefinancial.com
+https://ica.live.web.corebridgefinancial.com/distribution/ica/public/login#/
+https://rsenablers.live.web.corebridgefinancial.com/valic/nonparticipant/auth/public/login?appname=pso#/
