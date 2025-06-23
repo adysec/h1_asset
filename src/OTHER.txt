@@ -1365,3 +1365,4 @@ ASN: AS206422
 All Evergreen Assets (Excluding staging)
 https://vpn1.globalinfotek.com
 *.account.mongodb.com/*
+Blinkit, Bistro and Hyperpure assets (in scope)
