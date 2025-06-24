@@ -28,3 +28,4 @@
 *.pocketcoffee.it
 *.thorntons.com
 *.yogurette.de
+*.ferreropromo.it

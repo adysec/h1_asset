@@ -15010,3 +15010,8 @@ https://ica.live.web.corebridgefinancial.com/distribution/ica/public/login#/
 https://rsenablers.live.web.corebridgefinancial.com/valic/nonparticipant/auth/public/login?appname=pso#/
 https://github.com/supabase-community/supabase-mcp
 bistro-api.blinkit.com
+https://gewinnspiel.mein-ferrero.de/loyalty-gewinnspiel/
+stage-gelati-ibba2025.pproitalia.it
+cruises.booking.com
+www.sustainability.booking.com
+www.expedia-aarp.com

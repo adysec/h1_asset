@@ -1366,3 +1366,4 @@ All Evergreen Assets (Excluding staging)
 https://vpn1.globalinfotek.com
 *.account.mongodb.com/*
 Blinkit, Bistro and Hyperpure assets (in scope)
+https://github.com/Hacker0x01/react-datepicker

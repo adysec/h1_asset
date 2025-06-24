@@ -4732,3 +4732,12 @@ api*.hubapi.com
 *-vpn.8x8.com
 *.bridge.xyz
 *.twitter.biz
+*.ferreropromo.it
+*.royalcaninevent.com
+*.royalcaninfoundation.org
+*.royalcaninmalaysia.my
+*.royalcaninshop.com.ua
+*.royalcaninup.com
+*.royalcaninvetdiets.com.sg
+*.royalrands.co.za
+*.solucionesrc.com.ar
