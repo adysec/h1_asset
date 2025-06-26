@@ -1,1 +1,2 @@
 www.temu.com
+seller.temu.com

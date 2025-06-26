@@ -7,3 +7,4 @@ dashboard.fortmatic.com
 fortmatic.com
 careers.fortmatic.com
 portal.magicnewton.com
+newton.xyz
