@@ -1,3 +1,5 @@
 https://*.wonder.com
 *.seamless.com
 *.grubhub.com
+*.tapingo.com
+*.jo30.com

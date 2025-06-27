@@ -4741,3 +4741,5 @@ api*.hubapi.com
 *.royalcaninvetdiets.com.sg
 *.royalrands.co.za
 *.solucionesrc.com.ar
+*.tapingo.com
+*.jo30.com

@@ -504,3 +504,4 @@ https://kibana.infra.prod.westeurope.api.mtn.com/login
 central.bayobab.africa
 http://mtn.co.sz
 http://mtn.go-vip.net
+momofrommtn.co.zm
