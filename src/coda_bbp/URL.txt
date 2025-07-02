@@ -12,3 +12,4 @@ https://staging.coda.io/*
 https://user-profile-prod.coda.io/*
 https://*.coda.io/*
 https://user-profile-test.coda.io/*
+coda.grammarly.com
