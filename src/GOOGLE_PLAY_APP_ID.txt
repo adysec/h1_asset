@@ -685,3 +685,4 @@ com.heytap.store
 com.heytap.mall
 com.chipotle.mena
 com.blinkit.bistro
+com.application.zomato.district
