@@ -27,3 +27,4 @@
 *.jpmc.reflexisinc.com
 *essmartpackd.zebra.engineering
 *spx-load.zebra.engineering
+*.mobicontrolcloud.com

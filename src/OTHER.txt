@@ -1367,3 +1367,14 @@ https://vpn1.globalinfotek.com
 *.account.mongodb.com/*
 Blinkit, Bistro and Hyperpure assets (in scope)
 https://github.com/Hacker0x01/react-datepicker
+WHOOP 5.0/MG STRAP
+Amazon SageMaker
+Amazon SageMaker Ground Truth
+Amazon SageMaker HyperPod
+Amazon Q
+Amazon Q Business
+Amazon Q Developer
+Amazon Q Developer Agent
+Amazon Q in Connect
+Amazon Q in QuickSight
+Amazon Q in Supply Chain

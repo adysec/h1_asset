@@ -261,3 +261,13 @@ VPC Reachability Analyzer
 *.people.aws.com
 *.people.aws.dev
 *.sa.aws.dev
+Amazon SageMaker
+Amazon SageMaker Ground Truth
+Amazon SageMaker HyperPod
+Amazon Q
+Amazon Q Business
+Amazon Q Developer
+Amazon Q Developer Agent
+Amazon Q in Connect
+Amazon Q in QuickSight
+Amazon Q in Supply Chain
