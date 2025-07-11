@@ -4,3 +4,4 @@ http://yourdomain.myfreshworks.com/crm
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
+yourdomain.freshrelease.com
