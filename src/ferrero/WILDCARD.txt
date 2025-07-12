@@ -29,3 +29,4 @@
 *.thorntons.com
 *.yogurette.de
 *.ferreropromo.it
+*.ferrero.com
