@@ -15055,3 +15055,8 @@ www.toyota.com.ar
 www.toyota.com.br
 https://portal.toyotalatam.com
 yourdomain.freshrelease.com
+auth.accept.wallbox.evcharging.abb.com
+loja.abb.com.br
+psa.abb.com.br
+efatura.abb.com.tr
+efatura1.abb.com.tr

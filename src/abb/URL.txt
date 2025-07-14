@@ -169,3 +169,8 @@ edi.abb.com.cn
 edi.drives.abb.com.cn
 edocuments.abb.com.cn
 eip.abb.com.cn
+auth.accept.wallbox.evcharging.abb.com
+loja.abb.com.br
+psa.abb.com.br
+efatura.abb.com.tr
+efatura1.abb.com.tr
