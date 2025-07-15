@@ -2,3 +2,5 @@ com.fidelity.android
 com.fidelity.sqrl
 com.fmr.eca.android.wealthscape
 com.fmr.eca.android.wealthscapeinvestor
+com.fidelity.hcg.health
+com.fidelity.wi.activity

@@ -92,3 +92,11 @@ com.heytap.pictorial
 com.coloros.pictorial
 https://appdistribution.firebase.google.com/pub/i/505927432f64f04a
 Wellcare+
+com.finshell.wallet
+com.nearme.gamecenter
+com.finshell.finance
+com.heytap.research
+com.netease.my.nearme.gamecenter
+com.oplus.aimemory
+com.oplus.play
+com.coloros.wallet
