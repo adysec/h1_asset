@@ -4798,3 +4798,4 @@ api*.hubapi.com
 *.marionnaud.sk
 *.pns.hk
 *.ferrero.com
+*.zurichkotak.com
