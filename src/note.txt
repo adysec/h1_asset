@@ -800,3 +800,4 @@
 93807	https://hackerone.com/alibaba_vdp	Alibaba VDP	alibaba_vdp
 2943	https://hackerone.com/eternal	Eternal	eternal
 99765	https://hackerone.com/tucows_vdp	Tucows (VDP)	tucows_vdp
+82627	https://hackerone.com/hpe_vdp	HPE VDP	hpe_vdp

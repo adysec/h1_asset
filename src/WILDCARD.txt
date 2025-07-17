@@ -4799,3 +4799,16 @@ api*.hubapi.com
 *.pns.hk
 *.ferrero.com
 *.zurichkotak.com
+*hpecorp.net
+https://*silver-peak.com*
+https://*zerto.com*
+https://*pachyderm.com*
+https://*axissecurity.com*
+*cpqcorp.*
+*hpecore.*
+*hpqcorp.*
+*simplivity.*
+*nimblestorage.*
+*plexxi.*
+*hpe.com
+*.bybit.eu

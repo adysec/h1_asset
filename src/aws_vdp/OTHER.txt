@@ -271,3 +271,4 @@ Amazon Q Developer Agent
 Amazon Q in Connect
 Amazon Q in QuickSight
 Amazon Q in Supply Chain
+Kiro

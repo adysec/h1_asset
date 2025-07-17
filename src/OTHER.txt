@@ -1378,3 +1378,8 @@ Amazon Q Developer Agent
 Amazon Q in Connect
 Amazon Q in QuickSight
 Amazon Q in Supply Chain
+Vulnerabilities in any HPE products
+*Cray.com*
+Aruba
+Additional HPE Asset 
+Kiro

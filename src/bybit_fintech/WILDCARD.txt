@@ -1,1 +1,2 @@
 *.bybit.com
+*.bybit.eu
