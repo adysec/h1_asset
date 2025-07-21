@@ -1383,3 +1383,4 @@ Vulnerabilities in any HPE products
 Aruba
 Additional HPE Asset 
 Kiro
+GP Integrated - PayGateway
