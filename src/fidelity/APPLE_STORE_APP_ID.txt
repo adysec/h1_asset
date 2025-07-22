@@ -2,3 +2,5 @@ com.fidelity.watchlist
 com.fidelity.sqrl
 mobi.wealthscape
 mobi.wealthscapeinvestor
+com.fidelity.hcg.health
+com.fidelity.nbmobile

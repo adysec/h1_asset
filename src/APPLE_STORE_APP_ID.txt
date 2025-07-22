@@ -655,3 +655,5 @@ com.newegg.app
 6670203019
 960335206
 6670536058
+com.fidelity.hcg.health
+com.fidelity.nbmobile
