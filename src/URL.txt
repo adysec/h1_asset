@@ -15256,3 +15256,4 @@ wstax.wip.it.hpe.com
 wwclass-ext.it.hpe.com
 z2z-hpecom-static-prd-poc-01.it.hpe.com
 z2z-hpecom-static-prd-poc-01.wip.it.hpe.com
+apps.8x8.com

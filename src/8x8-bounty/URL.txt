@@ -29,3 +29,4 @@ www.fuzemeeting.com
 fuze.me
 debug.8x8.com
 community.8x8.com
+apps.8x8.com
