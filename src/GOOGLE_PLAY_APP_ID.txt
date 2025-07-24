@@ -693,3 +693,6 @@ https://play.google.com/store/apps/dev?id=5503565801970655430&gl=gb
 com.oppo.store
 com.fidelity.hcg.health
 com.fidelity.wi.activity
+com.fanduel.casino
+com.fanduel.racing
+com.fanduel.flywheelnativecontainer.picks

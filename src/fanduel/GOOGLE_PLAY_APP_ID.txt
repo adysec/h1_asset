@@ -1,2 +1,5 @@
 com.fanduel.android.self
 com.fanduel.sportsbook
+com.fanduel.casino
+com.fanduel.racing
+com.fanduel.flywheelnativecontainer.picks

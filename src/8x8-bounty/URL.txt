@@ -30,3 +30,5 @@ fuze.me
 debug.8x8.com
 community.8x8.com
 apps.8x8.com
+video-agent.8x8.com
+converse.8x8.com
