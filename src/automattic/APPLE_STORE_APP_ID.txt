@@ -1,1 +1,2 @@
 com.tumblr.tumblr
+com.clay.ios
