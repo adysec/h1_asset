@@ -28,3 +28,4 @@
 *essmartpackd.zebra.engineering
 *spx-load.zebra.engineering
 *.mobicontrolcloud.com
+*.toolsportal.zebra.com

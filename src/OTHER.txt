@@ -1384,3 +1384,5 @@ Aruba
 Additional HPE Asset 
 Kiro
 GP Integrated - PayGateway
+mpa.qr.web.m-pesa.com
+WGP Slot Games

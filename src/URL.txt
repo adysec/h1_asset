@@ -15285,3 +15285,8 @@ sarlaft.itauseguros.co
 soporte.itauseguros.co
 tiendanaranja.co
 clay.earth
+mpa.ekyc.backoffice.m-pesa.com
+mpa.ekyc.selfregister.m-pesa.com
+openapiportal.m-pesa.com
+openapi.m-pesa.com
+m-pesa.africa

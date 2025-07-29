@@ -696,3 +696,6 @@ com.fidelity.wi.activity
 com.fanduel.casino
 com.fanduel.racing
 com.fanduel.flywheelnativecontainer.picks
+com.vodafone.mpesa.ls
+com.vodafone.mpesa.mozambique
+com.vodafone.mpesa.drc

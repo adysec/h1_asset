@@ -1,0 +1,3 @@
+com.vodafone.mpesa.ls
+com.vodafone.mpesa.mozambique
+com.vodafone.mpesa.drc

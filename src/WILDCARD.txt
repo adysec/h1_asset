@@ -4812,3 +4812,5 @@ https://*axissecurity.com*
 *plexxi.*
 *hpe.com
 *.bybit.eu
+*.m-pesa.com
+*.toolsportal.zebra.com
