@@ -1,0 +1,7 @@
+https://portal.singlestore.com/
+https://portal.singlestore.com/admin
+auth.singlestore.com
+api.singlestore.com
+backend.singlestore.com
+authsvc.singlestore.com
+singlestore.com

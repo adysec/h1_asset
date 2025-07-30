@@ -1,0 +1,6 @@
+cell-agent.*.svc.singlestore.com
+notebook-gateway.*.svc.singlestore.com
+bottle-api.*.svc.singlestore.com
+bottle-dup.*.svc.singlestore.com
+nova-gateway.*.svc.singlestore.com
+ai.*.svc.singlestore.com

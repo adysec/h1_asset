@@ -170,3 +170,4 @@ http://*.banfieldpetexpress.com
 *.royalcaninvetdiets.com.sg
 *.royalrands.co.za
 *.solucionesrc.com.ar
+*.mars-dna.com

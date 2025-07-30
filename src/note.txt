@@ -802,3 +802,4 @@
 99765	https://hackerone.com/tucows_vdp	Tucows (VDP)	tucows_vdp
 82627	https://hackerone.com/hpe_vdp	HPE VDP	hpe_vdp
 57400	https://hackerone.com/mpesa	M-Pesa Africa Limited	mpesa
+77907	https://hackerone.com/singlestore	SingleStore	singlestore
