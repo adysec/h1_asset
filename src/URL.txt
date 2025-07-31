@@ -15316,3 +15316,9 @@ toblerone.com
 vedettescollations.ca
 zbaradventure.com
 http1mustdie.com
+https://prizm.inzpire.com/
+https://www.inzpire.com
+https://prizmstaging.inzpire.com
+https://prizmapi.inzpire.com/
+https://prizmstagingapi.inzpire.com/
+https://prizmsupport.inzpire.com/
