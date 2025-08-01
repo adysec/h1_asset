@@ -15322,3 +15322,7 @@ https://prizmstaging.inzpire.com
 https://prizmapi.inzpire.com/
 https://prizmstagingapi.inzpire.com/
 https://prizmsupport.inzpire.com/
+zap.money
+paystackintegrations.com
+paystackmfb.com
+paystack.shop

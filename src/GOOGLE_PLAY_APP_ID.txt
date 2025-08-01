@@ -699,3 +699,4 @@ com.fanduel.flywheelnativecontainer.picks
 com.vodafone.mpesa.ls
 com.vodafone.mpesa.mozambique
 com.vodafone.mpesa.drc
+com.paystack.zap

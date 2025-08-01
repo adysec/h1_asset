@@ -6,3 +6,7 @@ checkout.paystack.com
 api.paystack.co
 dashboard.paystack.com
 standard.paystack.co
+zap.money
+paystackintegrations.com
+paystackmfb.com
+paystack.shop
