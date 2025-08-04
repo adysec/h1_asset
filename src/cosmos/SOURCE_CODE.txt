@@ -12,3 +12,4 @@ https://github.com/iqlusioninc/crates/tree/main/signatory
 https://github.com/cometbft/cometbft-db
 https://github.com/cosmos/ics23
 https://github.com/CosmWasm/cosmwasm
+https://github.com/skip-mev/go-fast-contracts
