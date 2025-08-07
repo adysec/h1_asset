@@ -171,3 +171,4 @@ http://*.banfieldpetexpress.com
 *.royalrands.co.za
 *.solucionesrc.com.ar
 *.mars-dna.com
+*.vetsource.com
