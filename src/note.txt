@@ -804,3 +804,4 @@
 57400	https://hackerone.com/mpesa	M-Pesa Africa Limited	mpesa
 77907	https://hackerone.com/singlestore	SingleStore	singlestore
 65357	https://hackerone.com/inzpire	Inzpire	inzpire
+98818	https://hackerone.com/citi_group	Citi Group	citi_group
