@@ -13,3 +13,7 @@ https://trade.digitalcommerce.truist.com/
 https://teammate.digitalcommerce.truist.com/
 https://oneview.truist.com
 investments.truist.com
+https://new.digitalcommerce.truist.com
+https://developer.truist.com
+https://dias.oneview.truist.com
+https://trade.digitalcommerce.truist.com

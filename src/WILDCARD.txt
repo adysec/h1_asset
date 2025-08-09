@@ -4823,3 +4823,4 @@ ai.*.svc.singlestore.com
 *.mars-dna.com
 *.logitechg.com*
 *.vetsource.com
+*.airbnb.org

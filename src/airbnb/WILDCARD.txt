@@ -1,1 +1,2 @@
 *.hoteltonight.com
+*.airbnb.org

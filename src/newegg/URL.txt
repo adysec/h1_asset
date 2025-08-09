@@ -1,2 +1,5 @@
 sellingpilot.com
 sellerportal.newegg.com
+https://secure.newegg.com
+secure.newegg.ca
+pmtcards.newegg.com
