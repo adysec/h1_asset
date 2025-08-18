@@ -1396,3 +1396,13 @@ DevBridge
 Tier 1 Assets
 Tier 2 Assets
 Tier 3 Assets
+https://ashvpn.telos.com
+https://certrenewvpn.telos.com
+https://mail19-ash.telos.com
+https://mail19-gce.telos.com
+https://mail19-gcw.telos.com
+https://mdvpn.telos.com
+https://mse.telos.com
+https://msw.telos.com
+https://password.telos.com
+https://sftp.telos.com

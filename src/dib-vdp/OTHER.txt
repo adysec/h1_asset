@@ -34,3 +34,13 @@ falcon.gitlab.drs.com
 vpn01.drs.com
 vpn09.drs.com
 https://vpn1.globalinfotek.com
+https://ashvpn.telos.com
+https://certrenewvpn.telos.com
+https://mail19-ash.telos.com
+https://mail19-gce.telos.com
+https://mail19-gcw.telos.com
+https://mdvpn.telos.com
+https://mse.telos.com
+https://msw.telos.com
+https://password.telos.com
+https://sftp.telos.com

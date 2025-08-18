@@ -373,3 +373,15 @@ cn.inside.abb.com
 cn.library.e.abb.com
 cn.mybuildings.abb.com
 cn.shop.abb.com
+projects.drives.abb.com.cn
+pwbw-digital-ci01.abilityplatform02.abb.com.cn
+qms.lmg.motion.abb.com.cn
+qrcode.motion.abb.com.cn
+rcm.motors.abb.com.cn
+receiver-drives.abb.com.cn
+remote-service.motion.abb.com.cn
+remotemonitoring.drives.abb.com.cn
+reporting.digital.motion.abb.com.cn
+request.abb.com.cn
+resi-commercial.abb.com.cn
+resource.evcharging.abb.com.cn
