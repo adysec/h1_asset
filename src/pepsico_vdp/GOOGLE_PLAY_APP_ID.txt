@@ -1,0 +1,7 @@
+com.PepsiCoConsumer.Pepsicopartner
+com.pepsicolatam.joy
+com.pepsico.agri.gh
+com.pepsico.kazandirio
+com.PepsiCoConsumer.Minegocioec
+com.PepsiCoConsumer.Minegociope
+com.pepsicoconsumer.pepsicogfn

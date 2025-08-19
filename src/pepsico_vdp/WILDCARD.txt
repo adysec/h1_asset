@@ -69,3 +69,17 @@
 *.sunchips.com
 *.tostitos.com
 *.yachak.com
+*.joypepsico.com
+*.joy-pepsico.eu
+*.joyapp.mx
+*.dousaflavor.com
+*.pepsi.pl
+*.tastyrewards.ca
+*.walkers.co.uk
+*.pepsico.co.uk
+*.pepsimundo.com
+*.doritos.co.uk
+*.houseofpepsico.com
+*.lays.pl
+*.standardysprzetpepsico.pl
+*.pbsg.com
