@@ -15703,3 +15703,10 @@ reporting.digital.motion.abb.com.cn
 request.abb.com.cn
 resi-commercial.abb.com.cn
 resource.evcharging.abb.com.cn
+https://cdn.telos.com
+https://www.telos.com
+vap.8x8.com
+exo-dev.wirtgen-group.com
+exo01.wirtgen-group.com
+exo02.wirtgen-group.com
+https://signin-hackerone.hbstaging.website/

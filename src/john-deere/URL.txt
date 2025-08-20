@@ -791,3 +791,6 @@ etraining-dev.services.wirtgen-group.com
 etraining.services.wirtgen-group.com
 dev-proxy-ci-centralus.agrisync.com
 http://www.deere.com/assets/pdfs
+exo-dev.wirtgen-group.com
+exo01.wirtgen-group.com
+exo02.wirtgen-group.com
