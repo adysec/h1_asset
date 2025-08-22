@@ -664,3 +664,4 @@ com.fidelity.nbmobile
 com.clay.ios
 1442121355
 1502222766
+com.ripio.ios

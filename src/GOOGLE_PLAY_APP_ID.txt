@@ -707,3 +707,4 @@ com.pepsico.kazandirio
 com.PepsiCoConsumer.Minegocioec
 com.PepsiCoConsumer.Minegociope
 com.pepsicoconsumer.pepsicogfn
+com.ripio.android

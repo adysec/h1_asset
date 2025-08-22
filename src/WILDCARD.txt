@@ -4838,3 +4838,5 @@ ai.*.svc.singlestore.com
 *.lays.pl
 *.standardysprzetpepsico.pl
 *.pbsg.com
+*ripiotrade.co
+*ripio.com

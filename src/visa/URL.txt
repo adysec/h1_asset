@@ -71,3 +71,7 @@ https://ebctest.cybersource.com/merchant-mgmt/
 https://ebctest.cybersource.com/ums
 visa.com.bo
 https://ebctest.cybersource.com/cds/
+www.visamiddleeast.com
+my.visa.fr
+infinite.visa.fr
+www.visa.fr

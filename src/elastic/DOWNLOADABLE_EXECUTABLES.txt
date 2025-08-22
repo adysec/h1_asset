@@ -16,3 +16,4 @@ Observability - APM Server
 Fleet Server
 Kibana
 Beats
+Elastic Defend
