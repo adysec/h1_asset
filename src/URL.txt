@@ -15819,3 +15819,5 @@ www.visamiddleeast.com
 my.visa.fr
 infinite.visa.fr
 www.visa.fr
+suppliernet-dev.elcompanies.com
+auth.ort-one-pingone.com

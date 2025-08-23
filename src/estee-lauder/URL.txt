@@ -106,3 +106,4 @@ edp-fredericmalle.elcompanies.com
 eform.ap.elcompanies.com
 frontiers-prod-sg-eform.elcompanies.com
 vto-kilian-paris.elcompanies.cn
+suppliernet-dev.elcompanies.com
