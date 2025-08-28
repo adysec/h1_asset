@@ -4841,3 +4841,4 @@ ai.*.svc.singlestore.com
 *ripiotrade.co
 *ripio.com
 *.bybit-tr.com
+*.bybit.tr

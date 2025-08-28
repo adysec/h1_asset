@@ -1,3 +1,4 @@
 *.bybit.com
 *.bybit.eu
 *.bybit-tr.com
+*.bybit.tr
