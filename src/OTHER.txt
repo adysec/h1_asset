@@ -1408,3 +1408,5 @@ https://password.telos.com
 https://sftp.telos.com
 Tier 1 Studios
 *.visamiddleeast.com
+Enterprise Edition Products and Tools
+MongoDB Community Server Local Instance

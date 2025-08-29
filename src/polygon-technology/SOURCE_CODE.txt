@@ -7,3 +7,4 @@ https://github.com/maticnetwork/matic-cli
 https://github.com/0xPolygon/auto-claim-service
 https://github.com/0xPolygon/lxly.js
 https://github.com/0xPolygon/static
+https://github.com/0xPolygon/heimdall-v2
