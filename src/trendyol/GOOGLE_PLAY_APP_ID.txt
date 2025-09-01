@@ -1,3 +1,4 @@
 trendyol.com
 com.dolap.android
 com.trendyol.milla.android
+com.trendyol.go
