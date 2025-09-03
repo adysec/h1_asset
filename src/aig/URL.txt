@@ -68,3 +68,4 @@ http://cg.cropriskservices.com/customergateway/login?returnurl=%2fcustomergatewa
 www-1p.aig.com
 mall.aig.com.cn
 https://mall.aig.com.cn/efapiao/
+wwip.aig.com

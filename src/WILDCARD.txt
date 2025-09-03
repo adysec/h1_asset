@@ -4842,3 +4842,4 @@ ai.*.svc.singlestore.com
 *ripio.com
 *.bybit-tr.com
 *.bybit.tr
+*.buut.com
