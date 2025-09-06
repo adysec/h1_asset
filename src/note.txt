@@ -807,3 +807,4 @@
 98818	https://hackerone.com/citi_group	Citi Group	citi_group
 56011	https://hackerone.com/ripio	Ripio	ripio
 49732	https://hackerone.com/8x8-bounty	8x8	8x8-bounty
+101050	https://hackerone.com/hack_the_box	Hack The Box	hack_the_box

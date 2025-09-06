@@ -16048,3 +16048,10 @@ ftp1.de.abb.com
 function-getserviceactionform.drivetune.motion.abb.com
 gatemanager.abb.com
 gateway.baldor.abb.com
+https://academy.hackthebox.com/
+https://account.hackthebox.com
+https://ctf.hackthebox.com
+https://enterprise.hackthebox.com
+https://app.hackthebox.com/
+https://jobs.hackthebox.com/
+https://status.hackthebox.com/
