@@ -1,3 +1,4 @@
 com.nordvpn.android
 com.nordpass.android.app.password.manager
 NordLocker - Android Application
+Saily - Android

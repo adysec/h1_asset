@@ -5,3 +5,5 @@ https://enterprise.hackthebox.com
 https://app.hackthebox.com/
 https://jobs.hackthebox.com/
 https://status.hackthebox.com/
+labs.hackthebox.com
+api.jobs.hackthebox.com

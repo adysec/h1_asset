@@ -666,3 +666,4 @@ com.clay.ios
 1502222766
 com.ripio.ios
 6698897106
+Saily - iOS
