@@ -31,3 +31,13 @@ indrive.alternativa.film
 auroratechaward.com
 https://cas-cf.euce1.indriverapp.com/api/passkey
 couriers.indrive.com
+careers.indrive.com
+coaching.supernovas.indrive.com
+indrive.com
+intercity.indrive.com
+media.indrive.com
+url-checker.indrive.com
+www.supernovas.indrive.com
+oymyakon.indriver.io
+teammate.indriver.io
+movie.indrive.com
