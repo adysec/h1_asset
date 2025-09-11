@@ -809,3 +809,4 @@
 49732	https://hackerone.com/8x8-bounty	8x8	8x8-bounty
 101050	https://hackerone.com/hack_the_box	Hack The Box	hack_the_box
 55863	https://hackerone.com/unitigroup	Uniti	unitigroup
+102689	https://hackerone.com/netscaler_public_program	NetScaler Public Program	netscaler_public_program
