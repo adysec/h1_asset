@@ -31,25 +31,12 @@ def write_word(word,target):
 def get_assets(handle):
 	url = "https://hackerone.com/graphql"
 
-	# Build cookies and headers preferring in-script defaults; env overrides allowed
+	# Build cookies and headers from in-script defaults only
 	cookies = dict(H1_DEFAULT_COOKIES) if isinstance(H1_DEFAULT_COOKIES, dict) else {}
-	try:
-		if os.getenv('H1_COOKIES_JSON'):
-			cookies.update(json.loads(os.getenv('H1_COOKIES_JSON')))
-		helper_session = os.getenv('H1_SESSION')
-		if helper_session:
-			cookies['__Host-session'] = helper_session
-		helper_device = os.getenv('H1_DEVICE_ID')
-		if helper_device:
-			cookies['h1_device_id'] = helper_device
-	except Exception as e:
-		print('env cookies parse error\t'+str(e))
 
 	headers = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0", "Accept": "*/*", "Content-Type": "application/json"}
 	if H1_DEFAULT_X_CSRF_TOKEN:
 		headers["X-Csrf-Token"] = H1_DEFAULT_X_CSRF_TOKEN
-	elif os.getenv('H1_X_CSRF_TOKEN'):
-		headers["X-Csrf-Token"] = os.getenv('H1_X_CSRF_TOKEN')
 
 	data = {"operationName":"TeamAssets","variables":{"handle":handle},"query":"query TeamAssets($handle: String!) {\n  me {\n    id\n    membership(team_handle: $handle) {\n      id\n      permissions\n      __typename\n    }\n    __typename\n  }\n  team(handle: $handle) {\n    id\n    handle\n    structured_scope_versions(archived: false) {\n      max_updated_at\n      __typename\n    }\n    in_scope_assets: structured_scopes(first: 650, archived: false, eligible_for_submission: true) {\n      edges {\n        node {\n          id\n          asset_type\n          asset_identifier\n          instruction\n          max_severity\n          eligible_for_bounty\n          labels(first: 100) {\n            edges {\n              node {\n                id\n                name\n                __typename\n              }\n              __typename\n            }\n            __typename\n          }\n          __typename\n        }\n        __typename\n      }\n      __typename\n    }\n    out_scope_assets: structured_scopes(first: 650, archived: false, eligible_for_submission: false) {\n      edges {\n        node {\n          id\n          asset_type\n          asset_identifier\n          instruction\n          __typename\n        }\n        __typename\n      }\n      __typename\n    }\n    __typename\n  }\n}\n"}
 
