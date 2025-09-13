@@ -571,3 +571,4 @@ https://appbiz.momo.africa/content/v1_1/
 https://appbiz.momo.africa/content/v2_0_0/
 https://nextgenapine.momo.africa/content/v2_0_0/
 https://nextgenapine.momo.africa/content/v2_1_0/
+https://mtnsudan.samanage.com
