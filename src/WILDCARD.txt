@@ -4911,3 +4911,4 @@ vm-gw-cf.*.aws.indriverapp.com
 was-gw-cf.*.aws.indriverapp.com
 wlr-cf.*.aws.indriverapp.com
 *uniti.com
+*.eternal.com

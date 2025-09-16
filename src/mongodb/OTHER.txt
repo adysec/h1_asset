@@ -43,3 +43,4 @@ All Evergreen Assets (Excluding staging)
 *.account.mongodb.com/*
 Enterprise Edition Products and Tools
 MongoDB Community Server Local Instance
+BI Connector

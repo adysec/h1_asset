@@ -10,3 +10,4 @@ http://*.grofers.com
 *.ticketnew.com
 *.insider.in
 *.tktnew.com
+*.eternal.com
