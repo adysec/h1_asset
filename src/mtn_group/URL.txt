@@ -573,3 +573,6 @@ https://nextgenapine.momo.africa/content/v2_0_0/
 https://nextgenapine.momo.africa/content/v2_1_0/
 https://mtnsudan.samanage.com
 https://momobusiness.mtn.cg/home
+https://partner.mobilemoney.mtn.com.gh/partner
+https://agentvetting.mtn.cm
+https://mtn1app.mtncameroon.net:9443

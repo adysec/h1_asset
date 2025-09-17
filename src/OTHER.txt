@@ -1415,3 +1415,4 @@ NetScaler ADC
 NetScaler AAA
 Amazon Route 53
 BI Connector
+All Docusign apps and assets not listed below as Out of Scope

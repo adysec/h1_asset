@@ -19,3 +19,4 @@ payments.msbpay.navient.com
 www.navirefi.com
 apply2.navirefi.com
 wsmb2bresv.navient.com
+navient.com

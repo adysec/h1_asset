@@ -1,1 +1,3 @@
 *.zurichkotak.com
+*.travelguard.com
+*.travelguard.zurichna.com
