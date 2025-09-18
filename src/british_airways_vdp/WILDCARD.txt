@@ -1,0 +1,1 @@
+*.britishairways.com

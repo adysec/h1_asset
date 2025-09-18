@@ -1,0 +1,1 @@
+92442	https://hackerone.com/kaseya	Kaseya	kaseya

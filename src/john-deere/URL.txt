@@ -794,3 +794,5 @@ http://www.deere.com/assets/pdfs
 exo-dev.wirtgen-group.com
 exo01.wirtgen-group.com
 exo02.wirtgen-group.com
+exo03.wirtgen-group.com
+exo04.wirtgen-group.com

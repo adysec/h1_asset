@@ -1416,3 +1416,5 @@ NetScaler AAA
 Amazon Route 53
 BI Connector
 All Docusign apps and assets not listed below as Out of Scope
+All assets owned by Hyland are in scope
+Security vulnerabilities that are identified in digital properties owned, operated, or controlled by British Airways are considered in scope.
