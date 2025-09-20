@@ -11,3 +11,4 @@ api.direct.playstation.com
 ca.account.sony.com
 my.account.sony.com
 ps5.np.playstation.net
+checkout.playstation.com
