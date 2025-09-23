@@ -265,3 +265,4 @@ Malwarebytes Support Tool (MBST)
 Dia
 UISP
 Elastic Defend
+eufyMake Studio software

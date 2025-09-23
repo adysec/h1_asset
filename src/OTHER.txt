@@ -1418,3 +1418,20 @@ BI Connector
 All Docusign apps and assets not listed below as Out of Scope
 All assets owned by Hyland are in scope
 Security vulnerabilities that are identified in digital properties owned, operated, or controlled by British Airways are considered in scope.
+LEV+
+Magenic
+Mirabeau
+Mobica
+Netcentric
+New Signature
+Servian
+Softvision
+Cognizant Health Sciences
+Cognizant Mobility
+Collaborative Solutions
+Inawisdom
+Sentient
+Thirdera
+Utegration
+Zenith
+Zone Digital

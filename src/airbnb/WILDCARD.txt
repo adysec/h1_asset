@@ -1,2 +1,4 @@
 *.hoteltonight.com
 *.airbnb.org
+*.musta.ch
+*.airbnbpayments.com

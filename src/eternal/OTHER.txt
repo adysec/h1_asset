@@ -4,3 +4,6 @@ All Zomato Assets (Other than BlinkIT & Hyperpure)
 All District Assets (Other than Zomato, BlinkIT & Hyperpure)
 Scope Questions: Items not explicitly listed here
 Blinkit, Bistro and Hyperpure assets (in scope)
+Tier 2
+Tier 1
+Tier 3

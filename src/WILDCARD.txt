@@ -4951,3 +4951,5 @@ wlr-cf.*.aws.indriverapp.com
 *.openmesh.com
 *.soonr.com
 *.britishairways.com
+*.musta.ch
+*.airbnbpayments.com
