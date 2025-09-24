@@ -2,3 +2,10 @@ Tesco
 Booker
 One Stop
 Tesco Mobile
+API Assets
+Cloud Assets
+Exposed Sensitive Documents
+Leaked & Default Credentials
+Medium, High and Critical Severity Issue on Out-Of-Scope Assets
+Third-Party Managed Assets
+Domain, Subdomain & Zone Takeovers

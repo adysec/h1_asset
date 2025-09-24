@@ -1,0 +1,14 @@
+*.tesco.sk/*
+https://www.booker.co.uk/*
+*.itesco.cz/*
+*.itesco.sk/*
+https://www.onestop.co.uk/*
+*.ourtesco.com/*
+*.tesco-europe.com/*
+*.tesco.com/*
+*.tesco.hu/*
+*.tesco.ie/*
+*.tesco.org/*
+*.tescocloud.com/*
+https://www.tescomobile.com/*
+*.tescoplc.com/*

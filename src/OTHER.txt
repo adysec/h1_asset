@@ -1435,3 +1435,11 @@ Thirdera
 Utegration
 Zenith
 Zone Digital
+https://napoleoncasino.be/nl-be/game/plinko-napoleon?demo=false
+API Assets
+Cloud Assets
+Exposed Sensitive Documents
+Leaked & Default Credentials
+Medium, High and Critical Severity Issue on Out-Of-Scope Assets
+Third-Party Managed Assets
+Domain, Subdomain & Zone Takeovers

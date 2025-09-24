@@ -172,3 +172,4 @@ http://*.banfieldpetexpress.com
 *.solucionesrc.com.ar
 *.mars-dna.com
 *.vetsource.com
+*.effem.com
