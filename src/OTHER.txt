@@ -1444,3 +1444,5 @@ Medium, High and Critical Severity Issue on Out-Of-Scope Assets
 Third-Party Managed Assets
 Domain, Subdomain & Zone Takeovers
 mail.hostinger.com/v2
+Copilot Spaces
+Copilot Coding Agent
