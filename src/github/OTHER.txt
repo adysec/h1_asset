@@ -11,3 +11,4 @@ Copilot for Business
 GitHub Enterprise Cloud with Data Residency (GHEC-DR)
 Copilot Spaces
 Copilot Coding Agent
+GitHub Spark
