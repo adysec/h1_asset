@@ -8,3 +8,6 @@ www.seamless.com
 www.tapingo.com
 www.jo30.com
 restaurant.grubhub.com
+http://www.blueapron.com/api
+auth.grubhub.com
+sensor.grubhub.com

@@ -1,0 +1,2 @@
+com.blueapron.blueapron.release
+com.grubhub.android

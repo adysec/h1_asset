@@ -16121,3 +16121,6 @@ https://makeitreal-beta.eufymake.com/
 files.services.wirtgen-group.com
 https://mcp-server.zomato.com/mcp
 compare.porsche.com
+http://www.blueapron.com/api
+auth.grubhub.com
+sensor.grubhub.com
