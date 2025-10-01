@@ -14,3 +14,6 @@ www.crowdstrike.com
 *.preempt.com
 *.preemptsecurity.com
 *.reposify.com
+onum.com
+onum-labs.com
+pangea.cloud
