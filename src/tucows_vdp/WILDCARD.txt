@@ -1,0 +1,9 @@
+*.opensrs.com
+*.hover.com
+*.exacthosting.com
+*.ting.com
+*.tingmobile.com
+*.enom.com
+*.ascio.com
+*.tucowsdomains.com
+*.wavelo.com
