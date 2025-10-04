@@ -7,3 +7,4 @@
 *.ascio.com
 *.tucowsdomains.com
 *.wavelo.com
+*.simplybits.com

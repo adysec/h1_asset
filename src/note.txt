@@ -815,3 +815,4 @@
 92442	https://hackerone.com/kaseya	Kaseya	kaseya
 105204	https://hackerone.com/british_airways_vdp	British Airways	british_airways_vdp
 94255	https://hackerone.com/baird_vdp	Baird	baird_vdp
+101556	https://hackerone.com/lovable-vdp	Lovable VDP	lovable-vdp

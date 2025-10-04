@@ -1,0 +1,1 @@
+101556	https://hackerone.com/lovable-vdp	Lovable VDP	lovable-vdp
