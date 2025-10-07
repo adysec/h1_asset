@@ -6,3 +6,4 @@ eero 6 Extender (3rd Generation)
 eero 6 Pro
 eero 6+ (4th Gen)
 eero 6E Pro (4th Gen)
+eero Devices

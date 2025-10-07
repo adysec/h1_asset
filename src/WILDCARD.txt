@@ -5016,3 +5016,5 @@ https://*.rwbaird.com
 *.tucowsdomains.com
 *.wavelo.com
 *.simplybits.com
+*.eero.com
+*.e2ro.com

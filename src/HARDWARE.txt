@@ -148,3 +148,4 @@ Nintendo Switch 2 Security controller known as PSC or Platform Security Controll
 Nintendo Switch 2 Kernel / ARM® TrustZone®
 Nintendo Switch 2 System Processes allowing piracy
 Nintendo Switch 2 System Processes
+eero Devices

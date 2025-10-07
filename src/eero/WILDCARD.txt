@@ -1,0 +1,2 @@
+*.eero.com
+*.e2ro.com
