@@ -576,3 +576,4 @@ https://momobusiness.mtn.cg/home
 https://partner.mobilemoney.mtn.com.gh/partner
 https://agentvetting.mtn.cm
 https://mtn1app.mtncameroon.net:9443
+partnergui.mtn.zm

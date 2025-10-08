@@ -760,3 +760,17 @@ http://greateriefcu-dn.financial-net.com
 http://greenriverfcu-dn.financial-net.com
 http://greensboropostalcu-dn.financial-net.com
 http://greenvilleheritage-dn.financial-net.com
+http://gsafcu-dn.financial-net.com
+http://gtcfcu-dn.financial-net.com
+http://hamiltonhorizons-dn.financial-net.com
+http://hancockfcu-dn.financial-net.com
+http://hastingsfcu-dn.financial-net.com
+http://hawaiicountyfcu-dn.financial-net.com
+http://hawaiifcu-dn.financial-net.com
+http://hawaiischoolsfcu-dn.financial-net.com
+http://hazletonsecu-dn.financial-net.com
+http://hcfcu4u-dn.financial-net.com
+http://hcffcu-dn.financial-net.com
+http://fpcu-dc.cert.fec-dc.fiservapps.com
+http://frbefcu-dc.cert.fec-dc.fiservapps.com
+http://ftrandallfcu-dc.cert.fec-dc.fiservapps.com
