@@ -5018,3 +5018,4 @@ https://*.rwbaird.com
 *.simplybits.com
 *.eero.com
 *.e2ro.com
+*.cloud-effem.com

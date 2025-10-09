@@ -173,3 +173,4 @@ http://*.banfieldpetexpress.com
 *.mars-dna.com
 *.vetsource.com
 *.effem.com
+*.cloud-effem.com
