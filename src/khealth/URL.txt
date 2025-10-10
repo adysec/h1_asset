@@ -15,3 +15,4 @@ anthem.khealth.com
 api.khealth.com
 eligibility.khealth.com
 treatments.khealth.com
+auth.hhc247.org
