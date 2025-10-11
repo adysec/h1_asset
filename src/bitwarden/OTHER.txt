@@ -3,3 +3,4 @@ https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/
 https://www.microsoft.com/store/p/bitwarden-free-password-manager/9p6kxl0svnnl
 https://addons.opera.com/extensions/details/bitwarden-free-password-manager/
 https://safari-extensions.apple.com/details/?id=com.bitwarden.safari-LTZ2PFU5D6
+https://www.npmjs.com/package/@bitwarden/mcp-server

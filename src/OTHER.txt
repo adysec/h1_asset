@@ -1448,3 +1448,5 @@ Copilot Spaces
 Copilot Coding Agent
 GitHub Spark
 ThreatDown Endpoint Protection
+ThreatDown Endpoint Detection & Response (EDR)
+https://www.npmjs.com/package/@bitwarden/mcp-server
