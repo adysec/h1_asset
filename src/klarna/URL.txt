@@ -1,0 +1,8 @@
+xs2a.banking.playground.klarna.com
+pricerunner.com
+portal.openbanking.playground.klarna.com
+klarnacdn.net
+api.klarna.com
+js.klarna.com
+klarna.com
+klarna.net
