@@ -716,3 +716,4 @@ com.blueapron.blueapron.release
 com.grubhub.android
 com.espn.score_center
 org.hartfordhealthcare.hhc247
+Glassdoor Android

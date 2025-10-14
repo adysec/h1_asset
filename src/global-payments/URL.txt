@@ -1,3 +1,5 @@
 developer.globalpay.com
 bleepplc.co.uk
 pcamerica.com
+http://portal-staging.storman.com
+http://cloud-sbox.storman.com

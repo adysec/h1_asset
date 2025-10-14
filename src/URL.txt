@@ -16264,3 +16264,12 @@ api.klarna.com
 js.klarna.com
 klarna.com
 klarna.net
+http://pip-azu2-sec-paf-001-mgmt.ukwest.cloudapp.azure.com
+https://pip-azu1-sec-paf-001-mgmt.uksouth.cloudapp.azure.com/
+https://pip-azu1-sec-paf-002-mgmt.uksouth.cloudapp.azure.com/
+https://pip-azu1-sec-pan-001.uksouth.cloudapp.azure.com/
+draken.aero
+http://vpn.drakeneurope.network
+studiofaporsche.com
+http://portal-staging.storman.com
+http://cloud-sbox.storman.com
