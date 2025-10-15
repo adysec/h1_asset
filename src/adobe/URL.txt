@@ -99,3 +99,4 @@ net.s2stagehance.com
 learningmanagerstage4.adobe.com
 photos.adobe.io
 portfolio.ccpsx.com
+commercemarketplace.adobe.com

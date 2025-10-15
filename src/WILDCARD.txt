@@ -5019,3 +5019,4 @@ https://*.rwbaird.com
 *.eero.com
 *.e2ro.com
 *.cloud-effem.com
+*.vueling.com
