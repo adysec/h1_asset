@@ -1,0 +1,1 @@
+*.pipopay.com
