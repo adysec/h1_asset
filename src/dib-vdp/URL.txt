@@ -385,3 +385,5 @@ https://vendorcert.telos.com
 https://cdn.telos.com
 https://www.telos.com
 https://www.stephensonstellar.org
+https://acesgroup.sharepoint.com/
+https://www.acesgroup.com/

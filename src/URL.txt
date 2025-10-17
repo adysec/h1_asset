@@ -16290,3 +16290,7 @@ commercemarketplace.adobe.com
 studio-fa-porsche.com
 studiofaporsche.at
 studio-fa-porsche.at
+https://acesgroup.sharepoint.com/
+https://www.acesgroup.com/
+gc4x-api-sandbox.gocardless.com
+deriv.partners
