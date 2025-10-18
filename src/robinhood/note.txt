@@ -1,1 +1,2 @@
 254	https://hackerone.com/robinhood	Robinhood	robinhood
+105208	https://hackerone.com/robinhood	Robinhood Markets Bounty	robinhood
