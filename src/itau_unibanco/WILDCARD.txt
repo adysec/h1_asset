@@ -1,0 +1,3 @@
+*.itau.com.br
+*.itau
+*.userede.com.br

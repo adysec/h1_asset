@@ -5022,3 +5022,6 @@ https://*.rwbaird.com
 *.vueling.com
 *.roke.co.uk
 *.pipopay.com
+*.itau.com.br
+*.itau
+*.userede.com.br
