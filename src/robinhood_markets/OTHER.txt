@@ -1,0 +1,6 @@
+*.rhinternal.net
+*.robinhood.com
+*.robinhood.net
+*.rhapollo.net
+*.say.rocks
+*.saytechnologies.com

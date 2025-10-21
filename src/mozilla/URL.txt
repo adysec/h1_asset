@@ -25,3 +25,4 @@ mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
 push.services.mozilla.com
 sync.services.mozilla.com
+www.firefox.com

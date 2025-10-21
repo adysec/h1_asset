@@ -1460,3 +1460,4 @@ Wrapped
 *.rhinternal.net
 *.robinhood.com
 *.robinhood.net
+*.rhapollo.net

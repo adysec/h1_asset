@@ -16300,3 +16300,5 @@ minerva.robinhood.com
 nummus.robinhood.com
 identi.robinhood.com
 diabrowser.com
+oak.robinhood.net
+www.firefox.com

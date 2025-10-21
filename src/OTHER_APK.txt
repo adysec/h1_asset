@@ -100,3 +100,5 @@ com.netease.my.nearme.gamecenter
 com.oplus.aimemory
 com.oplus.play
 com.coloros.wallet
+com.realme.storecn
+com.realmestore.app

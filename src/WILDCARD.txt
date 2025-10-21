@@ -5025,3 +5025,6 @@ https://*.rwbaird.com
 *.itau.com.br
 *.itau
 *.userede.com.br
+*.1integrations.com
+*.x1.co
+*.x1creditcard.com

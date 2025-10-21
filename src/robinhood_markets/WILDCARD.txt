@@ -1,0 +1,5 @@
+https://*.say.rocks
+*.1integrations.com
+*.x1.co
+*.x1creditcard.com
+https://*.saytechnologies.com
