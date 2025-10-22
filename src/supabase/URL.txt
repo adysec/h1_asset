@@ -5,3 +5,4 @@ https://multiplayer.dev
 https://supabase.help
 https://supabase.link
 https://github.com/supabase-community/supabase-mcp
+https://mcp.supabase.com/mcp

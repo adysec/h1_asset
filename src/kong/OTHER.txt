@@ -1,0 +1,2 @@
+Subdomain Takeover - konghq.com
+GitHub Actions in our Public Repositories 

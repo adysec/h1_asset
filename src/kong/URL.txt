@@ -1,0 +1,4 @@
+https://app.insomnia.rest/
+http://cloud.konghq.com
+developer.konghq.com
+konghq.com

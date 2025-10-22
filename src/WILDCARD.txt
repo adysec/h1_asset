@@ -5028,3 +5028,5 @@ https://*.rwbaird.com
 *.1integrations.com
 *.x1.co
 *.x1creditcard.com
+https://*.api.konghq.com
+https://us.identity.konghq.com/*

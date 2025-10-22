@@ -822,3 +822,4 @@
 65358	https://hackerone.com/roke_vdp	Roke	roke_vdp
 105208	https://hackerone.com/robinhood	Robinhood Markets Bounty	robinhood
 105207	https://hackerone.com/robinhood_markets	Robinhood Markets	robinhood_markets
+97890	https://hackerone.com/kong	Kong	kong

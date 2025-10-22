@@ -266,3 +266,9 @@ Dia
 UISP
 Elastic Defend
 eufyMake Studio software
+Insomnia CLI (inso)
+Insomnia Desktop Client
+Kong Mesh
+Kong Gateway Plugins (Kong-Supported Only)
+Kong Gateway Enterprise
+Kong Gateway OSS

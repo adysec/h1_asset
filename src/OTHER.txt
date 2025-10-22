@@ -1461,3 +1461,6 @@ Wrapped
 *.robinhood.com
 *.robinhood.net
 *.rhapollo.net
+Subdomain Takeover - konghq.com
+GitHub Actions in our Public Repositories 
+MyID Pre-auth Bypass
