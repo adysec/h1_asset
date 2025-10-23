@@ -16307,3 +16307,7 @@ http://cloud.konghq.com
 developer.konghq.com
 konghq.com
 https://mcp.supabase.com/mcp
+mtnmobilemoney.co.zm
+mtnmomo.mtn.zm
+http://internal.mtnzambia.co.zm
+mtn.zm

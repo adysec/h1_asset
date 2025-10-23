@@ -577,3 +577,7 @@ https://partner.mobilemoney.mtn.com.gh/partner
 https://agentvetting.mtn.cm
 https://mtn1app.mtncameroon.net:9443
 partnergui.mtn.zm
+mtnmobilemoney.co.zm
+mtnmomo.mtn.zm
+http://internal.mtnzambia.co.zm
+mtn.zm

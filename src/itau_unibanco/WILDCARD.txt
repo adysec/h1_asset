@@ -1,3 +1,5 @@
 *.itau.com.br
 *.itau
 *.userede.com.br
+*.itau.com.pa
+*.itau.co

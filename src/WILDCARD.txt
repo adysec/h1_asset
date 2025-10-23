@@ -5030,3 +5030,5 @@ https://*.rwbaird.com
 *.x1creditcard.com
 https://*.api.konghq.com
 https://us.identity.konghq.com/*
+*.itau.com.pa
+*.itau.co
