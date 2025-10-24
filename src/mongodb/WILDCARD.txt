@@ -1,1 +1,2 @@
 https://*.corp.mongodb.com*
+*.mongodb.com/*

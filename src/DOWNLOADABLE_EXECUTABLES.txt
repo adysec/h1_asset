@@ -272,3 +272,5 @@ Kong Mesh
 Kong Gateway Plugins (Kong-Supported Only)
 Kong Gateway Enterprise
 Kong Gateway OSS
+Drivers
+Database Tools

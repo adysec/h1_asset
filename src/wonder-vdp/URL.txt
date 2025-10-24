@@ -11,3 +11,4 @@ restaurant.grubhub.com
 http://www.blueapron.com/api
 auth.grubhub.com
 sensor.grubhub.com
+tastemade.com

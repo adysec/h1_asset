@@ -44,3 +44,19 @@ All Evergreen Assets (Excluding staging)
 Enterprise Edition Products and Tools
 MongoDB Community Server Local Instance
 BI Connector
+MongoDB Connectors
+MongoDB Atlas
+MongoDB Community Server
+MongoDB IntelliJ Plugin
+MongoDB Partner Integrations
+MongoDB MCP Server
+MongoDB Assistant
+Jira Projects
+Artifactory
+Atlas Charts
+Atlas IAM
+Atlas Data Federation
+Atlas Payments/Billing
+University Platform
+MongoDB Toolchain
+App Services/Realm

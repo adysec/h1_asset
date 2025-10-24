@@ -1464,3 +1464,20 @@ Wrapped
 Subdomain Takeover - konghq.com
 GitHub Actions in our Public Repositories 
 MyID Pre-auth Bypass
+MongoDB Connectors
+MongoDB Atlas
+MongoDB Community Server
+MongoDB IntelliJ Plugin
+MongoDB Partner Integrations
+MongoDB MCP Server
+MongoDB Assistant
+Jira Projects
+Artifactory
+Atlas Charts
+Atlas IAM
+Atlas Data Federation
+Atlas Payments/Billing
+University Platform
+MongoDB Toolchain
+App Services/Realm
+Valid Disney Retiree Credential
