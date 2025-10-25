@@ -1,0 +1,7 @@
+*gateway-apc.marriott.com
+*.dcfgateway.marriott.com
+*.mgs.marriott.com
+*.gateway.marriott.com
+*.apigatewayc.marriott.com
+*.apigwc.marriott.com
+*.artifactory.marriott.com

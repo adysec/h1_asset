@@ -16314,3 +16314,7 @@ mtn.zm
 www.doordash.com
 tastemade.com
 https://oneview.threatdownstage.com
+esupplier.marriott.com
+efast.marriott.com
+eidhelp.marriott.com
+apcgateway.marriott.com

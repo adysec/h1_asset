@@ -42,3 +42,7 @@ traveler.marriott.com
 travelagents.marriott.com/
 mipartnerprivileges.marriott.com
 psp.marriott.com
+esupplier.marriott.com
+efast.marriott.com
+eidhelp.marriott.com
+apcgateway.marriott.com
