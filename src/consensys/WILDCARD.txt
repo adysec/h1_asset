@@ -1,1 +1,2 @@
 *.api.cx.metamask.io
+*.web3factory.consensys.net
