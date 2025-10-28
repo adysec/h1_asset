@@ -1,0 +1,10 @@
+app.starlingbank.com
+oauth.starlingbank.com
+help.starlingbank.com
+developer.starlingbank.com
+api.starlingbank.com
+token-api.starlingbank.com
+openbanking.starlingbank.com
+api-openbanking.starlingbank.com
+payment-api.starlingbank.com
+www.starlingbank.com

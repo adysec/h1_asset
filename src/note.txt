@@ -824,3 +824,4 @@
 105207	https://hackerone.com/robinhood_markets	Robinhood Markets	robinhood_markets
 97890	https://hackerone.com/kong	Kong	kong
 106769	https://hackerone.com/doordash	DoorDash	doordash
+37774	https://hackerone.com/starling_bank_vdp	Starling Bank VDP	starling_bank_vdp

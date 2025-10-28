@@ -5041,3 +5041,4 @@ https://us.identity.konghq.com/*
 *.apigwc.marriott.com
 *.artifactory.marriott.com
 *.web3factory.consensys.net
+*.sba.marriott.com

@@ -27,3 +27,4 @@ Tap to Pay (Android)
 Tap to Pay (iOS)
 Sandboxes
 Stripe Organizations
+Smokescreen Open Source Project
