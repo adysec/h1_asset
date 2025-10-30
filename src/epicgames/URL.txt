@@ -68,3 +68,6 @@ competitive.fortnite.com
 create.fortnite.com
 content-service.bfda.live.use1a.on.epicgames.com
 content-service-live-testing.bfda.live.use1a.on.epicgames.com
+http://urc-uefn.live.ucs.on.epicgames.com
+http://nexus.live.ucs.on.epicgames.com/
+http://urc-auth-uefn.live.ucs.on.epicgames.com/

@@ -30,3 +30,5 @@ https://*.justicexchange.com
 *theworknumber.com
 *.abr.com.au
 *.vineapps.com
+*www.vaultverify.com
+*vaultverify.com

@@ -16408,3 +16408,7 @@ https://ebctest.cybersource.com/tms
 https://ebctest.cybersource.com/tss
 https://ebctest.cybersource.com/vdm
 https://ebctest.cybersource.com/vts
+http://urc-uefn.live.ucs.on.epicgames.com
+http://nexus.live.ucs.on.epicgames.com/
+http://urc-auth-uefn.live.ucs.on.epicgames.com/
+https://console.ort-one-pingone.com/?env=361b34ef-2725-4fd9-af1b-a2b189df3d05

@@ -5043,3 +5043,5 @@ https://us.identity.konghq.com/*
 *.web3factory.consensys.net
 *.sba.marriott.com
 *.stripchat.com
+*www.vaultverify.com
+*vaultverify.com
