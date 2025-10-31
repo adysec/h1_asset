@@ -5045,3 +5045,6 @@ https://us.identity.konghq.com/*
 *.stripchat.com
 *www.vaultverify.com
 *vaultverify.com
+*.unreal-agents.jitsi.net
+*.unreal-agents.com
+dev.epicgames.com/*

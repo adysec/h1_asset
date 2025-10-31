@@ -2,3 +2,4 @@
 *.bcbits.com
 *.epicgames.dev
 *.twinmotion.com
+dev.epicgames.com/*
