@@ -10,3 +10,4 @@ https://*axissecurity.com*
 *nimblestorage.*
 *plexxi.*
 *hpe.com
+*.juniper.net
