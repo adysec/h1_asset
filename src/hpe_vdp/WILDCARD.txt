@@ -11,3 +11,5 @@ https://*axissecurity.com*
 *plexxi.*
 *hpe.com
 *.juniper.net
+*.arubanetworks.com*
+*.central.arubanetworks.com*

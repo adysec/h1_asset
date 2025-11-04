@@ -827,3 +827,4 @@
 37774	https://hackerone.com/starling_bank_vdp	Starling Bank VDP	starling_bank_vdp
 91516	https://hackerone.com/adevinta_vdp	Adevinta	adevinta_vdp
 61144	https://hackerone.com/stripchat	Stripchat	stripchat
+60432	https://hackerone.com/drumgrange-vdp	Drumgrange VDP	drumgrange-vdp

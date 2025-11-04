@@ -5049,3 +5049,5 @@ https://us.identity.konghq.com/*
 *.unreal-agents.com
 dev.epicgames.com/*
 *.juniper.net
+*.arubanetworks.com*
+*.central.arubanetworks.com*
