@@ -2,3 +2,5 @@
 *.windstream.com
 *.windstream.net
 *uniti.com
+*unitibenefits.com
+*unitisolutions.com

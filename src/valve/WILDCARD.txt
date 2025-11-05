@@ -1,0 +1,1 @@
+*.steamstatic.com
