@@ -274,3 +274,5 @@ Kong Gateway Enterprise
 Kong Gateway OSS
 Drivers
 Database Tools
+Beats - Osquerybeat
+Elastic Distributions of OpenTelemetry (EDOT)

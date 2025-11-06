@@ -17,3 +17,5 @@ Fleet Server
 Kibana
 Beats
 Elastic Defend
+Beats - Osquerybeat
+Elastic Distributions of OpenTelemetry (EDOT)
