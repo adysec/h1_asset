@@ -1,1 +1,4 @@
 http://testnet.bybit.eu
+http://www.bybit.com/trade/tradfi/
+http://www.bybit.com/en/alpha/overview/
+http://www.byreal.io

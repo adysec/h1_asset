@@ -81,3 +81,4 @@ moments.marriott.com
 www.giving.marriott.com
 www.members.marriott.com
 splunk-phantom-nlb.marriott.com
+editionhotels.com

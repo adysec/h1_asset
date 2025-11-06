@@ -828,3 +828,4 @@
 91516	https://hackerone.com/adevinta_vdp	Adevinta	adevinta_vdp
 61144	https://hackerone.com/stripchat	Stripchat	stripchat
 60432	https://hackerone.com/drumgrange-vdp	Drumgrange VDP	drumgrange-vdp
+106654	https://hackerone.com/mueller_water_products_vdp	Mueller Water Products (VDP)	mueller_water_products_vdp
