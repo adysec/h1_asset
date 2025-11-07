@@ -16639,3 +16639,4 @@ mobile.fleetboard.com
 mqttups-tst.fleetboard.com
 mqttups.fleetboard.com
 mx01.fleetboard.com
+vault2.faraday.ai

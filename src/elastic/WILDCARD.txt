@@ -12,3 +12,4 @@ http://*.elastic-cloud.com
 *.elasticnet.co
 *.eops.nl
 *.elastic-cloud.com
+*.elastic.dev

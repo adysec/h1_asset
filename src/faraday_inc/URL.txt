@@ -1,3 +1,4 @@
 app.faraday.io
 app.faraday.ai
 api.faraday.ai
+vault2.faraday.ai

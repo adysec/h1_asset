@@ -1484,3 +1484,5 @@ Valid Disney Retiree Credential
 Smokescreen Open Source Project
 Superhuman Go
 ftp.drumgrange.com
+gs://fdy-production-sdk-uploads
+gs://faraday-secret
