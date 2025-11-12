@@ -8,3 +8,4 @@ CISA Aero PMS Service (Windows)
 Smart Software 4
 CISA Reader App (Windows)
 CISA Reader App (iMac)
+9500IQ / 2800IQ Senior Swing Series Operators

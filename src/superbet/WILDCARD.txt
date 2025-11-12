@@ -13,3 +13,4 @@ http://*.superbet.com
 *.napoleongames.be
 *.napoleonsports.be
 *.superbet.pl
+*.happening.dev
