@@ -46,3 +46,4 @@ https://bug-bounty-rest.k8s.tools-001.d-use-1.braze-dev.com/
 api-merchant-gtm.grubhub.com 
 NetScaler
 Glassdoor APIs
+https://203074349567.uw2.portal.vectra.ai/api

@@ -1488,3 +1488,9 @@ gs://fdy-production-sdk-uploads
 gs://faraday-secret
 9500IQ / 2800IQ Senior Swing Series Operators
 Other In-Scope Assets
+Notion Frontend
+Product API
+Public API
+Notion Integrations
+Privilege Escalation
+Notion Authentication

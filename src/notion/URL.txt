@@ -1,0 +1,2 @@
+mail.notion.so
+calendar.notion.so

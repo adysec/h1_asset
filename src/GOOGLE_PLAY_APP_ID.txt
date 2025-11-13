@@ -721,3 +721,4 @@ Regions Bank
 com.robinhood.gateway
 com.robinhood.money
 com.dd.doordash
+notion.id

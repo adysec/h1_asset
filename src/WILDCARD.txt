@@ -5056,3 +5056,8 @@ dev.epicgames.com/*
 *.steamstatic.com
 *.elastic.dev
 *.happening.dev
+*.vectra-svc.ai
+*.vectra.ai
+*.tastemade.com
+*.tiktokpublishers.com
+*.tiktokcdn.com

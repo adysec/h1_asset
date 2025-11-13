@@ -16645,3 +16645,13 @@ va-appgate-ctrl1.dzyne.com
 pontoon.allizom.org
 chipsahoyscan.com
 superhuman.com
+vectra.ai
+api.vectranetworks.com
+metadata.vectranetworks.com
+rp.vectranetworks.com
+update2.vectranetworks.com
+vpn.vectranetworks.com
+mail.notion.so
+calendar.notion.so
+concorso.orosaiwa.it
+egypt.oreostayplayful.com

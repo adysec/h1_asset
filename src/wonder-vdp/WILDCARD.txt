@@ -3,3 +3,4 @@ https://*.wonder.com
 *.grubhub.com
 *.tapingo.com
 *.jo30.com
+*.tastemade.com

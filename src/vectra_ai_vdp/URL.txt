@@ -1,0 +1,6 @@
+vectra.ai
+api.vectranetworks.com
+metadata.vectranetworks.com
+rp.vectranetworks.com
+update2.vectranetworks.com
+vpn.vectranetworks.com

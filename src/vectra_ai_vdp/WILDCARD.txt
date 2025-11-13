@@ -1,0 +1,2 @@
+*.vectra-svc.ai
+*.vectra.ai

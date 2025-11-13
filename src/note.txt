@@ -829,3 +829,5 @@
 61144	https://hackerone.com/stripchat	Stripchat	stripchat
 60432	https://hackerone.com/drumgrange-vdp	Drumgrange VDP	drumgrange-vdp
 106654	https://hackerone.com/mueller_water_products_vdp	Mueller Water Products (VDP)	mueller_water_products_vdp
+72479	https://hackerone.com/vectra_ai_vdp	Vectra AI, Inc. (Response)	vectra_ai_vdp
+57944	https://hackerone.com/notion	Notion Labs, Inc.	notion
