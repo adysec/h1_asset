@@ -16656,3 +16656,5 @@ calendar.notion.so
 concorso.orosaiwa.it
 egypt.oreostayplayful.com
 ucprivado.unioncapital.com.uy
+staging.hosted.mender.io
+b2b-api.ripio.com

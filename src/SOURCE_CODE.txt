@@ -847,3 +847,6 @@ https://github.com/0xPolygon/heimdall-v2
 https://github.com/brave/*, https://github.com/brave-intl/*
 www.github.com/cosmos/evm
 https://github.com/circlefin/stablecoin-starknet
+https://github.com/mendersoftware/mender
+https://github.com/mendersoftware/mender-server
+	 https://github.com/cfengine/core

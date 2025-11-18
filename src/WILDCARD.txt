@@ -5061,3 +5061,4 @@ dev.epicgames.com/*
 *.tastemade.com
 *.tiktokpublishers.com
 *.tiktokcdn.com
+https://*.verilyme.com/

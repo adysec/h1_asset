@@ -277,3 +277,4 @@ Database Tools
 Beats - Osquerybeat
 Elastic Distributions of OpenTelemetry (EDOT)
 Notion Desktop App
+CFEngine Enterprise

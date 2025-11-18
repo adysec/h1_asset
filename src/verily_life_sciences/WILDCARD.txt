@@ -3,3 +3,4 @@ https://*.onduo.com/
 https://*.projectbaseline.com/
 https://*.signalpath.com/
 https://*.granularinsurance.com/
+https://*.verilyme.com/

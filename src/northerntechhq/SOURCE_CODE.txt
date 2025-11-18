@@ -1,0 +1,3 @@
+https://github.com/mendersoftware/mender
+https://github.com/mendersoftware/mender-server
+	 https://github.com/cfengine/core
