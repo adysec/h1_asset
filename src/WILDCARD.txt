@@ -5062,3 +5062,4 @@ dev.epicgames.com/*
 *.tiktokpublishers.com
 *.tiktokcdn.com
 https://*.verilyme.com/
+*.fdbox.net

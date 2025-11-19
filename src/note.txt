@@ -832,3 +832,4 @@
 72479	https://hackerone.com/vectra_ai_vdp	Vectra AI, Inc. (Response)	vectra_ai_vdp
 57944	https://hackerone.com/notion	Notion Labs, Inc.	notion
 94066	https://hackerone.com/northerntechhq	Northern.tech	northerntechhq
+51557	https://hackerone.com/fanduel-vdp	FanDuel Response	fanduel-vdp

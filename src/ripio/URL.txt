@@ -4,3 +4,4 @@ https://kyc.ripio.com/
 http://auth.ripio.com
 defi.ripio.com
 b2b-api.ripio.com
+sandbox-b2b.ripio.com

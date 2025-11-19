@@ -8,3 +8,6 @@ https://play.google.com/store/apps/details?id=com.odete.playersbank&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.itau.trader.mobile&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.hipercard.app&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.credicard.app&hl=pt_BR&gl=US
+https://play.google.com/store/apps/details?id=com.uy.itau.appitauuypf&pcampaignid=web_share
+https://play.google.com/store/apps/details?id=uy.com.itau.pagocuentas&pcampaignid=web_share
+https://play.google.com/store/apps/details?id=com.uy.itau.appile&pcampaignid=web_share

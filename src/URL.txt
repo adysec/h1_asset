@@ -16658,3 +16658,9 @@ egypt.oreostayplayful.com
 ucprivado.unioncapital.com.uy
 staging.hosted.mender.io
 b2b-api.ripio.com
+affiliates.fanduel.com
+support.fanduel.com
+sandbox-b2b.ripio.com
+www.itau.com.uy
+app.taplio.com
+app.tweethunter.io
