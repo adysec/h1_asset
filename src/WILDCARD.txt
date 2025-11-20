@@ -5063,3 +5063,4 @@ dev.epicgames.com/*
 *.tiktokcdn.com
 https://*.verilyme.com/
 *.fdbox.net
+*.superhuman.com

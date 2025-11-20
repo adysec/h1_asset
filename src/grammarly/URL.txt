@@ -5,3 +5,14 @@ grammarly.ai
 capi.grammarly.com
 app.grammarly.com
 superhuman.com
+goldengate.grammarly.com
+gateway.superhuman.com
+id.superhuman.com
+settings.superhuman.com
+auth.grammarly.com
+tokens.grammarly.com
+developer.grammarly.com
+https://coda.io/signup/email
+status.coda.io
+codacontent.io
+codahosted.io

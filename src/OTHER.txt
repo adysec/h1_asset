@@ -1495,3 +1495,4 @@ Notion Integrations
 Privilege Escalation
 Notion Authentication
 Data Protection Program
+Grammarly Browser Extensions
