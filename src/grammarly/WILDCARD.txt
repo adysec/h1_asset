@@ -16,3 +16,4 @@ https://shiny.ops.coda.io/*
 https://staging.coda.io/*
 https://user-profile-prod.coda.io/*
 https://user-profile-test.coda.io/*
+*.coda.io

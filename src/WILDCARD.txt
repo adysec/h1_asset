@@ -5064,3 +5064,4 @@ dev.epicgames.com/*
 https://*.verilyme.com/
 *.fdbox.net
 *.superhuman.com
+*.coda.io
