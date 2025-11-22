@@ -658,3 +658,4 @@
 *.wssservicescorp.net
 *.wsssuite.com
 *.wtwit2.wallstreetsystems.com
+*.www.allegrodev.com

@@ -47,3 +47,4 @@ api-merchant-gtm.grubhub.com
 NetScaler
 Glassdoor APIs
 https://203074349567.uw2.portal.vectra.ai/api
+All API's called by the AWS CLI

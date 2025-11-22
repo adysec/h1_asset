@@ -833,3 +833,4 @@
 57944	https://hackerone.com/notion	Notion Labs, Inc.	notion
 94066	https://hackerone.com/northerntechhq	Northern.tech	northerntechhq
 51557	https://hackerone.com/fanduel-vdp	FanDuel Response	fanduel-vdp
+22746	https://hackerone.com/grammarly	Superhuman (formerly Grammarly)	grammarly

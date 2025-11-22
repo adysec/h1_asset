@@ -1496,3 +1496,266 @@ Privilege Escalation
 Notion Authentication
 Data Protection Program
 Grammarly Browser Extensions
+Amazon SNS
+Amazon Simple Notification Service (Amazon SNS)
+AWS - Cloud Shell
+AWS Account Management
+AWS Activate
+AWS App Studio
+AWS Application Cost Profiler Service
+AWS Application Transformation Service
+AWS Billing
+AWS Budget Service
+AWS Certificate Manager
+AWS Cloud Shell
+AWS CloudFront
+AWS CloudWatch RUM
+AWS Cloudfront
+AWS Cloudfront https://aws.amazon.com/cloudfront/
+AWS Cloudfront2
+AWS CodeConnections
+AWS Connector Service
+AWS Console Mobile App
+AWS Consolidated Billing
+AWS Control Catalog
+AWS Cost Explorer Service
+AWS Cost Optimization Hub
+AWS Cost and Usage Report
+AWS Customer Verification Service
+AWS Database Migration Service
+AWS Deadline Cloud
+AWS Diagnostic tools
+AWS Directory Service Data
+AWS Elastic Load Balancing
+AWS Elemental Appliances and Software
+AWS End User Messaging SMS and Voice V2
+AWS End User Messaging Social
+AWS Free Tier
+AWS GuardDuty
+AWS Health APIs and Notifications
+AWS IAM Access Analyzer
+AWS IAM Identity Center (successor to AWS Single Sign-On)
+AWS Identity Store
+AWS Identity Sync
+AWS Import Export Disk Service
+AWS Inspector
+AWS Invoicing Service
+AWS IoT
+AWS IoT Core for LoRaWAN
+AWS IoT Device Defender
+AWS IoT Device Management
+AWS IoT Events
+AWS IoT FleetWise
+AWS IoT Greengrass
+AWS IoT RoboRunner
+AWS IoT SiteWise
+AWS IoT Things Graph
+AWS IoT TwinMaker
+AWS IoT Wireless
+AWS Key Management Service
+AWS Key Management Service (AWS KMS)
+AWS Lake Formation
+AWS Lambda
+AWS Launch Wizard
+AWS License Manager
+AWS Local Zones
+AWS Mainframe Modernization
+AWS Mainframe Modernization Service
+AWS Managed Services (AMS)
+AWS Management Console
+AWS Management Portal for vCenter
+AWS Marketplace
+AWS Microservice Extractor for .NET
+AWS Migration Acceleration Program Credits
+AWS Migration Hub
+AWS Migration Hub Refactor Spaces
+AWS Mobile Hub
+AWS Mobile SDK for Android
+AWS Mobile SDK for Unity
+AWS Mobile SDK for iOS
+AWS Network Manager
+AWS OpsWorks
+AWS OpsWorks Stacks
+AWS OpsWorks for Chef Automate
+AWS Organizations
+AWS Outposts
+AWS Panorama
+AWS Parallel Computing Service
+AWS ParallelCluster
+AWS Partner Central Selling
+AWS Partner central account management
+AWS Payment Cryptography
+AWS Payments
+AWS Performance Insights
+AWS Price List
+AWS Pricing Calculator
+AWS Private 5G
+AWS Private Certificate Authority
+AWS PrivateLink
+AWS Proton
+AWS Purchase Orders Console
+AWS Recycle Bin
+AWS Redshift
+AWS Relational Database Service (RDS)
+AWS Resilience Hub
+AWS Resource Access Manager (AWS RAM)
+AWS Resource Access Manager (RAM)
+AWS Resource Explorer
+AWS Resource Groups
+AWS RoboMaker
+AWS SDK for .NET
+AWS SDK for .NET and Xamarin
+AWS SDK for C++
+AWS SDK for Go
+AWS SDK for Java
+AWS SDK for JavaScript
+AWS SDK for PHP
+AWS SDK for Python (Boto3)
+AWS SDK for Ruby
+AWS SDK for SAP ABAP
+AWS SQL Workbench
+AWS Savings Plans
+AWS Schema Conversion Tool (AWS SCT)
+AWS Secrets Manager
+AWS Security Hub
+AWS Security Hub CSPM
+AWS Security Incident Response
+AWS Security Token Service
+AWS Security Token Service (AWS STS)
+AWS SecurityHub
+AWS Server Migration Service
+AWS Server Migration Service (AWS SMS)
+AWS Serverless Application Model (AWS SAM)
+AWS Serverless Application Repository
+AWS Service Catalog
+AWS Shield
+AWS Shield Advanced
+AWS Shield Standard
+AWS Signer
+AWS Signin
+AWS SimSpace Weaver
+AWS Site-to-Site VPN
+AWS Snow Device Management
+AWS Snow Family
+AWS Snowball
+AWS Snowball Edge
+AWS Snowcone
+AWS Snowmobile
+AWS Step Functions
+AWS Storage Gateway
+AWS Supply Chain
+AWS Support
+AWS Support App in Slack
+AWS Support Plans
+AWS Support Recommendations
+AWS Sustainability
+AWS Systems Manager
+AWS Tax Settings
+AWS Telco Network Builder
+AWS Thinkbox
+AWS Thinkbox Deadline
+AWS Tiros
+AWS Toolkit for Eclipse
+AWS Toolkit for JetBrains
+AWS Toolkit for Microsoft Azure DevOps
+AWS Toolkit for Visual Studio
+AWS Toolkit for Visual Studio Code
+AWS Tools for PowerShell
+AWS Trainium
+AWS Transfer Family
+AWS Transform
+AWS Transit Gateway
+AWS Trusted Advisor
+AWS User Notifications
+AWS User Notifications Contacts
+AWS User Subscriptions
+AWS Verified Access
+AWS Wavelength
+AWS Well-Architected Tool
+AWS Wickr
+AWS X-Ray
+AWS re:Post Private
+AWS rePost Private
+AWS service providing managed private networks
+Amazon AI Operations
+Amazon AppIntegrations
+Amazon Aurora DSQL
+Amazon Cognito Identity
+Amazon Cognito Sync
+Amazon Cognito User Pools
+Amazon Data Lifecycle Managers
+Amazon DocumentDB Elastic Clusters
+Amazon DynamoDB Accelerator (DAX)
+Amazon EC2
+Amazon EC2 Image Builder
+Amazon EC2 Instance Connect
+Amazon EKS Auth
+Amazon Elastic Block Store
+Amazon Elastic Container Registry
+Amazon Elastic Container Service
+Amazon Elastic File System
+Amazon Elastic Kubernetes Service
+Amazon FreeRTOS
+Amazon GroundTruth Labeling
+Amazon Interactive Video Service
+Amazon Interactive Video Service Chat
+Amazon Location
+Amazon Machine Learning
+Amazon Managed Blockchain
+Amazon Managed Streaming for Apache Kafka
+Amazon Managed Streaming for Kafka Connect
+Amazon Managed Workflows for Apache Airflow
+Amazon Message Delivery Service
+Amazon Message Gateway Service
+Amazon Nova
+Amazon OpenSearch
+Amazon OpenSearch Service
+Amazon Personalize
+Amazon Pinpoint
+Amazon Polly
+Amazon QLDB
+Amazon Quantum Ledger Database (Amazon QLDB)
+Amazon QuickSight
+Amazon RDS
+Amazon RHEL Knowledgebase Portal
+Amazon Redshift
+Amazon Redshift Serverless
+Amazon Rekognition
+Amazon Relational Database Service (Amazon RDS)
+Amazon Relational Database Service (Amazon RDS) for Db2
+Amazon Remote Configuration
+Amazon Resource Group Tagging API
+Amazon Route 53 Application Recovery Controller
+Amazon S3
+Amazon S3 Glacier
+Amazon SES
+Amazon SQS
+Amazon Security Lake
+Amazon Silk
+Amazon Simple Email Service (Amazon SES)
+Amazon Simple Email Service v2
+Amazon Simple Queue Service (Amazon SQS)
+Amazon Simple Storage Service (Amazon S3)
+Amazon Simple Workflow Service
+Amazon Simple Workflow Service (Amazon SWF)
+Amazon SimpleDB
+Amazon Sumerian
+Amazon Textract
+Amazon Timestream
+Amazon Timestream for InfluxDB
+Amazon Titan
+Amazon Transcribe
+Amazon Translate
+Amazon VPC Lattice
+Amazon Verified Permissions
+Amazon Virtual Private Cloud (Amazon VPC)
+Amazon WorkDocs
+Amazon WorkLink
+Amazon WorkMail
+Amazon WorkSpaces
+Amazon WorkSpaces Application Manager (Amazon WAM)
+Amazon WorkSpaces Core
+Amazon WorkSpaces Secure Browser
+Amazon WorkSpaces Thin Client
+Amazon lookout
+Apache Kafka APIs for Amazon MSK clusters

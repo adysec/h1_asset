@@ -1,1 +1,2 @@
 22746	https://hackerone.com/grammarly	Grammarly	grammarly
+22746	https://hackerone.com/grammarly	Superhuman (formerly Grammarly)	grammarly
