@@ -20,3 +20,5 @@ Marionnaud.France.iOS
 Watsons.Turkey.iOS
 Drogas.Latvia.iOS
 Drogas.Lietuva.iOS
+Lookatme.Philippines.IOS
+Lookatme.Philippines.Android

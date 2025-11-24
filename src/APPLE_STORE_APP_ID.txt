@@ -683,3 +683,5 @@ doordash.DoorDashConsumer
 https://apps.apple.com/uy/app/itaú-uy/id1065572083
 https://apps.apple.com/uy/app/itaú-pagos/id1139215807
 https://apps.apple.com/uy/app/itaú-empresas-uruguay/id1593750012
+Lookatme.Philippines.IOS
+Lookatme.Philippines.Android
