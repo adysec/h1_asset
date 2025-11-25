@@ -11,3 +11,4 @@ https://portal.api.latampass.com/
 https://autoemb.appslatam.com/
 https://recognizeme.appslatam.com/
 https://wtm.intg.appslatam.com
+airtalk.appslatam.com

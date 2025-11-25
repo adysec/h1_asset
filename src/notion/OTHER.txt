@@ -4,3 +4,4 @@ Public API
 Notion Integrations
 Privilege Escalation
 Notion Authentication
+Github Repositories or other public artifacts owned by makenotion

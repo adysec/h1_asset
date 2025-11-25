@@ -39,3 +39,7 @@ https://github.com/smartcontractkit/chainlink-evm/tree/develop/contracts
 https://github.com/smartcontractkit/chainlink-solana/tree/develop/contracts
 https://github.com/circlefin/evm-gateway-contracts
 https://etherscan.io/address/0xaca92e438df0b2401ff60da7e4337b687a2435da
+https://github.com/circlefin/evm-xreserve-contracts
+https://github.com/circlefin/starknet-cctp
+https://github.com/circlefin/evm-cpn-contracts
+https://github.com/circlefin/stablecoin-near
