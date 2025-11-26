@@ -18,3 +18,4 @@ codacontent.io
 codahosted.io
 coda.grammarly.com
 coda.io
+accounts.superhuman.com
