@@ -834,3 +834,4 @@
 94066	https://hackerone.com/northerntechhq	Northern.tech	northerntechhq
 51557	https://hackerone.com/fanduel-vdp	FanDuel Response	fanduel-vdp
 22746	https://hackerone.com/grammarly	Superhuman (formerly Grammarly)	grammarly
+95398	https://hackerone.com/hotmartvdp	Hotmart (VDP)	hotmartvdp
