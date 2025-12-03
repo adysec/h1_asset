@@ -835,3 +835,5 @@
 51557	https://hackerone.com/fanduel-vdp	FanDuel Response	fanduel-vdp
 22746	https://hackerone.com/grammarly	Superhuman (formerly Grammarly)	grammarly
 95398	https://hackerone.com/hotmartvdp	Hotmart (VDP)	hotmartvdp
+106254	https://hackerone.com/henkel_vdp	Henkel	henkel_vdp
+105209	https://hackerone.com/bankunited	BankUnited	bankunited

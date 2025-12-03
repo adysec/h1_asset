@@ -2,3 +2,4 @@
 launchpad.37signals.com
 *.hey.com
 world.hey.com
+fizzy.do
