@@ -1,1 +1,2 @@
 37774	https://hackerone.com/starling_bank	Starling Bank Limited	starling_bank
+37774	https://hackerone.com/starling_bank	Starling Bank VDP	starling_bank
