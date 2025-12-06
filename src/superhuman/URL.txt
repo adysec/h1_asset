@@ -1,0 +1,9 @@
+app.grammarly.com
+superhuman.com
+gateway.superhuman.com
+id.superhuman.com
+settings.superhuman.com
+codacontent.io
+codahosted.io
+coda.grammarly.com
+coda.io

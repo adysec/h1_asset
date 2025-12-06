@@ -838,3 +838,5 @@
 106254	https://hackerone.com/henkel_vdp	Henkel	henkel_vdp
 105209	https://hackerone.com/bankunited	BankUnited	bankunited
 37774	https://hackerone.com/starling_bank	Starling Bank VDP	starling_bank
+108305	https://hackerone.com/vercel_platform_protection	Vercel Platform Protection	vercel_platform_protection
+22746	https://hackerone.com/superhuman	Superhuman (formerly Grammarly)	superhuman

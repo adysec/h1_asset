@@ -5171,3 +5171,4 @@ https://*.verilyme.com/
 *.proloctite.com
 *.tryloctite.in
 *.devacurl.com
+https://*.ro.co/svc/auth-verifications/start.public/phone

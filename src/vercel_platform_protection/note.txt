@@ -1,0 +1,1 @@
+108305	https://hackerone.com/vercel_platform_protection	Vercel Platform Protection	vercel_platform_protection

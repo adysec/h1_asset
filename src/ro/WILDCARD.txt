@@ -12,3 +12,4 @@ http://*.myplenity.com
 *.myplenity.com
 https://*.kit.com
 *.kit.ro.co
+https://*.ro.co/svc/auth-verifications/start.public/phone
