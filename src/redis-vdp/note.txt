@@ -1,1 +1,2 @@
 54608	https://hackerone.com/redis-vdp	Redis 	redis-vdp
+54608	https://hackerone.com/redis-vdp	Redis VDP	redis-vdp
