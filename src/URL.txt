@@ -16883,3 +16883,8 @@ osao.bankunited.com
 buconnectfl.bankunited.com
 buconnectny.bankunited.com
 fizzy.do
+www.havelockone.com
+apps.havelockone.com
+cloudconnect.havelockone.com
+parallels.havelockone.com
+cloud.havelockone.com
