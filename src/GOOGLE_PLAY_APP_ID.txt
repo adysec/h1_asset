@@ -726,3 +726,4 @@ https://play.google.com/store/apps/details?id=com.uy.itau.appitauuypf&pcampaigni
 https://play.google.com/store/apps/details?id=uy.com.itau.pagocuentas&pcampaignid=web_share
 https://play.google.com/store/apps/details?id=com.uy.itau.appile&pcampaignid=web_share
 com.leap.bankunited
+https://play.google.com/store/apps/details?id=exodusmovement.exodus&hl=en_IN

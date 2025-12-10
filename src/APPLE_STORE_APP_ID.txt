@@ -686,3 +686,4 @@ https://apps.apple.com/uy/app/itaú-empresas-uruguay/id1593750012
 Lookatme.Philippines.IOS
 Lookatme.Philippines.Android
 com.bankunited.leap
+https://apps.apple.com/us/app/exodus-crypto-bitcoin-wallet/id1414384820
