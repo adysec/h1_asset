@@ -102,3 +102,4 @@
 *.proloctite.com
 *.tryloctite.in
 *.devacurl.com
+*.sealforlife.com

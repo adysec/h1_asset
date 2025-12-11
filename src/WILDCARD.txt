@@ -5172,3 +5172,4 @@ https://*.verilyme.com/
 *.tryloctite.in
 *.devacurl.com
 https://*.ro.co/svc/auth-verifications/start.public/phone
+*.sealforlife.com
