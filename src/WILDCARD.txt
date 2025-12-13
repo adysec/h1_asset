@@ -5173,3 +5173,4 @@ https://*.verilyme.com/
 *.devacurl.com
 https://*.ro.co/svc/auth-verifications/start.public/phone
 *.sealforlife.com
+*.coinbase-corp.com
