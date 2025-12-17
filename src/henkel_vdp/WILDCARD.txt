@@ -103,3 +103,12 @@
 *.tryloctite.in
 *.devacurl.com
 *.sealforlife.com
+*.stopaq.com
+*.easy-qote.com
+*.easyqote.com
+*.powercrete.com
+*.mascoat.com
+*.lifelast.com
+*.canusacps.com
+*.dhatec.nl
+*.flamecontrol.com

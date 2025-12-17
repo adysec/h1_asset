@@ -5174,3 +5174,12 @@ https://*.verilyme.com/
 https://*.ro.co/svc/auth-verifications/start.public/phone
 *.sealforlife.com
 *.coinbase-corp.com
+*.stopaq.com
+*.easy-qote.com
+*.easyqote.com
+*.powercrete.com
+*.mascoat.com
+*.lifelast.com
+*.canusacps.com
+*.dhatec.nl
+*.flamecontrol.com
