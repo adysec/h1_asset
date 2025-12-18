@@ -1,3 +1,4 @@
 All other assets
 All Other In-Scope Assets
 Other In-Scope Assets
+Databricks Free Edition
