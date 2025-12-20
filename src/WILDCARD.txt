@@ -5183,3 +5183,4 @@ https://*.ro.co/svc/auth-verifications/start.public/phone
 *.canusacps.com
 *.dhatec.nl
 *.flamecontrol.com
+*.schwarzkopfclub.com.cn

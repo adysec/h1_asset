@@ -112,3 +112,4 @@
 *.canusacps.com
 *.dhatec.nl
 *.flamecontrol.com
+*.schwarzkopfclub.com.cn
