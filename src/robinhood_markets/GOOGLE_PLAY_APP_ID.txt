@@ -1,3 +1,4 @@
 com.robinhood.android
 com.robinhood.gateway
 com.robinhood.money
+net.bitstamp.app
