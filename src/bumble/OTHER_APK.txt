@@ -1,1 +1,2 @@
 https://appdistribution.firebase.google.com/pub/i/505927432f64f04a
+com.genevachat.staging

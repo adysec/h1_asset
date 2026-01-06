@@ -102,3 +102,4 @@ com.oplus.play
 com.coloros.wallet
 com.realme.storecn
 com.realmestore.app
+com.genevachat.staging

@@ -41,3 +41,4 @@ gateway.geneva-staging.chat
 router.geneva-staging.com
 social.geneva-staging.com
 social.geneva-staging.chat
+app.geneva-staging.com
