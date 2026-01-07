@@ -841,3 +841,4 @@
 108305	https://hackerone.com/vercel_platform_protection	Vercel Platform Protection	vercel_platform_protection
 22746	https://hackerone.com/superhuman	Superhuman (formerly Grammarly)	superhuman
 54608	https://hackerone.com/redis-vdp	Redis VDP	redis-vdp
+105551	https://hackerone.com/mufg-vdp	MUFG VDP	mufg-vdp

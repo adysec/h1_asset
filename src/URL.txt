@@ -16913,3 +16913,5 @@ url6884.team.bitstamp.net
 chat.x.com
 app.geneva-staging.com
 partners.deriv.com
+https://ebctest.cybersource.com/pts/v1/transaction-batch-upload
+api-dashboard.search.brave.com
