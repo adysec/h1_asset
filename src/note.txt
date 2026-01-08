@@ -842,3 +842,4 @@
 22746	https://hackerone.com/superhuman	Superhuman (formerly Grammarly)	superhuman
 54608	https://hackerone.com/redis-vdp	Redis VDP	redis-vdp
 105551	https://hackerone.com/mufg-vdp	MUFG VDP	mufg-vdp
+100485	https://hackerone.com/banco_plata	Banco Plata	banco_plata

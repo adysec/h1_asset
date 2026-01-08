@@ -16915,3 +16915,4 @@ app.geneva-staging.com
 partners.deriv.com
 https://ebctest.cybersource.com/pts/v1/transaction-batch-upload
 api-dashboard.search.brave.com
+doingmoretoday.com
