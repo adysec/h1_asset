@@ -16916,3 +16916,7 @@ partners.deriv.com
 https://ebctest.cybersource.com/pts/v1/transaction-batch-upload
 api-dashboard.search.brave.com
 doingmoretoday.com
+blog.indrive.com
+delivery-webview.indrive.com
+invisionu.education
+support-portal.8x8.com

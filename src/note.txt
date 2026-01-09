@@ -843,3 +843,4 @@
 54608	https://hackerone.com/redis-vdp	Redis VDP	redis-vdp
 105551	https://hackerone.com/mufg-vdp	MUFG VDP	mufg-vdp
 100485	https://hackerone.com/banco_plata	Banco Plata	banco_plata
+105204	https://hackerone.com/british_airways_vdp	British Airways VDP	british_airways_vdp

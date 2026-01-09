@@ -77,3 +77,12 @@ txm-cf.*.aws.indriverapp.com
 vm-gw-cf.*.aws.indriverapp.com
 was-gw-cf.*.aws.indriverapp.com
 wlr-cf.*.aws.indriverapp.com
+api-gw-cf.*.aws.indriverapp.com
+bid.*.aws.indriverapp.com
+ic3.*.indriverapp.com
+mch*.indriverapp.com
+pay*.indriverapp.com
+pr*.indriverapp.com
+st*.indriverapp.com
+sub*.aws.indriverapp.com
+wd2*.indriverapp.com
