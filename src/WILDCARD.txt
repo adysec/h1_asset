@@ -5210,3 +5210,7 @@ pr*.indriverapp.com
 st*.indriverapp.com
 sub*.aws.indriverapp.com
 wd2*.indriverapp.com
+*.bonderite.*
+*.bloo.com
+*.insectia.es
+*.natturalabs.*

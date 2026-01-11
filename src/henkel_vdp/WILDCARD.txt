@@ -128,3 +128,7 @@
 *.wc-frisch.{de,ch}
 *.dixan.it
 *.henkelna.com
+*.bonderite.*
+*.bloo.com
+*.insectia.es
+*.natturalabs.*
