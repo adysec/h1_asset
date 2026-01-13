@@ -5214,3 +5214,10 @@ wd2*.indriverapp.com
 *.bloo.com
 *.insectia.es
 *.natturalabs.*
+*.rubson.com
+*.academyofhairsalon.com
+*.devacurlpro.com
+*.agorex.cl
+*.tobcrm-hcb.cn
+*.indola.com
+*.cascola.com.br
