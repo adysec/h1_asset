@@ -1,1 +1,2 @@
 *.mufg.jp
+*.mufgamericas.com

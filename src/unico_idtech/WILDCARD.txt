@@ -1,0 +1,2 @@
+*.unico.io
+*.cadastro.uat.unico.app

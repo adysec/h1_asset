@@ -139,3 +139,6 @@
 *.tobcrm-hcb.cn
 *.indola.com
 *.cascola.com.br
+*.clubedocabelopro.com.br
+*.combatbugs.com
+*.fyfeco.com

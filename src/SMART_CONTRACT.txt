@@ -43,3 +43,4 @@ https://github.com/circlefin/evm-xreserve-contracts
 https://github.com/circlefin/starknet-cctp
 https://github.com/circlefin/evm-cpn-contracts
 https://github.com/circlefin/stablecoin-near
+https://github.com/circlefin/solana-gateway-contracts

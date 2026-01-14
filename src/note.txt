@@ -844,3 +844,4 @@
 105551	https://hackerone.com/mufg-vdp	MUFG VDP	mufg-vdp
 100485	https://hackerone.com/banco_plata	Banco Plata	banco_plata
 105204	https://hackerone.com/british_airways_vdp	British Airways VDP	british_airways_vdp
+76104	https://hackerone.com/unico_idtech	Unico IDtech	unico_idtech

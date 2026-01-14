@@ -5,3 +5,4 @@ shoppers.instacart.com
 *.instacart.com
 *.instacart.tools
 instacart.careers
+template.uat.foodstorm.com

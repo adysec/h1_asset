@@ -1,0 +1,2 @@
+api.id.unico.app
+transactions.transactional.unico.app
