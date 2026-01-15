@@ -1,2 +1,7 @@
 api.id.unico.app
 transactions.transactional.unico.app
+accountshomolog.acesso.io
+crediariohomolog.acesso.io
+identityhomolog.acesso.io
+signhom.acesso.io
+backend-sdk.uat.private.unico.run

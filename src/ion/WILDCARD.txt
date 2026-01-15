@@ -659,3 +659,4 @@
 *.wsssuite.com
 *.wtwit2.wallstreetsystems.com
 *.www.allegrodev.com
+*.www.allegrodevelopment.com

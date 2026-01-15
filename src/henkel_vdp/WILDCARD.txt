@@ -142,3 +142,4 @@
 *.clubedocabelopro.com.br
 *.combatbugs.com
 *.fyfeco.com
+*.highland-international.com

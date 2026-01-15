@@ -5227,3 +5227,6 @@ wd2*.indriverapp.com
 *.clubedocabelopro.com.br
 *.combatbugs.com
 *.fyfeco.com
+*.uat.unico.app
+*.highland-international.com
+*.www.allegrodevelopment.com
