@@ -5230,3 +5230,4 @@ wd2*.indriverapp.com
 *.uat.unico.app
 *.highland-international.com
 *.www.allegrodevelopment.com
+*.ba.com

@@ -1,1 +1,2 @@
 *.britishairways.com
+*.ba.com
