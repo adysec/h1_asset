@@ -5,3 +5,5 @@ api.singlestore.com
 backend.singlestore.com
 authsvc.singlestore.com
 singlestore.com
+nimbus-gateway.singlestore.com
+phone-home.singlestore.com

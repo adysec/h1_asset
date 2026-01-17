@@ -5,3 +5,12 @@ crediariohomolog.acesso.io
 identityhomolog.acesso.io
 signhom.acesso.io
 backend-sdk.uat.private.unico.run
+idpay-uat.unico.io
+issuer.idpay-uat.unico.io
+idcash-uat.unico.io
+openfinance.unico.io
+secure.unico.io
+unico.io
+https://sdk-h1.unico.io/createprocess
+blog.unico.io
+devcenter.unico.io

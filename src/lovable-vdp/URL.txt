@@ -1,1 +1,2 @@
 lovable.dev
+oauth.lovable.dev

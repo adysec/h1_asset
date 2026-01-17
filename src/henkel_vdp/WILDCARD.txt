@@ -143,3 +143,4 @@
 *.combatbugs.com
 *.fyfeco.com
 *.highland-international.com
+*.shiseidoprofessionaledu.co.kr

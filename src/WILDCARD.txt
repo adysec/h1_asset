@@ -5231,3 +5231,5 @@ wd2*.indriverapp.com
 *.highland-international.com
 *.www.allegrodevelopment.com
 *.ba.com
+*.shiseidoprofessionaledu.co.kr
+apps.*.svc.singlestore.com
