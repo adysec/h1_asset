@@ -6,3 +6,4 @@ http://*.dev.grindr.io
 *.grindr.com
 *.grindr.mobi
 *.dev.grindr.io
+*.dev2.grindr.io

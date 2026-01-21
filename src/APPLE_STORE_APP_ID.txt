@@ -690,3 +690,5 @@ https://apps.apple.com/us/app/exodus-crypto-bitcoin-wallet/id1414384820
 https://apps.apple.com/us/app/grateful-by-exodus/id6754093889
 Id1406825640
 id6443932656
+DailyPay On-Demand Pay
+PNC EarnedIt

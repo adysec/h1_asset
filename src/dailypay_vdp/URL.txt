@@ -1,0 +1,5 @@
+api.dailypay.com
+api.dpfriday.com
+extend-api.dailypay.com
+app.dailypay.com/
+get.dailypay.com

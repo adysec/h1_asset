@@ -845,3 +845,6 @@
 100485	https://hackerone.com/banco_plata	Banco Plata	banco_plata
 105204	https://hackerone.com/british_airways_vdp	British Airways VDP	british_airways_vdp
 76104	https://hackerone.com/unico_idtech	Unico IDtech	unico_idtech
+74786	https://hackerone.com/dailypay_vdp	DailyPay VDP	dailypay_vdp
+108287	https://hackerone.com/anduril_industries	Anduril Industries	anduril_industries
+108938	https://hackerone.com/tines_automation_vdp	Tines (VDP)	tines_automation_vdp

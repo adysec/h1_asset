@@ -4,3 +4,4 @@ http://*.exodus.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
+*.grateful.me

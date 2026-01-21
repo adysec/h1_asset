@@ -16944,3 +16944,11 @@ devcenter.unico.io
 oauth.lovable.dev
 nimbus-gateway.singlestore.com
 phone-home.singlestore.com
+api.dailypay.com
+api.dpfriday.com
+extend-api.dailypay.com
+app.dailypay.com/
+get.dailypay.com
+tines.io
+tines.com
+shutterfly-prod.auth.us-east-1.amazoncognito.com

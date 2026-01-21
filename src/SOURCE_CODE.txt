@@ -852,3 +852,4 @@ https://github.com/mendersoftware/mender-server
 	 https://github.com/cfengine/core
 https://github.com/circlefin/aptos-cctp
 Enjin Indexer
+https://github.com/dailypay/*

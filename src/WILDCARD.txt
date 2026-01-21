@@ -5233,3 +5233,16 @@ wd2*.indriverapp.com
 *.ba.com
 *.shiseidoprofessionaledu.co.kr
 apps.*.svc.singlestore.com
+*.anduril.com
+*.andurildev.com
+*.anduril.dev
+*.andurildev.au
+*.anduril.au
+*.anduril.com.au
+*.colorsmithco.ca
+*.colorsmith.ie
+*.cs-nri.com
+*.dialprofessional.com
+*.lepagecertifiedinstaller.com
+*.dev2.grindr.io
+*.grateful.me

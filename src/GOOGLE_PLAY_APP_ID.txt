@@ -730,3 +730,5 @@ https://play.google.com/store/apps/details?id=exodusmovement.exodus&hl=en_IN
 https://play.google.com/store/apps/details?id=com.exodus.grateful
 net.bitstamp.app
 dif.tech.plata
+DailyPay On-Demand Pay
+PNC Earnedit

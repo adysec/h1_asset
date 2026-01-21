@@ -144,3 +144,8 @@
 *.fyfeco.com
 *.highland-international.com
 *.shiseidoprofessionaledu.co.kr
+*.colorsmithco.ca
+*.colorsmith.ie
+*.cs-nri.com
+*.dialprofessional.com
+*.lepagecertifiedinstaller.com
