@@ -17,3 +17,9 @@ affiliate-id.tokopedia.com
 seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
+lemon8-api.tiktokv.us
+starling-ttp.lemon8-app.us
+platform.tiktokpangle.us
+pangle-mediation-ttp.tiktokpangle.us
+www.soundonw.us
+tiktokdata-us-open.tiktokw.us

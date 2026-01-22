@@ -732,3 +732,4 @@ net.bitstamp.app
 dif.tech.plata
 DailyPay On-Demand Pay
 PNC Earnedit
+https://www.authy.com/download/

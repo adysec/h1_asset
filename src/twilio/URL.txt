@@ -1,0 +1,11 @@
+http://tsock.us1.twilio.com
+https://www.twilio.com/login?g=%2fconsole%3f&t=2b1c98334b25c1a785ef15b6556396290e3c704a9b57fc40687cbccd79c46a8c
+http://twilio.com/blog
+http://help.twilio.com
+sendgrid.com
+app.sendgrid.com
+signup.sendgrid.com
+api.sendgrid.com
+mc.sendgrid.com
+app.segment.com
+https://segment.com/docs/connections/sources/

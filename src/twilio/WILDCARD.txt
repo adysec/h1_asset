@@ -1,0 +1,2 @@
+*.sip.*.twilio.com
+static*.twilio.com

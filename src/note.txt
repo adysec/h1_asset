@@ -848,3 +848,4 @@
 74786	https://hackerone.com/dailypay_vdp	DailyPay VDP	dailypay_vdp
 108287	https://hackerone.com/anduril_industries	Anduril Industries	anduril_industries
 108938	https://hackerone.com/tines_automation_vdp	Tines (VDP)	tines_automation_vdp
+107060	https://hackerone.com/twilio	Twilio	twilio

@@ -9,3 +9,4 @@ http://*racing.fanduel.com
 *inf.fndlsb.net
 *.numberfire.com
 *.canada.fanduel.com
+*.tvg.com

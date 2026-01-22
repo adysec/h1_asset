@@ -15,3 +15,6 @@
 *.abnamroinvestmentsolutions.com
 *.new10.com
 *.buut.com
+*.bux.com
+*.getbux.com
+*.bux2b.com
