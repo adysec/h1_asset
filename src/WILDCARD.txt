@@ -5253,3 +5253,13 @@ static*.twilio.com
 *.getbux.com
 *.bux2b.com
 *.tvg.com
+*.perwoll.de
+*.syoss.ro
+*.makroflex.lt
+*.myskpincentives.com
+*.neutrex.es
+*.persillaundry.com
+*.wippexpress.es
+*.pravana.com
+*.teroson-bautechnik.com
+*.itstartswithus.net
