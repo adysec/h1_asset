@@ -160,3 +160,16 @@
 *.pravana.com
 *.teroson-bautechnik.com
 *.itstartswithus.net
+*.cimsec.at
+*.kenraprofessional.com
+*.dylon.se
+*.tucasaclub.com
+*.portalehenkel.it
+*.fester.com.mx
+*.hairshop.hr
+*.henkel-researchers-world.kr
+*.lizardskin.com
+*.loctite-automotriz.com
+*.stopdregmei.lt
+*.makroflex.ee
+*.mydentitycolor.com
