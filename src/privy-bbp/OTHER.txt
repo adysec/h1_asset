@@ -1,0 +1,6 @@
+https://www.npmjs.com/package/@privy-io/js-sdk-core
+https://www.npmjs.com/package/@privy-io/expo
+https://www.npmjs.com/package/@privy-io/wagmi
+https://www.npmjs.com/package/@privy-io/cross-app-connect
+https://www.npmjs.com/package/@privy-io/cross-app-provider
+@privy-io controlled namespace dependencies

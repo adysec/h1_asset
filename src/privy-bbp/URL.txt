@@ -1,2 +1,5 @@
 auth.privy.io
 dashboard.privy.io
+home.privy.io
+recovery.privy.io
+api.privy.io

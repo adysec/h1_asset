@@ -21,3 +21,6 @@ www.toyota.co.th
 www.toyota.com.ar
 www.toyota.com.br
 https://portal.toyotalatam.com
+www.lexus.com.br
+www.lexus.com.ar
+www.toyota.mx

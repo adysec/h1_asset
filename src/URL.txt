@@ -16971,3 +16971,9 @@ platform.tiktokpangle.us
 pangle-mediation-ttp.tiktokpangle.us
 www.soundonw.us
 tiktokdata-us-open.tiktokw.us
+home.privy.io
+recovery.privy.io
+api.privy.io
+www.lexus.com.br
+www.lexus.com.ar
+www.toyota.mx
