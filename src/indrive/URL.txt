@@ -44,3 +44,9 @@ movie.indrive.com
 blog.indrive.com
 delivery-webview.indrive.com
 invisionu.education
+job.ryadom.kz
+ryadom.kz
+api.ryadom.kz
+landing.ryadom.kz
+sso.ryadom.kz
+web.ryadom.kz
