@@ -188,3 +188,11 @@
 *.snuggle.com
 *.sista-selladores.com
 *.phenion.com
+*.researchatelm.com
+*.resistol.com.mx
+*.henkel-reiniger.de
+*.prittworld.com.mx
+*.prittworld.es
+*.pril-isis.com
+*.ponal.sk
+*.pattexpro.hu
