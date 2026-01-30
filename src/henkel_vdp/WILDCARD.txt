@@ -196,3 +196,7 @@
 *.pril-isis.com
 *.ponal.sk
 *.pattexpro.hu
+*.stopvlaga.si
+*.loctite-superbond.ee
+*.loctitepulse.henkelgroup.cloud
+*.lejiaconejo.es

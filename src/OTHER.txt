@@ -1779,3 +1779,4 @@ https://www.npmjs.com/package/@privy-io/wagmi
 https://www.npmjs.com/package/@privy-io/cross-app-connect
 https://www.npmjs.com/package/@privy-io/cross-app-provider
 @privy-io controlled namespace dependencies
+Open Scope
