@@ -200,3 +200,8 @@
 *.loctite-superbond.ee
 *.loctitepulse.henkelgroup.cloud
 *.lejiaconejo.es
+*.vernel.com
+*.verdia.com
+*.fp-academy.in
+*.tabela-doboru-klejow.pl
+*.toneskincare.com
