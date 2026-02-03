@@ -1780,3 +1780,4 @@ https://www.npmjs.com/package/@privy-io/cross-app-connect
 https://www.npmjs.com/package/@privy-io/cross-app-provider
 @privy-io controlled namespace dependencies
 Open Scope
+Glassdoor Employer Center
