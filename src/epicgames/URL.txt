@@ -75,3 +75,4 @@ https://fngw-svc-gc-livefn.ol.epicgames.net/api/magpie
 https://fngw-svc-ds-livefn.ol.epicgames.net/api/magpie
 https://fn-commerce-live.eeef.live.use1a.on.epicgames.com/api/fn-commerce/
 cosmo.fdeb.live.use1a.on.epicgames.com
+https://communities.epicgames.com

@@ -853,3 +853,17 @@ https://github.com/mendersoftware/mender-server
 https://github.com/circlefin/aptos-cctp
 Enjin Indexer
 https://github.com/dailypay/*
+https://github.com/vercel/next.js
+https://github.com/sveltejs/svelte
+https://github.com/vercel/turborepo
+https://github.com/vercel/swr
+https://github.com/vercel/ai
+https://github.com/nuxt/nuxt
+https://github.com/vercel/vercel
+https://github.com/vercel/workflow
+https://github.com/vercel/flags
+https://github.com/vercel/ms
+https://github.com/nitrojs/nitro
+https://github.com/vercel/async-sema
+https://github.com/vercel-labs/skills
+https://github.com/vercel-labs/agent-skills

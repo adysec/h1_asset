@@ -19,3 +19,4 @@ developer-platform-api.crypto.com
 nadex.com
 developer.crypto.com
 developer-api.crypto.com
+og.com

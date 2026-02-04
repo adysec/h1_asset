@@ -1781,3 +1781,6 @@ https://www.npmjs.com/package/@privy-io/cross-app-provider
 @privy-io controlled namespace dependencies
 Open Scope
 Glassdoor Employer Center
+Other related e-commerce services
+Recruitment services
+Main corporate site
