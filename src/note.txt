@@ -850,3 +850,4 @@
 108938	https://hackerone.com/tines_automation_vdp	Tines (VDP)	tines_automation_vdp
 107060	https://hackerone.com/twilio	Twilio	twilio
 103831	https://hackerone.com/vercel-open-source	Vercel Open Source	vercel-open-source
+107337	https://hackerone.com/bose_vdp	Bose (VDP)	bose_vdp

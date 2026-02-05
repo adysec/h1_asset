@@ -1,0 +1,1 @@
+107337	https://hackerone.com/bose_vdp	Bose (VDP)	bose_vdp
