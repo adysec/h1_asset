@@ -63,3 +63,4 @@ https://github.com/roundcube/roundcubemail
 https://github.com/nextcloud/files_confidential
 https://github.com/nextcloud/tables
 https://github.com/nextcloud/collectives
+nextcloud/files_fulltextsearch_tesseract

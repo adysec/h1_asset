@@ -867,3 +867,4 @@ https://github.com/nitrojs/nitro
 https://github.com/vercel/async-sema
 https://github.com/vercel-labs/skills
 https://github.com/vercel-labs/agent-skills
+nextcloud/files_fulltextsearch_tesseract
