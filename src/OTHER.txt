@@ -1784,3 +1784,7 @@ Glassdoor Employer Center
 Other related e-commerce services
 Recruitment services
 Main corporate site
+Vodafone Assets
+Any public-facing system owned, operated, or controlled by MSCI, including web applications hosted on those sites. 
+Extremely high properties
+MerchantWare

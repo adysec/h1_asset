@@ -3,3 +3,4 @@
 *.robinhood.net
 *.say.rocks
 *.saytechnologies.com
+Tier 3

@@ -851,3 +851,5 @@
 107060	https://hackerone.com/twilio	Twilio	twilio
 103831	https://hackerone.com/vercel-open-source	Vercel Open Source	vercel-open-source
 107337	https://hackerone.com/bose_vdp	Bose (VDP)	bose_vdp
+52449	https://hackerone.com/vodafone	Vodafone	vodafone
+96612	https://hackerone.com/msci	MSCI	msci

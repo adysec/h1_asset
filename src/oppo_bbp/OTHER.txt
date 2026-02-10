@@ -3,3 +3,4 @@ LockScreenMagazine
 OPPO+
 QuickApps
 Test environment
+Extremely high properties

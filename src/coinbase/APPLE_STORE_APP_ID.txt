@@ -2,3 +2,4 @@ com.coinbase.ios
 org.toshi.distribution
 com.coinbase.pro
 com.shiftpayments.shiftcard
+com.vilcsak.bitcoin2
