@@ -733,3 +733,5 @@ dif.tech.plata
 DailyPay On-Demand Pay
 PNC Earnedit
 https://www.authy.com/download/
+com.meesho.supply
+com.valmo.valmo

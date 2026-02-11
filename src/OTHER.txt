@@ -1788,3 +1788,6 @@ Vodafone Assets
 Any public-facing system owned, operated, or controlled by MSCI, including web applications hosted on those sites. 
 Extremely high properties
 MerchantWare
+IP range 81.128.176.1 - 81.128.176.62
+IP range 62.172.162.48 - 62.172.162.63
+IP range 216.87.55.1 - 216.87.55.254

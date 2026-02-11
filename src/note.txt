@@ -853,3 +853,4 @@
 107337	https://hackerone.com/bose_vdp	Bose (VDP)	bose_vdp
 52449	https://hackerone.com/vodafone	Vodafone	vodafone
 96612	https://hackerone.com/msci	MSCI	msci
+99850	https://hackerone.com/meesho_bbp	Meesho	meesho_bbp
