@@ -5,3 +5,7 @@ metamask.io
 https://user-storage.api.cx.metamask.io
 signature-insights.api.cx.metamask.io
 developer.metamask.io
+dashboard.web3auth.io
+api-dashboard.web3auth.io
+wallet.web3auth.io
+api-wallet.web3auth.io

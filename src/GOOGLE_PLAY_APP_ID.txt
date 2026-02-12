@@ -735,3 +735,4 @@ PNC Earnedit
 https://www.authy.com/download/
 com.meesho.supply
 com.valmo.valmo
+com.robinhood.global Android
