@@ -1,1 +1,17 @@
 All assets owned by Hyland are in scope
+Acuo
+Alfresco 
+AnyDoc
+Brainware
+Content Composer
+Hx Automate
+Hyland Credentials 
+Hyland Intelligent Document Processing
+Hyland RPA
+NilRead
+Nuxeo
+OnBase
+PACSGear
+Perceptive Content
+Saperion
+Sharebase
