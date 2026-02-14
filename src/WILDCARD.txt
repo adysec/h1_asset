@@ -5373,3 +5373,5 @@ static*.twilio.com
 *.abcom.al
 *.vodafone.al
 *.my.vodafone.al
+*.experience.hyland.com,*.app.hyland.eu
+*.hy-vee.cloud
