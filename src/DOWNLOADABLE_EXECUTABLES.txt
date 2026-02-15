@@ -279,3 +279,4 @@ Elastic Distributions of OpenTelemetry (EDOT)
 Notion Desktop App
 CFEngine Enterprise
  UniFi OS Server
+Brave Browser Desktop
