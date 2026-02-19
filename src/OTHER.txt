@@ -1808,3 +1808,6 @@ Perceptive Content
 Saperion
 Sharebase
 Any Asset Owned By Hyland (Not Listed)
+Bose Hardware
+Bose Source Code
+Bose Credentials

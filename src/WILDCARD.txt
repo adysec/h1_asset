@@ -5375,3 +5375,4 @@ static*.twilio.com
 *.my.vodafone.al
 *.experience.hyland.com,*.app.hyland.eu
 *.hy-vee.cloud
+*.bose.xx
