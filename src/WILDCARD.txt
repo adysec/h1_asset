@@ -5376,3 +5376,4 @@ static*.twilio.com
 *.experience.hyland.com,*.app.hyland.eu
 *.hy-vee.cloud
 *.bose.xx
+*.ela.st

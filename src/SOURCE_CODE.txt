@@ -869,3 +869,5 @@ https://github.com/vercel-labs/skills
 https://github.com/vercel-labs/agent-skills
 nextcloud/files_fulltextsearch_tesseract
 https://github.com/Web3Auth/web3auth-web
+Core Backstage source code
+https://github.com/backstage/backstage

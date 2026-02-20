@@ -3,3 +3,5 @@ iOS SDK
 Android SDK
 Web Playback SDK
 Backstage source code
+Core Backstage source code
+https://github.com/backstage/backstage
