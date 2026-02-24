@@ -22,3 +22,5 @@ blog.spoonflower.com
 wgwebservices.snapfish.com
 https://www.cvs.com/photo/
 shutterfly-prod.auth.us-east-1.amazoncognito.com
+api-gateway.spoonflower.com
+cart.spoonflower.com

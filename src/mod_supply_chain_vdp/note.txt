@@ -1,0 +1,1 @@
+108513	https://hackerone.com/mod_supply_chain_vdp	MOD Supply Chain VDP	mod_supply_chain_vdp

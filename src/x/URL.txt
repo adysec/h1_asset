@@ -10,3 +10,4 @@ accounts.x.ai
 console.x.ai
 grok.com
 chat.x.com
+grokipedia.com
