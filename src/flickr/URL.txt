@@ -1,1 +1,2 @@
 *.flickr.com
+www.whatismode.com
