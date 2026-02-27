@@ -753,3 +753,4 @@ newsroom.transunion.com.br
 treinamento-ead-workflow.crivo.com.br
 newsroom.transunioncibil.com
 mytrueidentity.com
+ciam.tui.transunion.com
