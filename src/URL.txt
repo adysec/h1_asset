@@ -17720,3 +17720,4 @@ https://console.ort-one-pingone.com/?env=7f327541-54e0-4ba4-8335-65eac2a25b5e
 www.whatismode.com
 ciam.tui.transunion.com
 modefestival.com
+https://ebctest.cybersource.com/tech-partner-integration
