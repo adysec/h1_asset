@@ -1,0 +1,14 @@
+clearme.com
+enroll.clearme.com
+www.clearme.com
+web-edge.clearme.com
+my.clearme.com
+mobile.clearme.com
+ir.clearme.com
+scan.clearme.com
+authentication.clearme.com
+verified.clearme.com
+concierge.clearme.com
+identity.clearme.com
+http://verified.clearme.com/dashboard
+clearme.atlassian.net

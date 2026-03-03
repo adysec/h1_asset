@@ -103,3 +103,4 @@ com.coloros.wallet
 com.realme.storecn
 com.realmestore.app
 com.genevachat.staging
+com.clearme.clearapp

@@ -13,3 +13,4 @@ sapi-live.lh.us-west-2.prd.23andme.us
 pd-api.polkadoc.com
 healthaid.lemonaidhealth.com
 lemonaidhealth.com
+www.23andme.com
