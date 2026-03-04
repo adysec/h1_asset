@@ -1811,3 +1811,6 @@ Any Asset Owned By Hyland (Not Listed)
 Bose Hardware
 Bose Source Code
 Bose Credentials
+Moderate Level Properties
+High Level Properties
+Security vulnerabilities that are identified in digital properties owned, operated, or controlled by Octopus Energy are considered in scope.

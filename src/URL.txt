@@ -17736,3 +17736,9 @@ identity.clearme.com
 http://verified.clearme.com/dashboard
 clearme.atlassian.net
 www.23andme.com
+https://ebctest.cybersource.com/notification-subscriptions
+https://passelivre.intg.appslatam.com
+https://mtxgreen.lan.com
+https://pci-xp-bff-audit.st.latamairlines.com
+https://qa.latampass.com/
+https://latampass.com/facilidades/compra-milhas/lp?pt=pp

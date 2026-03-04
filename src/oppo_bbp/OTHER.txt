@@ -4,3 +4,5 @@ OPPO+
 QuickApps
 Test environment
 Extremely high properties
+Moderate Level Properties
+High Level Properties

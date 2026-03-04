@@ -168,3 +168,4 @@ NARZO 80 Pro 5G
 realme Note 70
 realme C75 5G
 realme C71
+CounterAct 9.x

@@ -1,0 +1,1 @@
+Security vulnerabilities that are identified in digital properties owned, operated, or controlled by Octopus Energy are considered in scope.
