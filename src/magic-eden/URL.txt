@@ -4,3 +4,4 @@ eng.magiceden.io
 eng.magiceden.dev
 slingshot.app
 slingshot.finance
+dicey.com
