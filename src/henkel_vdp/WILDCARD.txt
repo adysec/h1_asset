@@ -205,3 +205,4 @@
 *.fp-academy.in
 *.tabela-doboru-klejow.pl
 *.toneskincare.com
+*.esalon.com

@@ -280,3 +280,5 @@ Notion Desktop App
 CFEngine Enterprise
  UniFi OS Server
 Brave Browser Desktop
+singlestoredb-server
+singlestore-operator
