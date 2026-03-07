@@ -20,3 +20,4 @@ me.store.ui.com
 wiki.ui.com
 https://ui.com/distributors/
 https://ui.com/training/partners/
+help.uisp.com
