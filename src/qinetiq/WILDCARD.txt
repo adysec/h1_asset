@@ -1,0 +1,8 @@
+*.qinetiq.com.au
+*.airaffairs.com.au
+*.qinetiq.com
+*.us.qinetiq.com
+*.qinetiq.cloud
+*.qinetiq.ca
+*.naimuri.com
+*.qinetiq.co.uk

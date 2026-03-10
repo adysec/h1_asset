@@ -1,0 +1,5 @@
+*.numerique.canada.ca
+*.notification.canada.ca
+*.cdssandbox.xyz
+*.cds-snc.ca
+*.digital.canada.ca

@@ -1,0 +1,10 @@
+design-system.alpha.canada.ca
+articles.alpha.canada.ca
+forms-formulaires.alpha.canada.ca
+auth.signin-connexion.canada.ca
+app.signin-connexion.canada.ca
+api.signin-connexion.canada.ca
+issue-verify.alpha.canada.ca
+delivrance-verification.alpha.canada.ca
+gciv-dvgc.alpha.canada.ca
+talent.canada.ca

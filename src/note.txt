@@ -856,3 +856,5 @@
 99850	https://hackerone.com/meesho_bbp	Meesho	meesho_bbp
 108513	https://hackerone.com/mod_supply_chain_vdp	MOD Supply Chain VDP	mod_supply_chain_vdp
 2329	https://hackerone.com/clear	CLEAR	clear
+89085	https://hackerone.com/qinetiq	QinetiQ Response	qinetiq
+99230	https://hackerone.com/tbs-sct	Treasury Board of Canada Secretariat/Secrétariat du Conseil du Trésor du Canada	tbs-sct

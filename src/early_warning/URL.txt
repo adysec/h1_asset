@@ -9,3 +9,4 @@ zellepay.force.com
 zelleservice.my.site.com
 ews-fusion.my.site.com
 platform.cat.earlywarning.io
+zelleservice.my.salesforce.com

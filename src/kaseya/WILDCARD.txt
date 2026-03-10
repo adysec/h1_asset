@@ -34,3 +34,5 @@
 *.infocyte.com
 *.openmesh.com
 *.soonr.com
+*.saasalerts.com
+*.inky.com
