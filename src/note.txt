@@ -858,3 +858,4 @@
 2329	https://hackerone.com/clear	CLEAR	clear
 89085	https://hackerone.com/qinetiq	QinetiQ Response	qinetiq
 99230	https://hackerone.com/tbs-sct	Treasury Board of Canada Secretariat/Secrétariat du Conseil du Trésor du Canada	tbs-sct
+97197	https://hackerone.com/hexagon_vdp	Hexagon-VDP	hexagon_vdp

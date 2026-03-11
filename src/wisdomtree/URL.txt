@@ -1,1 +1,4 @@
 api.wisdomtreeprimeapp.com
+https://app.wisdomtreeconnect.com/api/
+https://app.wisdomtreeconnect.com/o/token/
+https://app.wisdomtreeconnect.com

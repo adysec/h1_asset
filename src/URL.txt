@@ -17787,3 +17787,6 @@ delivrance-verification.alpha.canada.ca
 gciv-dvgc.alpha.canada.ca
 talent.canada.ca
 zelleservice.my.salesforce.com
+https://app.wisdomtreeconnect.com/api/
+https://app.wisdomtreeconnect.com/o/token/
+https://app.wisdomtreeconnect.com

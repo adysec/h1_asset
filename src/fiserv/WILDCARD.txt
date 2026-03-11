@@ -6,3 +6,4 @@ a*.clover.com
 *.la.clover.com
 *.eu.clover.com
 *.dev.clover.com
+*.cloveronline.com
