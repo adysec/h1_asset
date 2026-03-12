@@ -127,3 +127,4 @@ https://prizmstagingapi.inzpire.com/
 http://www.inzpire.com
 https://prizmsupport.inzpire.com/
 www.prolinx.co.uk
+www.ellipse.studio

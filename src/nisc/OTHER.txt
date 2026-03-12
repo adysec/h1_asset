@@ -9,3 +9,4 @@ NISC Community
 NISC Payment Gateway
 NISC SmartHub
 Capturis Vendor Portal
+iVUE Launcher / Frameworks

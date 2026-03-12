@@ -1816,3 +1816,5 @@ High Level Properties
 Security vulnerabilities that are identified in digital properties owned, operated, or controlled by Octopus Energy are considered in scope.
 Security vulnerabilities found in any digital assets owned, operated, or controlled by QinetiQ, or by its publicly listed subsidiaries, are considered in scope.
 Security vulnerabilities that are identified in digital properties owned, operated, or controlled by Hexagon AB are considered in scope.
+Dia Assistant
+iVUE Launcher / Frameworks

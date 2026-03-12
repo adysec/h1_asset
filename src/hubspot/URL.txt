@@ -4,3 +4,4 @@ api.hubapi.com
 app-eu1.hubspot.com
 chatspot.ai
 connect.com
+hubspot.net
