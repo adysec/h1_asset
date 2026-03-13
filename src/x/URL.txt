@@ -11,3 +11,4 @@ console.x.ai
 grok.com
 chat.x.com
 grokipedia.com
+money.x.com

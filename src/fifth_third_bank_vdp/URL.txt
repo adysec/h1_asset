@@ -48,3 +48,16 @@ http://q1webbanking.comerica.com
 http://www.usdirectexpress.com
 http://q2webbanking.comerica.com
 http://services.usdirectexpress.com
+accessprovide.com
+getprovide.com
+lendeavor.com
+manageprovide.com
+testprovide.com
+fspnc.com
+franklin-street.com
+dtsconnex.com
+ifsservices.com
+bigdatahc.com
+dividendfinance.com
+dividendsolar.com
+celticfinance.com

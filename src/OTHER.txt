@@ -1818,3 +1818,5 @@ Security vulnerabilities found in any digital assets owned, operated, or control
 Security vulnerabilities that are identified in digital properties owned, operated, or controlled by Hexagon AB are considered in scope.
 Dia Assistant
 iVUE Launcher / Frameworks
+Munkisrv Open Source Project
+Other Asset (Campaigns)
