@@ -169,3 +169,5 @@ realme Note 70
 realme C75 5G
 realme C71
 CounterAct 9.x
+XE360
+XE360 with RealSync

@@ -21,3 +21,5 @@ Domo Connexa Button
 OpenX eCylinder
 OpenX eHandle
 OpenX Wall Reader
+XE360
+XE360 with RealSync
