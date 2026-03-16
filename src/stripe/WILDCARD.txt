@@ -1,3 +1,4 @@
 http://*.billflow.io
 *.lemonsqueezy.com
 *.bridge.xyz
+*.metronome.com

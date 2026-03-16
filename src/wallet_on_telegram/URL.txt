@@ -3,3 +3,4 @@ pay.wallet.tg
 wallet.tg
 wallettg.com
 wallettg.net
+p2p.walletbot.me

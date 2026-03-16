@@ -5428,3 +5428,4 @@ static*.twilio.com
 *.inky.com
 *.cloveronline.com
 *.avalarabrasil.com.br
+*.metronome.com
