@@ -5429,3 +5429,5 @@ static*.twilio.com
 *.cloveronline.com
 *.avalarabrasil.com.br
 *.metronome.com
+*.whatnot.com
+*.elotouch.com

@@ -860,3 +860,4 @@
 99230	https://hackerone.com/tbs-sct	Treasury Board of Canada Secretariat/Secrétariat du Conseil du Trésor du Canada	tbs-sct
 97197	https://hackerone.com/hexagon_vdp	Hexagon-VDP	hexagon_vdp
 5303	https://hackerone.com/bestbuy	Best Buy	bestbuy
+52975	https://hackerone.com/whatnot	Whatnot	whatnot
