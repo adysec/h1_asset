@@ -1823,3 +1823,13 @@ Other Asset (Campaigns)
 Best Buy owned asset
 Brave websites
 Chargeback Help
+Acrobat AI Assistant
+Acrobat PDF Spaces
+Acrobat Create Presentations
+Acrobat Create Podcast
+Express AI Assistant
+Lightroom AI Edits
+Lightroom "Edit suggestions" Tech Preview
+Photoshop AI Assistant
+Firefly Image Models
+Firefly Video Model
