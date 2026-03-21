@@ -20,3 +20,4 @@ https://latampass.com/facilidades/compra-milhas/lp?pt=pp
 https://passplay.intg.appslatam.com
 https://partnerportal.intg.appslatam.com/
 https://beta.latampass.latam.com/
+https://skills-manager.dev.appslatam.com
