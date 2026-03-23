@@ -861,3 +861,4 @@
 97197	https://hackerone.com/hexagon_vdp	Hexagon-VDP	hexagon_vdp
 5303	https://hackerone.com/bestbuy	Best Buy	bestbuy
 52975	https://hackerone.com/whatnot	Whatnot	whatnot
+109455	https://hackerone.com/getyourguide_vdp	GetYourGuide VDP	getyourguide_vdp

@@ -1,0 +1,3 @@
+partner.getyourguide.com
+widget.getyourguide.com
+https://partner-public.getyourguide.com/graphql

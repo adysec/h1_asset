@@ -17814,3 +17814,6 @@ live-service.whatnot.com
 auction-service.whatnot.com
 ygeiaspavlides.gr
 https://skills-manager.dev.appslatam.com
+partner.getyourguide.com
+widget.getyourguide.com
+https://partner-public.getyourguide.com/graphql
