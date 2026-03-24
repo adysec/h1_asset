@@ -4,3 +4,5 @@ https://www.myntra.com
 https://www.flipkart.com
 https://pay.payzippy.com
 https://uiscoop.payzippy.com
+https://apps.apple.com/in/app/flipkart-online-shopping-app/id742044692
+https://play.google.com/store/apps/details?id=com.flipkart.android

@@ -45,3 +45,6 @@ https://www.oppo.com/in/store
 id.oppo.com
 id.heytap.com
 https://safe.heytap.com/
+https://zhongbao-ear.heytap.com/
+https://zhongbao.heytap.com/
+https://www.coloros.com/

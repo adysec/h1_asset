@@ -737,3 +737,4 @@ com.meesho.supply
 com.valmo.valmo
 com.robinhood.global Android
 com.whatnot_mobile
+https://play.google.com/store/apps/details?id=com.myntra.android
