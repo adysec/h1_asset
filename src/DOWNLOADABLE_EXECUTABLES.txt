@@ -283,3 +283,4 @@ Brave Browser Desktop
 singlestoredb-server
 singlestore-operator
 Dia Browser
+Redis Insight

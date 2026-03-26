@@ -45,3 +45,4 @@ http://*.miwifi.com
 *.xunkids.com
 *.youpin.cn
 *.zmifi.com
+*.xiaomimimo.com

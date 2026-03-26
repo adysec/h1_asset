@@ -5468,3 +5468,4 @@ static*.twilio.com
 *.xunkids.com
 *.youpin.cn
 *.zmifi.com
+*.xiaomimimo.com
