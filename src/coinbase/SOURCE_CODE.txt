@@ -1,1 +1,2 @@
 https://github.com/coinbase/cb-mpc
+https://github.com/coinbase/cb-mpc-go
