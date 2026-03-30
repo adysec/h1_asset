@@ -15,3 +15,4 @@ partner.niagahoster.co.id
 builder.hostinger.com
 horizons.hostinger.com
 reach.hostinger.com
+agents.hostinger.com
