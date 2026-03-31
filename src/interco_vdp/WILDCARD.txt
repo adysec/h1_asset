@@ -18,3 +18,4 @@
 *.portalgranito.com.br
 *.granito.xyz
 *.interpag.co
+*.duogourmet.com.br

@@ -5469,3 +5469,4 @@ static*.twilio.com
 *.youpin.cn
 *.zmifi.com
 *.xiaomimimo.com
+*.duogourmet.com.br
