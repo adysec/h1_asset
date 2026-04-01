@@ -5470,3 +5470,8 @@ static*.twilio.com
 *.zmifi.com
 *.xiaomimimo.com
 *.duogourmet.com.br
+*.luminor.lt
+*.luminor.lv
+*.luminor.ee
+*.luminorgroup.com
+*.allyoucare-byhenkel.com

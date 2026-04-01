@@ -18123,3 +18123,12 @@ somosvipconmdlz.com
 pranktheroutine.com
 https://ebctest.cybersource.com/kms/
 agents.hostinger.com
+1win.com
+https://1win.com/betting
+https://1win.com/casino
+1w.cash
+1w.run
+https://core-api.production.claim.co
+https://cs-dashboard.production.claim.co/graphql
+https://cs-dashboard.staging.claim.co/graphql
+https://core-api.staging.claim.co

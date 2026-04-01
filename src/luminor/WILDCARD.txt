@@ -1,0 +1,4 @@
+*.luminor.lt
+*.luminor.lv
+*.luminor.ee
+*.luminorgroup.com
