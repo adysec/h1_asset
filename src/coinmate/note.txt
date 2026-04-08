@@ -1,0 +1,1 @@
+440	https://hackerone.com/coinmate	CoinMate.io	coinmate

@@ -865,3 +865,4 @@
 109544	https://hackerone.com/clear_street_vdp	Clear Street Disclosure Program	clear_street_vdp
 103365	https://hackerone.com/1win_com	1win	1win_com
 108602	https://hackerone.com/luminor	Luminor	luminor
+440	https://hackerone.com/coinmate	CoinMate.io	coinmate

@@ -10,3 +10,5 @@ azrest.jetblue.com
 magnolia.jetblue.com
 experience.jetblue.com
 *.jetblue.com
+paisly.jetblue.com
+api.paisly.jetblue.com
