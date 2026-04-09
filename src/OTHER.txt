@@ -1836,3 +1836,4 @@ Firefly Video Model
 Low Level Properties and Test environment
 Deposit/Withdraw
 Any other Luminor System, Website, App, Domain and IP
+WP Cloud

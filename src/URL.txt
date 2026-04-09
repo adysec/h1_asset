@@ -18138,3 +18138,8 @@ sipas-ca-west.ccid.neustar.biz
 sipvs-ca.ccid.neustar.biz
 paisly.jetblue.com
 api.paisly.jetblue.com
+rpc.drpc.testnet.arc.network
+rpc.quicknode.testnet.arc.network
+rpc.blockdaemon.testnet.arc.network
+rpc.testnet.arc.network
+api.dicey.com

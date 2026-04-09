@@ -5,3 +5,4 @@ eng.magiceden.dev
 slingshot.app
 slingshot.finance
 dicey.com
+api.dicey.com
