@@ -20,3 +20,4 @@ nadex.com
 developer.crypto.com
 developer-api.crypto.com
 og.com
+travel.crypto.com

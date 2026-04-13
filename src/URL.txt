@@ -18143,3 +18143,4 @@ rpc.quicknode.testnet.arc.network
 rpc.blockdaemon.testnet.arc.network
 rpc.testnet.arc.network
 api.dicey.com
+travel.crypto.com
