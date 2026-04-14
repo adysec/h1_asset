@@ -207,3 +207,4 @@
 *.toneskincare.com
 *.esalon.com
 *.allyoucare-byhenkel.com
+*.henkel-system.com

@@ -16,3 +16,4 @@ builder.hostinger.com
 horizons.hostinger.com
 reach.hostinger.com
 agents.hostinger.com
+http://payments.hostinger.com

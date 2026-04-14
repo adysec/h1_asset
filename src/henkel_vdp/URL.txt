@@ -40,3 +40,7 @@ tpm-qa.henkel-consumer-brands.cn
 uat.ipad.shrndconsumer.henkel-consumer-brands.cn
 uat-smc-analyzer.henkel-consumer-brands.cn
 uat.www.shrndconsumer.henkel-consumer-brands.cn
+mrosolution.henkel-system.com
+pattex.query.henkel-system.com
+ami.henkel-system.com
+adhub.henkel-system.com

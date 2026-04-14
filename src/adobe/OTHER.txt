@@ -14,3 +14,4 @@ Lightroom "Edit suggestions" Tech Preview
 Photoshop AI Assistant
 Firefly Image Models
 Firefly Video Model
+Stock AI Studio

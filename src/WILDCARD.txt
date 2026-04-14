@@ -5475,3 +5475,4 @@ static*.twilio.com
 *.luminor.ee
 *.luminorgroup.com
 *.allyoucare-byhenkel.com
+*.henkel-system.com

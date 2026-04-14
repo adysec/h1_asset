@@ -18144,3 +18144,8 @@ rpc.blockdaemon.testnet.arc.network
 rpc.testnet.arc.network
 api.dicey.com
 travel.crypto.com
+mrosolution.henkel-system.com
+pattex.query.henkel-system.com
+ami.henkel-system.com
+adhub.henkel-system.com
+http://payments.hostinger.com
