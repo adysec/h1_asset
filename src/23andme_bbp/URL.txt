@@ -14,3 +14,11 @@ pd-api.polkadoc.com
 healthaid.lemonaidhealth.com
 lemonaidhealth.com
 www.23andme.com
+merch.23andme.com
+portal.23andme.com
+style.23andme.com
+fulfillment.23andme.com
+discover.23andme.com
+trust.23andme.com
+23andmeresearchinstitute.org
+refer.23andme.com

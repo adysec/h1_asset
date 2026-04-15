@@ -38,3 +38,6 @@ Global Payments Inc
 GP Integrated - PayGateway
 MerchantWare
 Chargeback Help
+Vendara - Jarvis
+Vendara - Gateway
+Vendara - Merchant Portal
