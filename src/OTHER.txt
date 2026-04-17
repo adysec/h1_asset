@@ -1841,3 +1841,4 @@ Stock AI Studio
 Vendara - Jarvis
 Vendara - Gateway
 Vendara - Merchant Portal
+Managed OpenClaw
