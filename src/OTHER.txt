@@ -1842,3 +1842,7 @@ Vendara - Jarvis
 Vendara - Gateway
 Vendara - Merchant Portal
 Managed OpenClaw
+ThreatDown Patch Management
+ThreatDown Device Control
+Any other Malwarebytes and ThreatDown asset
+DRM (Digital Rights Management) System
