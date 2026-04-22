@@ -1,1 +1,2 @@
 https://etherscan.io/token/0xfe18ae03741a5b84e39c295ac9c856ed7991c38e
+https://explorer.cronos.org/token/0x2e53c5586e12a99d4CAE366E9Fc5C14fE9c6495d
