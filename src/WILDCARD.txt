@@ -5477,3 +5477,4 @@ static*.twilio.com
 *.allyoucare-byhenkel.com
 *.henkel-system.com
 *.porchlightgroup.com
+*.superbet.gr
