@@ -128,3 +128,6 @@ com.oplus.studycenter
 com.qpon.merchant
 com.qpon.platform
 com.shopai.apps
+com.katanlabs.bubblepop
+com.katanlabs.matchballgame
+com.fullmetalgamedev.fruitshooting

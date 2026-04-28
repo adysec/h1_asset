@@ -109,3 +109,10 @@ https://ebctest.cybersource.com/pts/v1/transaction-batch-upload
 https://ebctest.cybersource.com/tech-partner-integration
 https://ebctest.cybersource.com/notification-subscriptions
 https://ebctest.cybersource.com/kms/
+www.trialpay.com
+images.demand.cybersource.com
+vdam.visa.com
+app.demand.cybersource.com
+info.authorize.net
+vwcm.visa.com
+info.cybersource.com
