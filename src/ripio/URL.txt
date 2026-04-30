@@ -5,3 +5,4 @@ http://auth.ripio.com
 defi.ripio.com
 b2b-api.ripio.com
 sandbox-b2b.ripio.com
+https://bridge.ripio.com/

@@ -867,3 +867,4 @@
 108602	https://hackerone.com/luminor	Luminor	luminor
 440	https://hackerone.com/coinmate	CoinMate.io	coinmate
 110831	https://hackerone.com/mcgrawhill	McGraw Hill	mcgrawhill
+108943	https://hackerone.com/taxwell-vdp	Taxwell VDP	taxwell-vdp

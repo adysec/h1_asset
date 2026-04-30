@@ -18212,3 +18212,6 @@ developers.pismo.io
 admin-portal.api-xperience.com
 testbank.xs2a.com
 askpeopleteam.visa.com
+taxact.com
+https://bridge.ripio.com/
+login.remitly.com
