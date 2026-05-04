@@ -25,3 +25,4 @@ https://ca-optout.live.web.corebridgefinancial.com/optout/login.jsp
 www.connext.corebridgefinancial.com
 https://ica.live.web.corebridgefinancial.com/distribution/ica/public/login#/
 https://rsenablers.live.web.corebridgefinancial.com/valic/nonparticipant/auth/public/login?appname=pso#/
+https://optout.life2.corebridgefinancial.com/optout/login.jsp

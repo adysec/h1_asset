@@ -1,3 +1,5 @@
 partner.getyourguide.com
 widget.getyourguide.com
 https://partner-public.getyourguide.com/graphql
+www.getyourguide.com
+travelers-api.getyourguide.com
