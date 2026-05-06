@@ -5481,3 +5481,4 @@ static*.twilio.com
 *.bancoplata.mx
 *.ai.8x8.vc
 *.preview.8x8.vc
+*.loctite-pulse.com

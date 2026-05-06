@@ -10,3 +10,4 @@ ob.gocardless.com
 auth0.gocardless.com
 payer-details-sandbox.gocardless.com
 gc4x-api-sandbox.gocardless.com
+http://sso-demo.gocardless-staging.io

@@ -1849,3 +1849,5 @@ DRM (Digital Rights Management) System
 forms.cybersource.com
 *.prod.innovexperiments.com
 Web3 - Smart Contracts Scope
+McIntosh
+Sonus Faber

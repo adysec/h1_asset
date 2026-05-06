@@ -868,3 +868,4 @@
 440	https://hackerone.com/coinmate	CoinMate.io	coinmate
 110831	https://hackerone.com/mcgrawhill	McGraw Hill	mcgrawhill
 108943	https://hackerone.com/taxwell-vdp	Taxwell VDP	taxwell-vdp
+109309	https://hackerone.com/coupang_tw	Coupang Taiwan	coupang_tw

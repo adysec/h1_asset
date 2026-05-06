@@ -208,3 +208,4 @@
 *.esalon.com
 *.allyoucare-byhenkel.com
 *.henkel-system.com
+*.loctite-pulse.com

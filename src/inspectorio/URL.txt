@@ -6,3 +6,4 @@ rise-api.stg.inspectorio.com
 docuflow.stg.inspectorio.com
 id.stg.inspectorio.com
 files-stg.inspectorio.com
+https://collabora.stg.inspectorio.com
