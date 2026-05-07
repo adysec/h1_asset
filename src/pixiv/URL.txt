@@ -15,3 +15,4 @@ https://vroid.com/studio
 coban.pixiv.net
 pastela.app
 comic-indies.pixiv.net
+premium.pixiv.net
