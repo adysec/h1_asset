@@ -886,3 +886,5 @@ https://github.com/worldcoin/orb-messages
 https://github.com/worldcoin/orb-secure-element
 https://github.com/worldcoin/orb-relay-messages
 https://github.com/worldcoin/orb-rustzone
+github.com/anthropics
+https://github.com/circlefin/arc-remote-signer

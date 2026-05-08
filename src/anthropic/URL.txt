@@ -1,0 +1,6 @@
+claude.ai
+console.anthropic.com
+api.anthropic.com
+docs.anthropic.com
+support.anthropic.com
+anthropic.atlassian.com

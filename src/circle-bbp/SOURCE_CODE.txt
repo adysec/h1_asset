@@ -6,3 +6,4 @@ https://github.com/circlefin/aptos-cctp
 https://github.com/circlefin/malachite
 https://github.com/circlefin/arc-node
 https://github.com/circlefin/stablecoin-xlm
+https://github.com/circlefin/arc-remote-signer
