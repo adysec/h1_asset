@@ -13,3 +13,4 @@ app.taxjar.com
 *.recko.ai
 *.link.co
 www.stripe.partners
+mcp.stripe.com
