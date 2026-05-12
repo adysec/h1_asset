@@ -18429,3 +18429,7 @@ https://estathefornopizza26.estathe.it/
 https://www.tictacmy.com/my/en/xp/promotion/
 https://admin.tictacph.com
 https://www.tictacph.com/ph/en/xp/promotion/mf2026/
+factory.qr-henkel-a.cn
+digitalplatform.qr-henkel-a.cn
+test-digitalplatform.qr-henkel-a.cn
+test-factory.qr-henkel-a.cn

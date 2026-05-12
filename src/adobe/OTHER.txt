@@ -15,3 +15,4 @@ Photoshop AI Assistant
 Firefly Image Models
 Firefly Video Model
 Stock AI Studio
+Behance Freelance Job creation

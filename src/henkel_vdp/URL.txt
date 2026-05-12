@@ -44,3 +44,7 @@ mrosolution.henkel-system.com
 pattex.query.henkel-system.com
 ami.henkel-system.com
 adhub.henkel-system.com
+factory.qr-henkel-a.cn
+digitalplatform.qr-henkel-a.cn
+test-digitalplatform.qr-henkel-a.cn
+test-factory.qr-henkel-a.cn
