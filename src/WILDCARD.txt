@@ -5482,3 +5482,5 @@ static*.twilio.com
 *.ai.8x8.vc
 *.preview.8x8.vc
 *.loctite-pulse.com
+*.wethertex.co.uk
+*.ecorend.co.uk

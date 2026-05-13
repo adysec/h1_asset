@@ -209,3 +209,5 @@
 *.allyoucare-byhenkel.com
 *.henkel-system.com
 *.loctite-pulse.com
+*.wethertex.co.uk
+*.ecorend.co.uk
