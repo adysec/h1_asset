@@ -4,3 +4,4 @@ http://*.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
 *.moonpay.com
+*.hel.io
