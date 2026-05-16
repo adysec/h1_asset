@@ -5485,3 +5485,5 @@ static*.twilio.com
 *.wethertex.co.uk
 *.ecorend.co.uk
 *.hel.io
+*.www.aspectenterprise.com
+*.playstation.com

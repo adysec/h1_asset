@@ -660,3 +660,4 @@
 *.wtwit2.wallstreetsystems.com
 *.www.allegrodev.com
 *.www.allegrodevelopment.com
+*.www.aspectenterprise.com
