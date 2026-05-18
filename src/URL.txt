@@ -18444,3 +18444,6 @@ session-share.playstation.com
 compete.playstation.com
 web.np.playstation.com
 www.playstation.com
+https://e-global.heytap.com/marketing/login
+http://grancofcu-dc.cert.fec-dc.fiservapps.com
+http://greateriefcu-dc.cert.fec-dc.fiservapps.com

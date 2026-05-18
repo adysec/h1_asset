@@ -780,3 +780,5 @@ http://gmefcu-dc.cert.fec-dc.fiservapps.com
 http://gofirstclass-dc.cert.fec-dc.fiservapps.com
 http://goldencirclecu-dc.cert.fec-dc.fiservapps.com
 http://gracofcu-dc.cert.fec-dc.fiservapps.com
+http://grancofcu-dc.cert.fec-dc.fiservapps.com
+http://greateriefcu-dc.cert.fec-dc.fiservapps.com
