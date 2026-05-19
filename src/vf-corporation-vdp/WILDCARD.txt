@@ -1,0 +1,2 @@
+*.vfc-int.com
+*.vfc.com

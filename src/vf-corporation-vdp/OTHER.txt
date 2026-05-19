@@ -1,0 +1,3 @@
+*.vans.com
+*.thenorthface.com
+*.timberland.com
