@@ -18457,3 +18457,10 @@ http://hcffcu-dc.cert.fec-dc.fiservapps.com
 http://hcuonline-dn.financial-net.com
 http://heafcu-dn.financial-net.com
 crew-wallet.intg.appslatam.com
+http://hecoefcu-dn.financial-net.com
+http://heritageusa-dn.financial-net.com
+http://hetelfcu-dn.financial-net.com
+http://hfdfcu-dn.financial-net.com
+http://hibbingccu-dn.financial-net.com
+http://highwayfcu-dn.financial-net.com
+http://homefcu-dn.financial-net.com
