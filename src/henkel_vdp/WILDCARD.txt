@@ -211,3 +211,8 @@
 *.loctite-pulse.com
 *.wethertex.co.uk
 *.ecorend.co.uk
+*.demert.com
+*.demertbrands.com
+*.notyourmothers.com
+*.nymbrands.com,uk,co.uk
+*.nymhair.co.uk,.com,.uk

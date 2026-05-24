@@ -5490,3 +5490,8 @@ static*.twilio.com
 *.vfc-int.com
 *.vfc.com
 *.gymsharkapps.io
+*.demert.com
+*.demertbrands.com
+*.notyourmothers.com
+*.nymbrands.com,uk,co.uk
+*.nymhair.co.uk,.com,.uk
