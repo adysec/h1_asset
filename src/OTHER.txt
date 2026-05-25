@@ -1858,3 +1858,4 @@ Behance Freelance Job creation
 *.vans.com
 *.thenorthface.com
 *.timberland.com
+Elastic credentials
