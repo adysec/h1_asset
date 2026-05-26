@@ -7,3 +7,4 @@ elastic.co credentials
 Software Supply Chain
 Elastic Clients
 Elastic credentials
+Elastic Credentials

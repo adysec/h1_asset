@@ -1,0 +1,2 @@
+Windsurf IDE
+Windsurf Plugins
