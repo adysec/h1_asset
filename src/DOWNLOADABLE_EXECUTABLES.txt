@@ -285,3 +285,4 @@ singlestore-operator
 Dia Browser
 Redis Insight
 Save to Spotify CLI
+grok-build-cli
