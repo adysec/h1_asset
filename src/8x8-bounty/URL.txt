@@ -39,3 +39,5 @@ support-portal.8x8.com
 callroute.com
 callroute.io
 sipsynergy.co.uk
+resolve.8x8.com
+admin-resolve.8x8.com

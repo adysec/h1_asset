@@ -1862,3 +1862,7 @@ Elastic credentials
 Windsurf IDE
 Windsurf Plugins
 Elastic Credentials
+Stripe CLI
+Stripe Projects
+Stripe fiat-to-crypto onramp
+Global Payouts

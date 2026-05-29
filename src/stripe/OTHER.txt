@@ -29,3 +29,8 @@ Sandboxes
 Stripe Organizations
 Smokescreen Open Source Project
 Munkisrv Open Source Project
+Stripe CLI
+Stripe Projects
+Stripe fiat-to-crypto onramp
+Global Payouts
+Customer Portal
