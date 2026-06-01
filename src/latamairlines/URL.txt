@@ -24,3 +24,4 @@ https://skills-manager.dev.appslatam.com
 acintra.appslatam.com
 crew-wallet.intg.appslatam.com
 chat.latamairlines.com
+smcloud.appslatam.com
