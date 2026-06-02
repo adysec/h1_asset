@@ -72,3 +72,4 @@ http://*.plateng.io
 *.paddypartners.com
 *.ppbdev.com
 *.dibz.co.uk
+*.ppb.com
