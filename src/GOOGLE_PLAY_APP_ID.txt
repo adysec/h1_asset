@@ -740,3 +740,6 @@ com.whatnot_mobile
 https://play.google.com/store/apps/details?id=com.myntra.android
 com.tastemade.app
 SUPERAPP (AOS)
+https://play.google.com/store/apps/details?id=com.phonepe.app&pcampaignid=web_share
+https://play.google.com/store/apps/details?id=com.phonepe.stockbroking&pcampaignid=web_share
+https://play.google.com/store/apps/details?id=com.phonepe.app.business&pcampaignid=web_share

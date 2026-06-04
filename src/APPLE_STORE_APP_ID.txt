@@ -699,3 +699,6 @@ Whatnot: Shop, Sell, Connect
 https://apps.apple.com/in/app/myntra-fashion-shopping-app/id907394059
 971197898
 SUPERAPP (IOS)
+https://apps.apple.com/in/app/phonepe-secure-payments-app/id1170055821
+https://apps.apple.com/in/app/share-market-stock-trading-app/id6444640366
+https://apps.apple.com/in/app/phonepe-business-merchant-app/id1463742453
