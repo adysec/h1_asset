@@ -14,3 +14,4 @@ Foot Locker MENA_MENA_ANDROID_com.footlocker.mena
 Victoria's Secret MENA_MENA_ANDROID_com.vs.mena
 Mothercare MENA_MENA_ANDROID_com.mothercare.mena
 com.chipotle.mena
+com.starbucks.tr
