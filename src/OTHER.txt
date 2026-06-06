@@ -1866,3 +1866,4 @@ Stripe CLI
 Stripe Projects
 Stripe fiat-to-crypto onramp
 Global Payouts
+Authentication & ATO

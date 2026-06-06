@@ -5502,3 +5502,12 @@ www.*gogo*.com
 www.gogo*.*
 www.*.gogoair.*.com
 *.ppb.com
+*.hhc247.org
+*.khealth-test.com
+*.csconnect.org
+*.mgbcareconnect.org
+*.northwellprimarycarenow.com
+*.hmh247.org
+*.primarycareondemand.mayoclinic.org
+*.novanthealthvirtualprimarycare.org
+*.pennmedicine.connect-visit.com

@@ -3,3 +3,4 @@ Shopify Mobile Applications
 Shopify Scripts Platform
 Shopify Third Party Apps
 Shopify Third Party Store
+Authentication & ATO
