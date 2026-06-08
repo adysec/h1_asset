@@ -23,3 +23,4 @@ platform.tiktokpangle.us
 pangle-mediation-ttp.tiktokpangle.us
 www.soundonw.us
 tiktokdata-us-open.tiktokw.us
+www.soundon.global
