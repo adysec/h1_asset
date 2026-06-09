@@ -6,3 +6,4 @@ http1mustdie.com
 collections.portswigger.net
 share.portswigger.net
 links.portswigger.net
+id.portswigger.net
