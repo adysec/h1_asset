@@ -1,1 +1,2 @@
 airtable.js SDK (https://www.npmjs.com/package/airtable)
+https://www.npmjs.com/package/@airtable/mcp-cli

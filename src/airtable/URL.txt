@@ -3,3 +3,4 @@ staging.airtable.com
 *.staging.airtable.com
 api-staging.airtable.com
 https://staging.airtable.com/admin
+mcp.staging.airtable.com

@@ -18556,3 +18556,5 @@ sodastream.it
 www.soundon.global
 https://mdmproject.thorntontomasetti.com/
 id.portswigger.net
+cosmos-vision.appslatam.com
+mcp.staging.airtable.com

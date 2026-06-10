@@ -26,3 +26,4 @@ crew-wallet.intg.appslatam.com
 chat.latamairlines.com
 smcloud.appslatam.com
 ema.appslatam.com
+cosmos-vision.appslatam.com
