@@ -1,0 +1,4 @@
+*.bcbits.com
+*.epicgames.dev
+*.fallguys.com
+*.twinmotion.com

@@ -889,3 +889,5 @@ https://github.com/worldcoin/orb-rustzone
 github.com/anthropics
 https://github.com/circlefin/arc-remote-signer
 https://www.npmjs.com/package/@airtable/mcp-cli
+EOS SDK
+EpicGames/UnrealEngine_v5.2

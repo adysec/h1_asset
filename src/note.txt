@@ -873,3 +873,4 @@
 108579	https://hackerone.com/cognition	Cognition	cognition
 108787	https://hackerone.com/gogo_vdp	Gogo VDP	gogo_vdp
 111416	https://hackerone.com/phonepe_vdp	PhonePe	phonepe_vdp
+112239	https://hackerone.com/epicgames-vdp	Epic Games VDP	epicgames-vdp

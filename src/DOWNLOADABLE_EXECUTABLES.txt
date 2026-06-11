@@ -286,3 +286,8 @@ Dia Browser
 Redis Insight
 Save to Spotify CLI
 grok-build-cli
+Fallguys Game
+FortniteClient-Mac-Shipping.app
+FortniteClient-Win64-Shipping_BE.exe
+FortniteClient-Win64-Shipping_EAC.exe
+UnrealEditorFortnite.exe

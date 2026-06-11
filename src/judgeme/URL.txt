@@ -9,3 +9,4 @@ shop.judge.me
 woocommerce-adapter.judge.me
 bigcommerce-adapter.judge.me
 cache.judge.me
+insights.judgeme.dev
