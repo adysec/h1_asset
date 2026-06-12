@@ -891,3 +891,4 @@ https://github.com/circlefin/arc-remote-signer
 https://www.npmjs.com/package/@airtable/mcp-cli
 EOS SDK
 EpicGames/UnrealEngine_v5.2
+bbPress Core

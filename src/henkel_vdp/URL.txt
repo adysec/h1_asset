@@ -48,3 +48,7 @@ factory.qr-henkel-a.cn
 digitalplatform.qr-henkel-a.cn
 test-digitalplatform.qr-henkel-a.cn
 test-factory.qr-henkel-a.cn
+henkelprod.service-now.com
+henkeltest.service-now.com
+henkeldev.service-now.com
+henkelsand.service-now.com

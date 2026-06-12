@@ -6,3 +6,4 @@ Gutenberg
 GlotPress
 WP-CLI
 Official WordPress plugins
+bbPress Core
