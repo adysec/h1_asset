@@ -18580,3 +18580,16 @@ henkeldev.service-now.com
 henkelsand.service-now.com
 https://hackerone-m1rtuq8orz.hbstaging.website/
 pubtools.private.8x8cloud.net
+www.victoriassecretbeauty.ro
+www.starbucks.az
+www.shayakahve.com.tr
+media.victoriassecret.cz
+tracking.victoriassecret.cz
+media.bathandbodyworks.ro
+www.bathandbodyworks.ro
+apigw.dev.alshaya.com
+mft.dev.alshaya.com
+odi.dev.alshaya.com
+soa.dev.alshaya.com
+www.customercare.alshaya.com
+www.dev.alshaya.com

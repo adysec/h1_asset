@@ -5513,3 +5513,5 @@ www.*.gogoair.*.com
 *.pennmedicine.connect-visit.com
 *.soundon.global
 *.fallguys.com
+*.bouchonbakeryme.com/
+*.8x8.studio

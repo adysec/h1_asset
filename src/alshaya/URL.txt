@@ -76,3 +76,16 @@ apps.havelockone.com
 cloudconnect.havelockone.com
 parallels.havelockone.com
 cloud.havelockone.com
+www.victoriassecretbeauty.ro
+www.starbucks.az
+www.shayakahve.com.tr
+media.victoriassecret.cz
+tracking.victoriassecret.cz
+media.bathandbodyworks.ro
+www.bathandbodyworks.ro
+apigw.dev.alshaya.com
+mft.dev.alshaya.com
+odi.dev.alshaya.com
+soa.dev.alshaya.com
+www.customercare.alshaya.com
+www.dev.alshaya.com
