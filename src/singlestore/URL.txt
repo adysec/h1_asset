@@ -7,3 +7,4 @@ authsvc.singlestore.com
 singlestore.com
 nimbus-gateway.singlestore.com
 phone-home.singlestore.com
+mcp.singlestore.com

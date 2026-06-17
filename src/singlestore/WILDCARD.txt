@@ -5,3 +5,5 @@ bottle-dup.*.svc.singlestore.com
 nova-gateway.*.svc.singlestore.com
 ai.*.svc.singlestore.com
 apps.*.svc.singlestore.com
+*.svc.singlestore.com
+*.cloud.singlestore.com

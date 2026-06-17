@@ -5515,3 +5515,5 @@ www.*.gogoair.*.com
 *.fallguys.com
 *.bouchonbakeryme.com/
 *.8x8.studio
+*.svc.singlestore.com
+*.cloud.singlestore.com
