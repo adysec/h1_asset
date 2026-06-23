@@ -19,3 +19,7 @@ https://*.theossteam.com
 *.epsilon-inc.dev
 *.savecloud.biz
 *.savedev.biz
+*.drs.com
+*.drs.ca
+*.drsrada.com
+*.leonardodrs.com

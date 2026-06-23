@@ -1,1 +1,2 @@
 93679	https://hackerone.com/kraken-tech	Kraken Tech	kraken-tech
+93679	https://hackerone.com/kraken-tech	Kraken Tech (VDP)	kraken-tech

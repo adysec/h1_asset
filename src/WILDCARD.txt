@@ -5517,3 +5517,7 @@ www.*.gogoair.*.com
 *.8x8.studio
 *.svc.singlestore.com
 *.cloud.singlestore.com
+*.drs.com
+*.drs.ca
+*.drsrada.com
+*.leonardodrs.com
