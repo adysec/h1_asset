@@ -1,1 +1,4 @@
 *.devin.ai
+*.windsurf.com
+*.cognition.com
+*.cognition.ai

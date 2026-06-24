@@ -1920,3 +1920,4 @@ Third-party services not managed by Epicgames
 Twinmotion
 UnrealEngine
 Any other ThreatDown asset
+Devin Desktop

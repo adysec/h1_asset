@@ -5521,3 +5521,6 @@ www.*.gogoair.*.com
 *.drs.ca
 *.drsrada.com
 *.leonardodrs.com
+*.windsurf.com
+*.cognition.com
+*.cognition.ai

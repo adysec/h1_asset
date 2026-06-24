@@ -1,2 +1,3 @@
 Windsurf IDE
 Windsurf Plugins
+Devin Desktop
