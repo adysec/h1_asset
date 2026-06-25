@@ -23,3 +23,5 @@ https://*.theossteam.com
 *.drs.ca
 *.drsrada.com
 *.leonardodrs.com
+*.safran-dsi.com
+*.optics1.com

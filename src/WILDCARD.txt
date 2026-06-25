@@ -5524,3 +5524,5 @@ www.*.gogoair.*.com
 *.windsurf.com
 *.cognition.com
 *.cognition.ai
+*.safran-dsi.com
+*.optics1.com
