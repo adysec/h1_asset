@@ -6,3 +6,4 @@ GenAI Apps under *.amazon.*
 Constitutional Classifiers
 Notion AI
 Player Support Chatbot
+Agentic Wallet
