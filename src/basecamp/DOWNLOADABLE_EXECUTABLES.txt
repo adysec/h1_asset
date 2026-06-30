@@ -2,3 +2,4 @@ basecamp3.exe
 Basecamp.app
 HEY.app
 hey-mail
+basecamp-setup.exe
