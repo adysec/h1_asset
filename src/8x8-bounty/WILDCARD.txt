@@ -47,3 +47,4 @@ qm-*.8x8.com
 *.ai.8x8.vc
 *.preview.8x8.vc
 *.8x8.studio
+*.labs.8x8.com

@@ -5526,3 +5526,4 @@ www.*.gogoair.*.com
 *.cognition.ai
 *.safran-dsi.com
 *.optics1.com
+*.labs.8x8.com

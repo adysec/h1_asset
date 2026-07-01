@@ -18599,3 +18599,7 @@ mcp.singlestore.com
 https://www.agoda.com/book/
 https://disclosure-test.six-exchange-regulation.com/
 app.basecamp.com
+www.thorntons.com
+www.fanniemay.com
+poc.ezshield.biz
+mcp.8x8.com

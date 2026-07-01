@@ -322,3 +322,5 @@ https://apd-talking-staging-eu-west-1.applaydu.com/bff
 https://apd-talking-ap-southeast-1.applaydu.com/bff/
 https://apd-talking-eu-west-1.applaydu.com/bff/
 https://www.tictac.com/de/de/xp/lollapalooza-berlin/
+www.thorntons.com
+www.fanniemay.com

@@ -42,3 +42,4 @@ sipsynergy.co.uk
 resolve.8x8.com
 admin-resolve.8x8.com
 pubtools.private.8x8cloud.net
+mcp.8x8.com
