@@ -1,0 +1,1 @@
+114051	https://hackerone.com/anthropic-cyber-jailbreak	Anthropic Cyber Jailbreak	anthropic-cyber-jailbreak

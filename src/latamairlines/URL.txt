@@ -27,3 +27,4 @@ chat.latamairlines.com
 smcloud.appslatam.com
 ema.appslatam.com
 cosmos-vision.appslatam.com
+portaltf.appslatam.com

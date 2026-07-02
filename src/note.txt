@@ -876,3 +876,4 @@
 112239	https://hackerone.com/epicgames-vdp	Epic Games VDP	epicgames-vdp
 81953	https://hackerone.com/agoda-public	Agoda Public	agoda-public
 93679	https://hackerone.com/kraken-tech	Kraken Tech (VDP)	kraken-tech
+114051	https://hackerone.com/anthropic-cyber-jailbreak	Anthropic Cyber Jailbreak	anthropic-cyber-jailbreak
