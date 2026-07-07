@@ -52,3 +52,5 @@ henkelprod.service-now.com
 henkeltest.service-now.com
 henkeldev.service-now.com
 henkelsand.service-now.com
+dmeops.schwarzkopfclub.com.cn
+dev-aip.henkel-adhesives.com.cn
