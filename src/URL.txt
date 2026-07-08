@@ -18669,3 +18669,6 @@ e1ch.neustar.biz
 design-system.canada.ca
 dmeops.schwarzkopfclub.com.cn
 dev-aip.henkel-adhesives.com.cn
+app.codacy.com
+api.codacy.com
+kelsen.com

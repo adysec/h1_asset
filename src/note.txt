@@ -877,3 +877,4 @@
 81953	https://hackerone.com/agoda-public	Agoda Public	agoda-public
 93679	https://hackerone.com/kraken-tech	Kraken Tech (VDP)	kraken-tech
 114051	https://hackerone.com/anthropic-cyber-jailbreak	Anthropic Cyber Jailbreak	anthropic-cyber-jailbreak
+20434	https://hackerone.com/codacy	Codacy	codacy
