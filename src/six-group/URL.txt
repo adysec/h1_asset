@@ -4,3 +4,4 @@ https://www.sdx.com/
 https://web3.sdx.com
 https://secure-test.six-swiss-exchange.com/
 https://disclosure-test.six-exchange-regulation.com/
+http://ibt-test.six-group.com

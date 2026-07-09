@@ -22,3 +22,12 @@ discover.23andme.com
 trust.23andme.com
 23andmeresearchinstitute.org
 refer.23andme.com
+23andme.org/blog
+23andme.org/education
+23andme.org/media-center
+23andme.org/clinicians
+store.23andme.org
+www.23andme.org
+style.23andme.org
+23andme.org/ancestry/last-names
+23andme.org/research
