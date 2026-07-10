@@ -1,3 +1,4 @@
 Mozilla VPN Clients
 Product Delivery
 Mozilla Ad Routing Service
+Firefox Homepage Newtab
