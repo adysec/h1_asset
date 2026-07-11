@@ -878,3 +878,4 @@
 93679	https://hackerone.com/kraken-tech	Kraken Tech (VDP)	kraken-tech
 114051	https://hackerone.com/anthropic-cyber-jailbreak	Anthropic Cyber Jailbreak	anthropic-cyber-jailbreak
 20434	https://hackerone.com/codacy	Codacy	codacy
+109096	https://hackerone.com/discover-vdp	Discover VDP	discover-vdp

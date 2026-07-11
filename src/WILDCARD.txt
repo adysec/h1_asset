@@ -5527,3 +5527,5 @@ www.*.gogoair.*.com
 *.safran-dsi.com
 *.optics1.com
 *.labs.8x8.com
+*.discover.com
+*.discoverfinancial.com
