@@ -7,3 +7,4 @@ codacontent.io
 codahosted.io
 coda.grammarly.com
 coda.io
+mail.superhuman.com

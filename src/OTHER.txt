@@ -1926,3 +1926,6 @@ Hilton Third Party Applications
 Managed Property Assets
 Figma Weave
 Firefox Homepage Newtab
+Superhuman Mail Desktop App
+Superhuman Mail Chrome Extension
+Superhuman Mail
