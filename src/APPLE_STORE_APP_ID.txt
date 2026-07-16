@@ -707,3 +707,4 @@ com.getyourguide.mobile.GetYourGuide
 app.playwonderbox.com
 apple.co/-HorizonChase2
 id635150066
+com.britishairways.BAFlights
