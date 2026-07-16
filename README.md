@@ -14,7 +14,7 @@ HackerOne SRC 资产，每日更新
 克隆这个项目到本地：
 
 ```bash
-git clone https://github.com/adysec/h1_asset.git
+git clone https://github.com/adysec/h1_asset
 ```
 
 进入项目目录：
