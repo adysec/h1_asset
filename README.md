@@ -24,4 +24,4 @@ cd h1_asset
 python h1_asset.py
 ```
 
-HackerOne项目在 `src` 文件夹中
+HackerOne项目在 `src/` 文件夹中
