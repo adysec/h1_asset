@@ -19,3 +19,6 @@ dx.deriv.com
 http://partners.deriv.com
 deriv.partners
 partners.deriv.com
+home.deriv.com
+core-api.deriv.com
+https://api-core.deriv.com

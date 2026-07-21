@@ -18691,3 +18691,7 @@ www.truebluetravel.com/
 jetbluevacations.com
 http://www.mactaggart-scott.com
 mail.superhuman.com
+payflow.appslatam.com
+home.deriv.com
+core-api.deriv.com
+https://api-core.deriv.com

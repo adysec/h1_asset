@@ -5529,3 +5529,5 @@ www.*.gogoair.*.com
 *.labs.8x8.com
 *.discover.com
 *.discoverfinancial.com
+*.www.olf.com
+*.www.openlink.com

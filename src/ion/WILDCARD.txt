@@ -661,3 +661,5 @@
 *.www.allegrodev.com
 *.www.allegrodevelopment.com
 *.www.aspectenterprise.com
+*.www.olf.com
+*.www.openlink.com
