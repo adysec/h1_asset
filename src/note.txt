@@ -879,3 +879,4 @@
 114051	https://hackerone.com/anthropic-cyber-jailbreak	Anthropic Cyber Jailbreak	anthropic-cyber-jailbreak
 20434	https://hackerone.com/codacy	Codacy	codacy
 109096	https://hackerone.com/discover-vdp	Discover VDP	discover-vdp
+58184	https://hackerone.com/abercrombie_fitch_bbp	Abercrombie & Fitch Bug Bounty	abercrombie_fitch_bbp

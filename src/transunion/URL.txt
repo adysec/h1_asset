@@ -758,3 +758,4 @@ sipas-ca-west.ccid.neustar.biz
 sipvs-ca.ccid.neustar.biz
 poc.ezshield.biz
 e1ch.neustar.biz
+treinamento-crivoapi.crivo.com.br

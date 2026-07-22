@@ -1,0 +1,1 @@
+58184	https://hackerone.com/abercrombie_fitch_bbp	Abercrombie & Fitch Bug Bounty	abercrombie_fitch_bbp

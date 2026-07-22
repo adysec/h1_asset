@@ -13,3 +13,4 @@ hiltonlocalbiz.com
 *.hiltonjapan.co.jp
 *.hiltonmanage.com
 hiltonhotels.jp
+resmax.hilton.com
