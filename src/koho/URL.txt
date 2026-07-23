@@ -7,3 +7,6 @@ app.koho.ca
 webgateway.koho.ca
 www.koho.ca
 usercontent.koho.ca
+login.koho.ca
+assets.koho.ca
+clicks.koho.ca

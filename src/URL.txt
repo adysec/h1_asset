@@ -18771,3 +18771,9 @@ lakeland-qa.gleague.nba.com
 treinamento-crivoapi.crivo.com.br
 https://fx-qa.np.bolsasymercados.es/
 resmax.hilton.com
+sabal.com
+login.koho.ca
+assets.koho.ca
+clicks.koho.ca
+srtlatam.appslatam.com
+supportdispatch.appslatam.com
